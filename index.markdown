@@ -8,6 +8,9 @@ hero_link_text: Action!
 
 # Callouts einbinden
 callouts: funk123
+
+hero_image: /img/ortst.jpg
+#hero_height: is-large
 ---
 
 Berggeissen, herzlich willkommen!
