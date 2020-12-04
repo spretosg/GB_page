@@ -1,6 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
+title: The fucking landing page
+#hero_height: is-large
+hero_link: https://www.youtube.com/watch?v=4jq9jByzTlk
+hero_link_text: Action!
 ---
+
+Hello World!
