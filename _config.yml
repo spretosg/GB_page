@@ -34,6 +34,7 @@ theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
+  - jekyll-remote_theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
