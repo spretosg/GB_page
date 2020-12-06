@@ -1,8 +1,8 @@
 style: is-light
 height: is-medium
 items:
-  - title: Der Lauf 2021
-    subtitle: 
+  - title: Die Glarner Berggeiss
+    subtitle: Finde alle Infos zur 2.Ausgabe der Glarnerberggeiss am 27.8.2021
     icon: fa-running
     description: >
       Finde hier alle Informationen zur nächsten Ausgabe der Glarner Berggeiss
@@ -11,21 +11,20 @@ items:
     call_to_action_link: /page-2/
     
     
-  - title: Anmeldung
+  - title: Lauf mit
     subtitle:  öffnet am 1.5.2021
     icon: fa-guitar
     description: >
       Melde dich ab 1.5.2021 für einen der beiden Läufe der 2. Glarnerberggeiss an.
 
-      For example, such as this.
-    call_to_action_name: Call to action 2
-    call_to_action_link: /page-2/
+    call_to_action_name: Anmeldung
+    call_to_action_link: https://my.raceresult.com/162085/
     
     
   - title: Rangliste 2020
     subtitle: 
     icon: fa-medal
     description: >
-      Die Ergebnisse vom 2020 auf raceresult
+      Die Ergebnisse der ersten Ausgabe auf raceresult
     call_to_action_name: Rangliste 
     call_to_action_link: https://my.raceresult.com/146939/participants?lang=de

@@ -9,7 +9,7 @@ hero_link_text: Bilder 2020
 # Callouts einbinden
 callouts: funk123
 
-hero_image: /img/wide_v3.jpg
+hero_image: /img/ortst.jpg
 #hero_height: is-large
 ---
 
