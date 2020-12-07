@@ -33,6 +33,7 @@ remote_theme: ureber/bulma-clean-theme
 plugins:
     - jekyll-feed
     - jekyll-remote-theme
+    - jekyll-include-cache
 
 
 # Exclude from processing.
