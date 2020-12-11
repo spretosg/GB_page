@@ -1,13 +1,13 @@
 - title: 1.Glarenerberggeiss 18.9.20 
   images:
-    - link: https://via.placeholder.com/800x450
-      large_link: https://via.placeholder.com/1200x675
+    - link: /img/img2.JPG
+      large_link: /img/img2.JPG
       alt: The alt text for the image
       description: |-
         The image description can be written in **markdown** if required
       ratio: is-16by9
-    - link: https://via.placeholder.com/800x600
-      large_link: /img/img1
+    - link: /img/img1.JPG
+      large_link: img/img1.JPG
       alt: The alt text for the image
       description: The image description
-      ratio: is-4by3
+      ratio: is-445x295
