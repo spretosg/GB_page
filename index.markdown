@@ -14,9 +14,13 @@ hero_image: /GB_page/img/ortst.jpg
 ---
 
 Berggeissen, herzlich willkommen!
-Am Freitag 27.8.2021 findet die 2. Ausgabe der Glarnerberggeiss Berglauf in Braunwald statt. Wir sind gerade dabei die Webseite neu zu gestalten. 
-Die Anmeldung und alle Infos sind ab 1.5.2021 verfügbar.
 
-Nur soviel, es wird zwei Läufe geben, den "Klassiker" dieselbe Strecke über 5km und 700 Hm, sowie eine neue, längere Herausforderung den "Belvedere" über 14km und 1100 Hm.
+Am Freitag 27.8.2021 findet die 2. Ausgabe der Glarnerberggeiss Berglauf in Braunwald statt. Wir sind gerade dabei, die Webseite neu zu gestalten. 
+Die Anmeldung und alle Infos sind ab dem 1.5.2021 verfügbar.
+
+Nur soviel sei verraten, es wird zwei Läufe geben
+
+ - den "Klassiker" - dieselbe Strecke über 5km und 700 Hm
+ - den "Belvedere" - die neue, längere Herausforderung über ca. 14km und 1100 Hm
 
 

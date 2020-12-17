@@ -2,20 +2,20 @@ style: is-light
 height: is-medium
 items:
   - title: Die Glarner Berggeiss
-    subtitle: Finde alle Infos zur 2. Ausgabe der Glarner Berggeiss am 27.8.2021
+    subtitle: 
     icon: fa-running
     description: >
-      Finde hier alle Informationen zur nächsten Ausgabe der Glarner Berggeiss
+      Finde hier alle Informationen zur nächsten Ausgabe vom 27.8.2021
 
     call_to_action_name: Infos
     call_to_action_link: /der_lauf/
     
     
   - title: Lauf mit!
-    subtitle:  öffnet am 1.5.2021
+    subtitle:  
     icon: fa-guitar
     description: >
-      Melde dich ab 1.5.2021 für einen der beiden Läufe der 2. Glarner Berggeiss an.
+      Melde dich ab dem 1.5.2021 online an.
 
     call_to_action_name: Anmeldung
     call_to_action_link: https://my.raceresult.com/162085/
