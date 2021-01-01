@@ -1,0 +1,16 @@
+alignment: is-left
+style: is-boxed
+size: is-large
+items:
+  - name: Programm
+    link: /program/
+    icon: fa-play
+  - name: Klassiker
+    link: /der_klassiker/
+    icon: fa-smile-wink
+  - name: Belvedere
+    link: /belvedere/
+    icon: fa-star
+  - name: Weitere Infos
+    link: /weitere_infos/
+    icon: fa-bars

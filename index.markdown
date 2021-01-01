@@ -20,7 +20,7 @@ Die Anmeldung und alle Infos sind ab dem 1.5.2021 verfügbar.
 
 Nur soviel sei verraten, es wird zwei Läufe geben
 
- - den "Klassiker" - dieselbe Strecke über 5km und 700 Hm
- - den "Belvedere" - die neue, längere Herausforderung über ca. 14km und 1100 Hm
+ - den "Klassiker" - dieselbe Strecke über 5.5km und 660 Hm
+ - den "Belvedere" - die neue, längere Herausforderung über ca. 12.6 km und 1200 Hm
 
 

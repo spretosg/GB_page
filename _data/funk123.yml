@@ -1,19 +1,18 @@
 style: is-light
 height: is-medium
 items:
-  - title: Die Glarner Berggeiss
+  - title: Die 2. Glarner Berggeiss 
     subtitle: 
     icon: fa-running
     description: >
-      Finde hier alle Informationen zur nächsten Ausgabe vom 27.8.2021
+      Was dich bei der nächsten Ausgabe vom 27.08.2021 erwartet
 
     call_to_action_name: Infos
     call_to_action_link: /der_lauf/
     
-    
   - title: Lauf mit!
     subtitle:  
-    icon: fa-guitar
+    icon: fa-pencil-alt
     description: >
       Melde dich ab dem 1.5.2021 online an.
 
@@ -28,3 +27,21 @@ items:
       Die Ergebnisse der ersten Ausgabe auf raceresult
     call_to_action_name: Rangliste 
     call_to_action_link: https://my.raceresult.com/146939/participants?lang=de
+    
+    
+  - title: Sponsoren
+    subtitle: 
+    icon: fa-heart
+    description: >
+      Die Unterstützer der Glarner Berggeiss
+    call_to_action_name: Sponsoren
+    call_to_action_link: /sponsoren/
+    
+    
+  - title: Kontakt
+    subtitle: 
+    icon: fa-address-card
+    description: >
+      Für ungelöste Fragen
+    call_to_action_name: Kontakt
+    call_to_action_link: /contact/
