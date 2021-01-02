@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Glarnerberggeiss - Berglauf in Braunwald
+title:
 
 # Link-Button im Header
-hero_link: im_gallery/
-hero_link_text: Bilder 2020
+hero_link: der_lauf/
+hero_link_text: 27.08.2021
 
 # Callouts einbinden
 callouts: funk123
 
-hero_image: /GB_page/img/ortst.jpg
-#hero_height: is-large
+hero_image: /GB_page/img/new_page_210102.jpg
+hero_height: is-medium
 ---
 
 Berggeissen, herzlich willkommen!
