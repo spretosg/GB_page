@@ -8,7 +8,7 @@ items:
       Was dich bei der nächsten Ausgabe vom 27.08.2021 erwartet
 
     call_to_action_name: Infos
-    call_to_action_link: /der_lauf/
+    call_to_action_link: http://www.glarnerberggeiss.com/der_lauf/  #/der_lauf/
     
   - title: Lauf mit!
     subtitle:  
