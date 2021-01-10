@@ -36,7 +36,7 @@ items:
     description: >
       Die Unterstützer der Glarner Berggeiss
     call_to_action_name: Sponsoren
-    call_to_action_link: /sponsoren/
+    call_to_action_link: /sponsoren
     
     
   - title: Kontakt
@@ -45,4 +45,4 @@ items:
     description: >
       Für ungelöste Fragen
     call_to_action_name: Kontakt
-    call_to_action_link: /contact/
+    call_to_action_link: /contact
