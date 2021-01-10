@@ -9,7 +9,7 @@ items:
       Was dich bei der nächsten Ausgabe erwartet
 
     call_to_action_name: Infos
-    call_to_action_link: /der_lauf/
+    call_to_action_link: /der_lauf
     
   - title: Lauf mit!
     subtitle:  
