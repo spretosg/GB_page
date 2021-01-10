@@ -1,5 +1,6 @@
 style: is-light
-height: is-medium
+height: is-small
+
 items:
   - title: Die 2. Glarner Berggeiss 
     subtitle: 
@@ -14,7 +15,7 @@ items:
     subtitle:  
     icon: fa-pencil-alt
     description: >
-      Melde dich ab dem 1.5.21 online an
+      Melde dich ab dem 1.5.2021 online an
 
     call_to_action_name: Anmeldung
     call_to_action_link: https://my.raceresult.com/162085/
