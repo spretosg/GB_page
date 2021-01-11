@@ -12,16 +12,6 @@ callouts: funk123
 hero_image: /img/new_page_210102_small.jpg
 hero_height: is-medium
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-H6DEFPVBP1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-H6DEFPVBP1');
-</script>
-
 ---
 
 Liebe Berggeissen, herzlich willkommen!
