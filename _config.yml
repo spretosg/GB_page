@@ -29,7 +29,7 @@ url: https://glarnerberggeiss.com #"https://spretosg.github.io" # the base hostn
 
 
 # Build settings
-remote_theme: ureber/bulma-clean-theme
+remote_theme: spretosg/bulma-clean-theme
 plugins:
     - jekyll-feed
     - jekyll-remote-theme
