@@ -1,0 +1,22 @@
+- label: NAVIGATION
+  items:
+    - name: Home
+      link: /index
+    - name: Infos
+      link: /der_lauf
+      items:
+
+        - name: Klassiker (5.5km)
+          link: /der_klassiker
+        - name: Belvedere (12.6km)
+          link: /belvedere
+        - name: Weitere Infos
+          link: /weitere_infos
+    - name: Anmeldung
+      link: https://my.raceresult.com/162085/
+    - name: Rangliste
+      link: https://my.raceresult.com/146939/participants?lang=de
+    - name: Sponsoren
+      link: /sponsoren
+    - name: Kontakt
+      link: /kontakt
