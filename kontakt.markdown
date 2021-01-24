@@ -5,12 +5,11 @@ show_sidebar: false
 menubar: side_navigation
 
 ---
-Kontakt
+Simone Fenk und Reto Spielhofer, OK Glarnerberggeiss
 
-Für Fragen und Anmerkungen:
+Gerne geben wir Auskunft. Schreib uns auf folgende Emailadresse und wir antworten dir so schnell wie möglich.
 
-glarnerberggeiss@bluewin.ch
+**glarnerberggeiss@bluewin.ch**
 
-Herzlichen Dank, euer OK Team
-Simone & Reto
+
 

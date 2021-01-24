@@ -1,15 +1,21 @@
-- tier_name: Platinum Sponsors
-  size: large
-  description: |-
-    This is the description for the Platinum Tier
-  sponsors:
-    - name: Dave McDave
-      profile: https://github.com/
-    - name: Sarah Lee-Cheesecake
-      profile: https://github.com/
-- tier_name: Gold Sponsors
-  description: |-
-    This is the description for the Gold Tier
-  sponsors:
-    - name: Dave McDave
-      profile: https://github.com/
+style: is-light
+height: is-small
+
+items:
+  - title:
+    subtitle: 
+    image: /img/footer_webseite_210123.jpg
+    description: >
+      Was dich bei der 2. Glarner Berggeiss erwartet
+
+    call_to_action_name: Infos
+    call_to_action_link: /der_lauf
+    
+  - title: 
+    subtitle:  
+    icon: fa-pencil-alt
+    description: >
+      Melde dich ab dem 1.5.2021 online an
+
+    call_to_action_name: Anmeldung
+    call_to_action_link: https://my.raceresult.com/162085/

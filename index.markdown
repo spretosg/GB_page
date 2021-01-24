@@ -13,5 +13,7 @@ callouts: funk123
 hero_image: /img/new_page_210102_small.jpg
 hero_height: is-medium
 
+footer_image: /img/footer_webseite_210123.jpg
+
 ---
 
