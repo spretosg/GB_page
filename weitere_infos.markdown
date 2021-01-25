@@ -49,7 +49,8 @@ menubar: side_navigation
 > Hier PDF mit Wettkampfreglement anhängen.
 
 > #### COVID-19
-> Informationen COVID-19
+> *(Stand Februar 2021)*
+>
 > Mit Solidarität, Vernunft und einigen wenigen Massnahmen können auch wir helfen, die Coronapandemie zu bremsen. Wir bitten daher Athletinnen und Athleten folgende Punkte zu beachten:
 > - Absolute Maskenpflicht beim Einstehen in das Startfeld (dieses öffnet um 17.55 Uhr). Masken können nach 250m weggeworfen werden (Markierung).
 > -	Masken für den Start werden vom Veranstalter zur Verfügung gestellt.
