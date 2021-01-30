@@ -2,7 +2,7 @@
 hide_hero: true
 layout: page
 show_sidebar: false
-menubar: side_navigation
+menubar: false
 
 ---
 ## Klassiker

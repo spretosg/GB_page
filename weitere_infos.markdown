@@ -1,10 +1,13 @@
 ---
-title: Weitere Infos
-subtitle: Wichtige Informationen für deine Teilnahme
+
+hide_hero: true
 layout: page
 show_sidebar: false
-menubar: side_navigation
+menubar: false
 ---
+
+# Weitere Infos
+Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch Fragen auftauchen sollten, schreib uns ein Mail an **[glarnerberggeiss@bluewin.ch](mailto:glarnerberggeiss@bluewin.ch)**
 
 > #### Garderoben/Toiletten
 >

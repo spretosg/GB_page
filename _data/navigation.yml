@@ -1,13 +1,13 @@
-- name: Infos
+- name: Die Läufe
   link: /der_lauf/
   dropdown: 
     - name: Klassiker
-      link: /der_klassiker/
+      link: /der_klassiker
     - name: Belvedere
-      link: /belvedere/
+      link: /belvedere
     - name: Weitere Infos
-      link: /weitere_infos/
+      link: /weitere_infos
 - name: Sponsoren
-  link: /sponsors/
+  link: /sponsors
 - name: Kontakt
-  link: /kontakt/
+  link: /kontakt

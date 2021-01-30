@@ -12,7 +12,7 @@
       description: Schnell hoch nach Braunwald - **[Braunwaldbahn](https://www.braunwald.ch/Bergbahnen/Sommer/Braunwald-Standseilbahn)**
       ratio: is-128x128
       
-    - link: /img/GESKA.JPG
+    - link: /img/GESKA.JPG 
       large_link: img/GESKA.JPG
       alt: The alt text for the image
       description: Urwürzig guet! **[GESKA](https://geska.ch/)**
@@ -27,48 +27,48 @@
     - link: /img/cristal.gif
       large_link: img/cristal.gif
       alt: The alt text for the image
-      description: Autofrei **[Braunwald](https://braunwald.ch/)**
+      description: Übernachten in Braunwald - **[Hotel Cristal](https://hotel-cristal.ch/)**
       ratio: is-128x128
       
     - link: /img/Reha2.jpg
-      large_link: img/cristal.gif
+      large_link: /img/Reha2.jpg
       alt: The alt text for the image
-      description: Autofrei **[Braunwald](https://braunwald.ch/)**
+      description: Rehabilitation und Prävention - **[Rehaclinic](https://www.rehaclinic.ch/standorte/rehaclinic-stationaer/braunwald/)**
       ratio: is-128x128
       
     - link: /img/ungleich.png
-      large_link: img/cristal.gif
+      large_link: /img/ungleich.png
       alt: The alt text for the image
-      description: Autofrei **[Braunwald](https://braunwald.ch/)**
+      description: Cloud solutions aus dem Glarnerland -**[ungleich gmbh](https://ungleich.ch/de/cms/)**
       ratio: is-128x128
       
     - link: /img/elmer.jpg
-      large_link: img/cristal.gif
+      large_link: /img/elmer.jpg
       alt: The alt text for the image
-      description: Autofrei **[Braunwald](https://braunwald.ch/)**
+      description: Echt Bergfrisch - **[Elmer](https://www.elmercitro.ch/)**
       ratio: is-128x128
       
     - link: /img/gctag.jpg
-      large_link: img/cristal.gif
+      large_link: /img/gctag.jpg
       alt: The alt text for the image
-      description: Autofrei **[Braunwald](https://braunwald.ch/)**
+      description: Der Immobilienspezialist - **[GCT AG](https://gctag.ch/)**
       ratio: is-128x128
       
       
     - link: /img/ortstockhaus.jpg
-      large_link: img/cristal.gif
+      large_link: /img/ortstockhaus.jpg
       alt: The alt text for the image
-      description: Autofrei **[Braunwald](https://braunwald.ch/)**
+      description: Die schönste Aussicht über Braunwald - **[Das Ortstockhaus](https://ortstockhaus.ch/)**
       ratio: is-128x128
       
     - link: /img/GLKB.jpg
-      large_link: img/cristal.gif
+      large_link: /img/GLKB.jpg
       alt: The alt text for the image
-      description: Autofrei **[Braunwald](https://braunwald.ch/)**
+      description: Gemeinsam wachsen - **[Glarner Kantonalbank](https://www.glkb.ch/)**
       ratio: is-128x128
       
     - link: /img/glarnersteg2.jpg
       large_link: img/glarnersteg2.jpg
       alt: The alt text for the image
-      description: Autofrei **[Braunwald](https://braunwald.ch/)**
+      description: Begleitet leben und arbeiten - **[Glarnersteg](https://www.glarnersteg.ch/)**
       ratio: is-128x128
