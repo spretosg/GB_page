@@ -1,0 +1,74 @@
+- title: Unsere Sponsoren
+  images:
+    - link: /img/3614.JPG
+      large_link: /img/3614.JPG
+      alt: Test
+      description: Das Sportgeschäft im Glarnerland - **[Tödisport](https://3614.ch/)**
+      ratio: is-128x128
+      
+    - link: /img/braunwaldbahn.JPG
+      large_link: img/braunwaldbahn.JPG
+      alt: The alt text for the image
+      description: Schnell hoch nach Braunwald - **[Braunwaldbahn](https://www.braunwald.ch/Bergbahnen/Sommer/Braunwald-Standseilbahn)**
+      ratio: is-128x128
+      
+    - link: /img/GESKA.JPG
+      large_link: img/GESKA.JPG
+      alt: The alt text for the image
+      description: Urwürzig guet! **[GESKA](https://geska.ch/)**
+      ratio: is-128x128
+      
+    - link: /img/braunwald.png
+      large_link: img/braunwald.png
+      alt: The alt text for the image
+      description: Die Feriendestination im Glarnerland - **[Braunwald](https://braunwald.ch/)**
+      ratio: is-128x128
+    
+    - link: /img/cristal.gif
+      large_link: img/cristal.gif
+      alt: The alt text for the image
+      description: Autofrei **[Braunwald](https://braunwald.ch/)**
+      ratio: is-128x128
+      
+    - link: /img/Reha2.jpg
+      large_link: img/cristal.gif
+      alt: The alt text for the image
+      description: Autofrei **[Braunwald](https://braunwald.ch/)**
+      ratio: is-128x128
+      
+    - link: /img/ungleich.png
+      large_link: img/cristal.gif
+      alt: The alt text for the image
+      description: Autofrei **[Braunwald](https://braunwald.ch/)**
+      ratio: is-128x128
+      
+    - link: /img/elmer.jpg
+      large_link: img/cristal.gif
+      alt: The alt text for the image
+      description: Autofrei **[Braunwald](https://braunwald.ch/)**
+      ratio: is-128x128
+      
+    - link: /img/gctag.jpg
+      large_link: img/cristal.gif
+      alt: The alt text for the image
+      description: Autofrei **[Braunwald](https://braunwald.ch/)**
+      ratio: is-128x128
+      
+      
+    - link: /img/ortstockhaus.jpg
+      large_link: img/cristal.gif
+      alt: The alt text for the image
+      description: Autofrei **[Braunwald](https://braunwald.ch/)**
+      ratio: is-128x128
+      
+    - link: /img/GLKB.jpg
+      large_link: img/cristal.gif
+      alt: The alt text for the image
+      description: Autofrei **[Braunwald](https://braunwald.ch/)**
+      ratio: is-128x128
+      
+    - link: /img/glarnersteg2.jpg
+      large_link: img/glarnersteg2.jpg
+      alt: The alt text for the image
+      description: Autofrei **[Braunwald](https://braunwald.ch/)**
+      ratio: is-128x128

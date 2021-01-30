@@ -11,5 +11,8 @@ Gerne geben wir Auskunft. Schreib uns auf folgende Emailadresse und wir antworte
 
 **glarnerberggeiss@bluewin.ch**
 
+[![Test](/img/email.png)](mailto:glarnerberggeiss@bluewin.ch)
+
+
 
 
