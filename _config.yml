@@ -36,6 +36,10 @@ plugins:
     
 google_analytics: UA-186957857-1
 
+target-blank:
+    css_class: navbar-item 
+    css_class: button is-primary
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
