@@ -33,6 +33,7 @@ remote_theme: spretosg/bulma-clean-theme
 plugins:
     - jekyll-feed
     - jekyll-remote-theme
+    - jekyll-target-blank
     
 google_analytics: UA-186957857-1
 
