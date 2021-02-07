@@ -1,8 +1,24 @@
-label: Unsere Sponsoren
-items: 
-    - name: Tödisport
-      link: https://3614.ch
-    - name: Braunwaldbahn
-      link: https://www.braunwald.ch/Bergbahnen/Sommer/Braunwald-Standseilbahn
-    - name: GESKA
-      link: https://geska.ch/
+- name: Tödisport
+  link: https://3614.ch
+- name: Braunwaldbahn
+  link: https://www.braunwald.ch/Bergbahnen/Sommer/Braunwald-Standseilbahn
+- name: GESKA
+  link: https://geska.ch/
+- name: Braunwald
+  link: https://braunwald.ch/
+- name: Hotel Cristal
+  link: https://hotel-cristal.ch/
+- name: Rehaclinic
+  link: https://www.rehaclinic.ch/standorte/rehaclinic-stationaer/braunwald/
+- name: ungleich gmbh
+  link: https://ungleich.ch/de/cms/
+- name: Elmer
+  link: https://www.elmercitro.ch/
+- name: GCT AG
+  link: https://gctag.ch/
+- name: Das Ortstockhaus
+  link: https://ortstockhaus.ch/
+- name: Glarner Kantonalbank
+  link: https://www.glkb.ch/
+- name: Glarnersteg
+  link: https://www.glarnersteg.ch/
