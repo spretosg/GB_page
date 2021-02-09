@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Glarner Berggeiss Berglauf in Braunwald
+title: Glarner Berggeiss &ndash; Berglauf in Braunwald
 
 # Link-Button im Header
 hero_link: /der_lauf

@@ -5,9 +5,9 @@ show_sidebar: false
 menubar: false
 
 ---
-Simone Fenk und Reto Spielhofer, OK Glarnerberggeiss
+Simone Fenk und Reto Spielhofer, OK Glarner Berggeiss
 
-Gerne geben wir Auskunft. Schreib uns auf folgende Emailadresse und wir antworten dir so schnell wie möglich.
+Gerne geben wir Auskunft. Für weitere Fragen zum Berglauf, sowie Medienanfragen und Bildmaterial schreib uns auf folgende Emailadresse. Wir antworten dir so schnell wie möglich.
 
 
 
