@@ -42,7 +42,7 @@ Beide Läufe starten in Linthal bei der Talstation der Linthal-Braunwaldbahn. De
 > Das Ziel befindet sich auf dem Hüttenberg beim Hotel Cristal in Braunwald.
 >
 ><div class="hero-body" style="margin:0 !important; padding: 0 !important;">
-><iframe src='https://map.geo.admin.ch/embed.html?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,KML%7C%7Chttps:%2F%2Fpublic.geo.admin.ch%2FIoZL194gTJifnsQOmcdBdg&layers_visibility=false,false,false,false,true&layers_timestamp=18641231,,,,&layers_opacity=1,1,1,0.8,1&E=2719716.92&N=1199774.20&zoom=6' height='400' frameborder='0' style='width: 100% !important; border:0;'></iframe>
+><iframe src='https://map.geo.admin.ch/embed.html?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,KML%7C%7Chttps:%2F%2Fpublic.geo.admin.ch%2FIoZL194gTJifnsQOmcdBdg&layers_visibility=false,false,false,false,true&layers_timestamp=18641231,,,,&layers_opacity=1,1,1,0.8,1&E=2718616.92&N=1199874.20&zoom=6' height='400' frameborder='0' style='width: 100% !important; border:0;'></iframe>
 ></div>
 
 
