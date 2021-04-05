@@ -18,17 +18,20 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 
 
 > #### Kategorien
->
-> Es gibt für jeden Lauf für Frauen und Männer je 3 Kategorien. Alle Kategorien werden einzeln gewertet und die ersten 3 jeder Kategorie erhalten einen Siegerpreis.
+> **Der Klassiker:**
 > -	Frauen W/Männer M             *16-29 Jahre*
 > -	Frauen W30/Männer M30         *30-49 Jahre*
 > -	Frauen W50/Männer M50         *50 Jahre und älter*
 > 
+> **Der Belvedere:**
+> - Keine Alterskategorien, es werden lediglich die zwei Kategorien Frauen (W) und Männer (M) gewertet.
+>
+>
 > Melde dich ab 1.5.21 **[hier](https://my.raceresult.com/162085/)** an. 
 
 > #### Preise
 > Finishergeschenk für alle Teilnehmer.
->
+> Die ersten drei jeder Kategorie erhalten einen Siegerpreis.
 
 > #### Rückfahrt mit der Braunwaldbahn
 > Der Fussmarsch vom Zielgelände zur Bergstation dauert ca. 10min.
@@ -38,11 +41,11 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 >
 > | Zeitraum    	 | Klassiker | Belvedere |
 > | :---        	 |    :----  |       :---|
-> | 1.5.21 - 31.7.21 | 30.-	     | 35.-	     |
-> | 1.8.21 - 25.8.21 | 35.-      | 40.-      |
+> | 1.5. - 31.7.21 	 | 30.-	     | 35.-	     |
+> | 1.8. - 25.8.21   | 35.-      | 40.-      |
 > | Beim Start	 	 | 45.-      | 45.-      |
 >
-> Am 26.8.21 wird auf der Webseite kommuniziert ob noch Startplätze vorhanden sind. Diese können "first come first serve" bei der Startnummernausgabe mit TWINT oder gegen Barzahlung gekauft werden. 
+> Am 26.8.21 wird auf der Webseite kommuniziert, ob noch Startplätze vorhanden sind. Diese können "first come first serve" bei der Startnummernausgabe mit TWINT oder gegen Barzahlung gekauft werden. 
 
 
 > #### Verpflegung
@@ -73,6 +76,7 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 > -	Beim Einlaufen und Aufwärmen, sowie im Zielbereich müssen Abstände von 1.5 m eingehalten werden
 > -	Verzicht auf Händeschütteln und Umarmungen
 > -	Das OK behält sich vor, kurzfristige Weisungen zu erlassen. Nichteinhaltung der Regeln hat die Disqualifikation zur Folge.
+> - Im Falle einer Absage des Anlasses durch behördliche Verordnungen werden die Startplätze auf das Jahr 2022 übertragen. Eine Rückzahlung des Startgeldes kann nicht erfolgen.
 >
 > ##### Hinweise
 > Je nach Witterungsverhältnissen können wir die Mindestabstände im Ziel nicht garantieren (Infos an der Startnummernausgabe). In diesem Falle wird die Siegerehrung verkürzt gehalten und die Läufer gebeten, das Zielgelände zügig zu verlassen. Die Finisher Geschenke und Tombola Preise werden natürlich dennoch verteilt.
