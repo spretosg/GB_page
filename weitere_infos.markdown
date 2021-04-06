@@ -19,12 +19,12 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 
 > #### Kategorien
 > **Der Klassiker:**
-> -	Frauen W/Männer M             *16-29 Jahre*
-> -	Frauen W30/Männer M30         *30-49 Jahre*
-> -	Frauen W50/Männer M50         *50 Jahre und älter*
+> -	Frauen W/Männer M             *Jg. 2005 - 1992
+> -	Frauen W30/Männer M30         *Jg. 1991 - 1972
+> -	Frauen W50/Männer M50         *Jg. 1971 und älter
 > 
 > **Der Belvedere:**
-> - Keine Alterskategorien, es werden lediglich die zwei Kategorien Frauen (W) und Männer (M) gewertet.
+> - Keine Alterskategorien, es werden lediglich die zwei Kategorien Frauen (W) und Männer (M) gewertet. Teilnahmeberechtigt ab Jg. 2005 und älter.
 >
 >
 > Melde dich ab 1.5.21 **[hier](https://my.raceresult.com/162085/)** an. 
@@ -67,9 +67,9 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 
 
 > #### COVID-19
-> *(Stand Februar 2021)*
+> *(Stand März 2021)*
 >
-> Mit Solidarität, Vernunft und einigen wenigen Massnahmen können auch wir helfen, die Coronapandemie zu bremsen. Wir bitten daher Athletinnen und Athleten folgende Punkte zu beachten:
+> Mit Solidarität, Vernunft und einigen wenigen Massnahmen können auch wir helfen, die Coronapandemie zu bremsen. Wir bitten daher Athletinnen und Athleten, die folgenden Punkte zu beachten:
 > - Absolute Maskenpflicht beim Einstehen in das Startfeld (dieses öffnet jeweils 5min vor der Startzeit des Laufs). Masken können nach 250m weggeworfen werden (Markierung).
 > -	Masken für den Start werden vom Veranstalter zur Verfügung gestellt.
 > -	Masken für den Zielbereich und die Bahnfahrt Braunwald – Linthal müssen individuell organisiert werden.
