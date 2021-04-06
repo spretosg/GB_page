@@ -4,82 +4,82 @@
       large_link: /img/3614.JPG
       alt: Test
       description: <p>Das Sportgeschäft im Glarnerland</p> <p><b><a href="https://3614.ch/">Tödisport</a></b></p>
-      ratio: is-128x128
+      ratio: is-1by1
       
     - link: /img/braunwaldbahn.JPG
       large_link: img/braunwaldbahn.JPG
       alt: The alt text for the image
       description: Schnell hoch nach Braunwald - **[Braunwaldbahn](https://www.braunwald.ch/Bergbahnen/Sommer/Braunwald-Standseilbahn)**
-      ratio: is-256x256
+      ratio: is-3by1
       
     - link: /img/GESKA.JPG 
       large_link: img/GESKA.JPG
       alt: The alt text for the image
       description: Urwürzig guet! **[GESKA](https://geska.ch/)**
-      ratio: is-128x128
+      ratio: is-3by2
       
     - link: /img/braunwald.png
       large_link: img/braunwald.png
       alt: The alt text for the image
       description: Die Feriendestination im Glarnerland - **[Braunwald](https://braunwald.ch/)**
-      ratio: is-128x128
+      ratio: is-5by4
     
     - link: /img/cristal.gif
       large_link: img/cristal.gif
       alt: The alt text for the image
       description: Übernachten in Braunwald - **[Hotel Cristal](https://hotel-cristal.ch/)**
-      ratio: is-128x128
+      ratio: is-3by2
       
     - link: /img/Reha2.jpg
       large_link: /img/Reha2.jpg
       alt: The alt text for the image
       description: Rehabilitation und Prävention - **[Rehaclinic](https://www.rehaclinic.ch/standorte/rehaclinic-stationaer/braunwald/)**
-      ratio: is-256x256
+      ratio: is-5by1
       
     - link: /img/ungleich.png
       large_link: /img/ungleich.png
       alt: The alt text for the image
       description: Cloud solutions aus dem Glarnerland -**[ungleich gmbh](https://ungleich.ch/de/cms/)**
-      ratio: is-128x128
+      ratio: is-4by1
       
     - link: /img/elmer.jpg
       large_link: /img/elmer.jpg
       alt: The alt text for the image
       description: Echt Bergfrisch - **[Elmer](https://www.elmercitro.ch/)**
-      ratio: is-128x128
+      ratio: is-3by2
       
     - link: /img/gctag.jpg
       large_link: /img/gctag.jpg
       alt: The alt text for the image
       description: Der Immobilienspezialist - **[GCT AG](https://gctag.ch/)**
-      ratio: is-128x128
+      ratio: is-3by2
       
     - link: /img/ortstockhaus.jpg
       large_link: /img/ortstockhaus.jpg
       alt: The alt text for the image
       description: Die schönste Aussicht über Braunwald - **[Das Ortstockhaus](https://ortstockhaus.ch/)**
-      ratio: is-128x128
+      ratio: is-3by2
       
     - link: /img/GLKB.jpg
       large_link: /img/GLKB.jpg
       alt: The alt text for the image
       description: Gemeinsam wachsen - **[Glarner Kantonalbank](https://www.glkb.ch/)**
-      ratio: is-128x128
+      ratio: is-5by1
       
     - link: /img/glarnersteg2.jpg
       large_link: img/glarnersteg2.jpg
       alt: The alt text for the image
       description: Begleitet leben und arbeiten - **[Glarnersteg](https://www.glarnersteg.ch/)**
-      ratio: is-128x128
+      ratio: is-4by1
       
     - link: /img/KIESER.jpg
       large_link: img/KIESER.jpg
       alt: The alt text for the image
       description: ...zwar in Zürich, für "locals" aber auch Direktkontakt zu Ueli Kieser, Collina, Braunwald 079 350 78 16 oder **[KSPARTNER](https://www.kspartner.ch/)**
-      ratio: is-256x256
+      ratio: is-4by1
       
     - link: /img/SERVICE7000.jpg
       large_link: img/SERVICE7000.jpg
       alt: The alt text for the image
       description: Bestleistung garantiert - **[Service7000](https://service7000.ch//)**
-      ratio: is-128x128
+      ratio: is-3by2
