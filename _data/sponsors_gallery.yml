@@ -81,32 +81,47 @@
         Der Immobilienspezialist
       ratio: is-4by3
       
-    - link: /img/ortstockhaus.jpg
-      large_link: /img/ortstockhaus.jpg
-      alt: The alt text for the image
-      description: Die schönste Aussicht über Braunwald - **[Das Ortstockhaus](https://ortstockhaus.ch/)**
-      ratio: is-3by2
+    - link: /img/new/ortstockhaus.png
+      large_link: /img/new/ortstockhaus.png
+      alt: Das Ortstockhaus - Die schönste Aussicht über Braunwald
+      description: |-
+        ### [Das Ortstockhaus](https://ortstockhaus.ch/)
+        
+        Die schönste Aussicht über Braunwald
+      ratio: is-4by3
       
-    - link: /img/GLKB.jpg
-      large_link: /img/GLKB.jpg
-      alt: The alt text for the image
-      description: Gemeinsam wachsen - **[Glarner Kantonalbank](https://www.glkb.ch/)**
-      ratio: is-5by1
+    - link: /img/new/glkb.png
+      large_link: /img/new/glkb.png
+      alt: Glarner Kantonalbank - Gemeinsam wachsen
+      description: |-
+        ### [Glarner Kantonalbank](https://www.glkb.ch/)
+        
+        Gemeinsam wachsen
+      ratio: is-4by3
       
-    - link: /img/glarnersteg2.jpg
-      large_link: img/glarnersteg2.jpg
-      alt: The alt text for the image
-      description: Begleitet leben und arbeiten - **[Glarnersteg](https://www.glarnersteg.ch/)**
-      ratio: is-4by1
+    - link: /img/new/glarnersteg.png
+      large_link: img/new/glarnersteg.png
+      alt: Glarnersteg - Begleitet leben und arbeiten
+      description: |-
+        ### [Glarnersteg](https://www.glarnersteg.ch/)
+        
+        Begleitet leben und arbeiten
+      ratio: is-4by3
       
-    - link: /img/KIESER.jpg
-      large_link: img/KIESER.jpg
-      alt: The alt text for the image
-      description: ...zwar in Zürich, für "locals" aber auch Direktkontakt zu Ueli Kieser, Collina, Braunwald 079 350 78 16 oder **[KSPARTNER](https://www.kspartner.ch/)**
-      ratio: is-4by1
+    - link: /img/new/kieser.png
+      large_link: img/new/kieser.png
+      alt: KSPARTNER ...zwar in Zürich, für "locals" aber auch Direktkontakt zu Ueli Kieser, Collina, Braunwald 079 350 78 16
+      description: |-
+        ### [KSPARTNER](https://www.kspartner.ch/)
+        
+        Zwar in Zürich, für "Locals" aber auch Direktkontakt zu Ueli Kieser, Collina, Braunwald, 079 350 78 16
+      ratio: is-4by3
       
-    - link: /img/SERVICE7000.jpg
-      large_link: img/SERVICE7000.jpg
-      alt: The alt text for the image
-      description: Bestleistung garantiert - **[Service7000](https://service7000.ch//)**
-      ratio: is-3by2
+    - link: /img/new/service7000.png
+      large_link: img/new/service7000.png
+      alt: Service7000 - Bestleistung garantiert
+      description: |-
+        ### [Service7000](https://service7000.ch//)
+        
+        Bestleistung garantiert
+      ratio: is-4by3
