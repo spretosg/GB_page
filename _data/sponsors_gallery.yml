@@ -1,10 +1,10 @@
 - title: Unsere Sponsoren
   images:
-    - link: /img/3614.JPG
-      large_link: /img/3614.JPG
-      alt: Test
-      description: <p>Das Sportgeschäft im Glarnerland</p> <p><b><a href="https://3614.ch/">Tödisport</a></b></p>
-      ratio: is-1by1
+    - link: /img/new/3614.JPG
+      large_link: /img/new/3614.JPG
+	  title: <a href="https://3614.ch/">Tödisport</a>
+      description: Das Sportgeschäft im Glarnerland
+      ratio: is-4by3
       
     - link: /img/braunwaldbahn.JPG
       large_link: img/braunwaldbahn.JPG
