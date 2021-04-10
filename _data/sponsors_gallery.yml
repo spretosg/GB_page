@@ -54,23 +54,32 @@
         Rehabilitation und Prävention
       ratio: is-4by3
       
-    - link: /img/ungleich.png
-      large_link: /img/ungleich.png
-      alt: The alt text for the image
-      description: Cloud solutions aus dem Glarnerland -**[ungleich gmbh](https://ungleich.ch/de/cms/)**
-      ratio: is-4by1
+    - link: /img/new/ungleich.png
+      large_link: /img/new/ungleich.png
+      alt: ungleich gmbh - Cloud solutions aus dem Glarnerland
+      description: |-
+        ### [ungleich gmbh](https://ungleich.ch/)
+        
+        Cloud solutions aus dem Glarnerland
+      ratio: is-4by3
       
-    - link: /img/elmer.jpg
-      large_link: /img/elmer.jpg
-      alt: The alt text for the image
-      description: Echt Bergfrisch - **[Elmer](https://www.elmercitro.ch/)**
-      ratio: is-3by2
+    - link: /img/new/elmer.png
+      large_link: /img/new/elmer.png
+      alt: Elmer - Echt bergfrisch
+      description: |-
+        ### [Elmer](https://www.elmercitro.ch/)
+        
+        Echt bergfrisch
+      ratio: is-4by3
       
-    - link: /img/gctag.jpg
-      large_link: /img/gctag.jpg
-      alt: The alt text for the image
-      description: Der Immobilienspezialist - **[GCT AG](https://gctag.ch/)**
-      ratio: is-3by2
+    - link: /img/new/gctag.png
+      large_link: /img/new/gctag.png
+      alt: GCT AG - Der Immobilienspezialist
+      description: |-
+        ### [GCT AG](https://gctag.ch/)
+        
+        Der Immobilienspezialist
+      ratio: is-4by3
       
     - link: /img/ortstockhaus.jpg
       large_link: /img/ortstockhaus.jpg
