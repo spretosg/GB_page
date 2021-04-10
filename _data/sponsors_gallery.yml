@@ -36,11 +36,14 @@
         Die Feriendestination im Glarnerland
       ratio: is-4by3
     
-    - link: /img/cristal.gif
-      large_link: img/cristal.gif
-      alt: The alt text for the image
-      description: Übernachten in Braunwald - **[Hotel Cristal](https://hotel-cristal.ch/)**
-      ratio: is-3by2
+    - link: /img/new/cristal.png
+      large_link: img/new/cristal.png
+      alt: Hotel Cristal - Übernachten in Braunwald
+      description: |-
+        ### [Hotel Cristal](https://hotel-cristal.ch/)
+        
+        Übernachten in Braunwald
+      ratio: is-4by3
       
     - link: /img/Reha2.jpg
       large_link: /img/Reha2.jpg
