@@ -45,11 +45,14 @@
         Übernachten in Braunwald
       ratio: is-4by3
       
-    - link: /img/Reha2.jpg
-      large_link: /img/Reha2.jpg
-      alt: The alt text for the image
-      description: Rehabilitation und Prävention - **[Rehaclinic](https://www.rehaclinic.ch/standorte/rehaclinic-stationaer/braunwald/)**
-      ratio: is-5by1
+    - link: /img/new/reha.png
+      large_link: /img/reha.png
+      alt: Rehaklinik Braunwald - Rehabilitation und Prävention
+      description: |-
+        ### [Rehaklinik Braunwald](https://www.zurzachcare.ch/braunwald)
+        
+        Rehabilitation und Prävention
+      ratio: is-4by3
       
     - link: /img/ungleich.png
       large_link: /img/ungleich.png
