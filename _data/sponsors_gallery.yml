@@ -9,8 +9,8 @@
         Das Sportgeschäft im Glarnerland
       ratio: is-4by3
 
-    - link: /img/new/braunwaldbahn.png
-      large_link: img/new/braunwaldbahn.png
+    - link: /img/new/braunwald.png
+      large_link: img/new/braunwald.png
       alt: Braunwaldbahn - Schnell hoch nach Braunwald
       description: |-
         ### [Braunwaldbahn](https://www.braunwald.ch/Bergbahnen/Sommer/Braunwald-Standseilbahn)
@@ -18,11 +18,14 @@
         Schnell hoch nach Braunwald
       ratio: is-4by3
       
-    - link: /img/GESKA.JPG 
-      large_link: img/GESKA.JPG
-      alt: The alt text for the image
-      description: Urwürzig guet! **[GESKA](https://geska.ch/)**
-      ratio: is-3by2
+    - link: /img/new/geska.png 
+      large_link: /img/new/geska.png
+      alt: GESKA - Urwürzig guet!
+      description: |-
+        ### [GESKA](https://geska.ch/)
+        
+        Urwürzig guet!
+      ratio: is-4by3
       
     - link: /img/braunwald.png
       large_link: img/braunwald.png
