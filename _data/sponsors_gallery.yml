@@ -2,8 +2,11 @@
   images:
     - link: /img/new/3614.JPG
       large_link: /img/new/3614.JPG
-	  title: <a href="https://3614.ch/">Tödisport</a>
-      description: Das Sportgeschäft im Glarnerland
+	  alt: Tödisport - Das Sportgeschäft im Glarnerland
+      description: |-
+        ### <a href="https://3614.ch/">Tödisport</a>
+		
+        Das Sportgeschäft im Glarnerland
       ratio: is-4by3
       
     - link: /img/braunwaldbahn.JPG
