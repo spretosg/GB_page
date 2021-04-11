@@ -108,6 +108,9 @@
         Begleitet leben und arbeiten
       ratio: is-4by3
       
+      
+      
+      
     - link: /img/new/kieser.png
       large_link: img/new/kieser.png
       alt: KSPARTNER ...zwar in Zürich, für "locals" aber auch Direktkontakt zu Ueli Kieser, Collina, Braunwald 079 350 78 16
@@ -124,4 +127,14 @@
         ### [Service7000](https://service7000.ch//)
         
         Bestleistung garantiert
+      ratio: is-4by3
+      
+      
+    - link: /img/new/schumi.png
+      large_link: img/new/schumi.png
+      alt: Transporte in Braunwald
+      description: |-
+        ### [Schumi-trans](https://schumi-trans.ch/.ch//)
+        
+        Transporte in Braunwald
       ratio: is-4by3
