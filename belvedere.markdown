@@ -2,6 +2,7 @@
 layout: page
 show_sidebar: false
 menubar: false
+tabs: tabs_lauf
 hero_height: is-small
 title: Belvedere (12.6km, 1200Hm)
 ---
