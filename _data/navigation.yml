@@ -14,7 +14,7 @@
 - name: Ranglisten
   dropdown:
     - name: 1. Ausgabe 2020
-      link: rangliste_2020
+      link: /rangliste_2020
 - name: Sponsoren
   link: /sponsors
 - name: Kontakt
@@ -22,6 +22,3 @@
 - name: 
   icon: fa-pencil-alt
   link: /sponsors
-
-  
-  
