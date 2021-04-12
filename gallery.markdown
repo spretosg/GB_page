@@ -1,5 +1,6 @@
 ---
 layout: page
-title: My Image Gallery
+title: Impressionen
 gallery: image_gallery
+hero_height: is-small
 ---

@@ -65,11 +65,11 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 > *(Stand März 2021)*
 >
 > Mit Solidarität, Vernunft und einigen wenigen Massnahmen können auch wir helfen, die Coronapandemie zu bremsen. Wir bitten daher Athletinnen und Athleten, die folgenden Punkte zu beachten:
-> - Absolute Maskenpflicht beim Einstehen in das Startfeld (dieses öffnet jeweils 5min vor der Startzeit des Laufs). Masken können nach 250m weggeworfen werden (Markierung).
+> - Absolute Maskenpflicht beim Einstehen in das Startfeld (dieses öffnet jeweils 5min vor der Startzeit des Laufs). Masken können nach 250m in den markierten Behälter geworfen werden.
 > -	Masken für den Start werden vom Veranstalter zur Verfügung gestellt.
 > -	Masken für den Zielbereich und die Bahnfahrt Braunwald – Linthal müssen individuell organisiert werden.
-> -	Beim Einlaufen und Aufwärmen, sowie im Zielbereich müssen Abstände von 1.5 m eingehalten werden
-> -	Verzicht auf Händeschütteln und Umarmungen
+> -	Beim Einlaufen und Aufwärmen, sowie im Zielbereich müssen Abstände von 1.5 m eingehalten werden.
+> -	Verzicht auf Händeschütteln und Umarmungen.
 > -	Das OK behält sich vor, kurzfristige Weisungen zu erlassen. Nichteinhaltung der Regeln hat die Disqualifikation zur Folge.
 > - Im Falle einer Absage des Anlasses durch behördliche Verordnungen werden die Startplätze auf das Jahr 2022 übertragen. Eine Rückzahlung des Startgeldes kann nicht erfolgen.
 >

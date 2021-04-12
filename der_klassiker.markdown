@@ -15,3 +15,11 @@ title: Klassiker (5.5km, 660Hm)
 </div>
 
 #### Höhenprofil
+
+  <div class="box"> 
+    <img src="img/profil_kurz.jpg"  alt="Höhenprofil Klassiker" width="400" 
+     style="object-fit:contain;
+            width:100%;
+            height:auto;
+            border: none"/>
+  </div>
