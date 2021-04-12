@@ -3,11 +3,11 @@ hide_hero: true
 layout: page
 show_sidebar: false
 menubar: false
+hero_height: is-small
+title: Belvedere (12.6km, 1200Hm)
 ---
-## Belvedere <span style="font-size:0.55em;">  12.6km, 1200Hm</span>
-<p style='text-align: justify;'>Die Laufstrecke folgt zuerst dem Kurs des «Klassikers». Nach der Unterstafel und
- einer kurzen flacheren Passage zweigt die Strecke scharf links ab. Hier werden nur Läuferinnen und Läufer durchgelassen, welche vor Kontrollschluss um 18.15 Uhr passieren.
- Es folgt ein nächster sehr steiler schmaler Aufstieg zur Alp Ober Stafel. Nur kurz geht es gerade aus am Verpflegungsposten (Sportgetränk) vorbei, bevor die letzten knapp 200 Höhenmeter zum höchsten Punkt beim Ortstockhaus zu meistern sind. Nun geht es talwärts, aber Entspannung ist noch nicht angesagt. Zuerst führt der Weg der Skipiste entlang auf einem groben Trassee. Konzentration ist gefragt, wenn die Strecke auf einen technischen Trail einbiegt und über Stock und Stein durch den mystischen Zauberwald führt. Das letzte Stück steuert auf einen Wiesenweg und das Ziel auf dem Hüttenberg rückt in greifbare Nähe.
+
+<p style='text-align: justify;'>Die Laufstrecke folgt zuerst dem Kurs des «Klassikers». Nach der Unterstafel und einer kurzen flacheren Passage zweigt die Strecke scharf links ab. Hier werden nur Läuferinnen und Läufer durchgelassen, welche vor Kontrollschluss um 18.15 Uhr passieren. Es folgt ein nächster sehr steiler schmaler Aufstieg zur Alp Ober Stafel. Nur kurz geht es gerade aus am Verpflegungsposten (Sportgetränk) vorbei, bevor die letzten knapp 200 Höhenmeter zum höchsten Punkt beim Ortstockhaus zu meistern sind. Nun geht es talwärts, aber Entspannung ist noch nicht angesagt. Zuerst führt der Weg der Skipiste entlang auf einem groben Trassee. Konzentration ist gefragt, wenn die Strecke auf einen technischen Trail einbiegt und über Stock und Stein durch den mystischen Zauberwald führt. Das letzte Stück steuert auf einen Wiesenweg und das Ziel auf dem Hüttenberg rückt in greifbare Nähe.
 </p>
 
 <div class="hero-body" style="margin:0 !important; padding: 0 !important;">
@@ -15,5 +15,3 @@ menubar: false
 </div>
 
 #### Höhenprofil
-
-

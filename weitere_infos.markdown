@@ -1,12 +1,12 @@
 ---
-
 hide_hero: true
 layout: page
 show_sidebar: false
 menubar: false
+hero_height: is-small
+title: Weitere Infos
 ---
 
-# Weitere Infos
 Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch Fragen auftauchen sollten, schreib uns ein Mail an **[glarnerberggeiss@bluewin.ch](mailto:glarnerberggeiss@bluewin.ch)**
 
 > #### Garderoben/Toiletten
@@ -15,7 +15,6 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 > - Toiletten stehen in der Talstation der Braunwaldbahn zur Verfügung.
 > - Im Zielgelände gibt es Toiletten, jedoch keine Garderoben/Duschen
 > 
-
 
 > #### Kategorien
 > **Der Klassiker:**
@@ -47,7 +46,6 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 >
 > Am 26.8.21 wird auf der Webseite kommuniziert, ob noch Startplätze vorhanden sind. Diese können "first come first serve" bei der Startnummernausgabe mit TWINT oder gegen Barzahlung gekauft werden. 
 
-
 > #### Verpflegung
 > Nach 3km befindet sich ein Verpflegungsposten mit Sportgetränk (WinForce). Beim längeren *Belvedere* gibt es zwei weitere Verpflegungsposten nach 5km (Ober Staffel) und 7km (Ortstockhaus).
 > Im Ziel wird dann für opitmale Regeneration gesorgt.
@@ -56,15 +54,12 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 > - **[Belvedere](/belvedere)** 
 > - **[Klassiker](/der_klassiker)** 
 
-
 > #### Wettkampfreglement
 > Hier PDF mit Wettkampfreglement anhängen.
-
 
 > #### Zeitmessung
 >
 > Die Zeitmessung erfolgt mittels **Bruttozeiten**, das heisst die Laufzeit zählt für beide Läufe ab dem Startschuss.
-
 
 > #### COVID-19
 > *(Stand März 2021)*
@@ -80,4 +75,3 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 >
 > ##### Hinweise
 > Je nach Witterungsverhältnissen können wir die Mindestabstände im Ziel nicht garantieren (Infos an der Startnummernausgabe). In diesem Falle wird die Siegerehrung verkürzt gehalten und die Läufer gebeten, das Zielgelände zügig zu verlassen. Die Finisher Geschenke und Tombola Preise werden natürlich dennoch verteilt.
-

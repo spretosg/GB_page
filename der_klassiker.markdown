@@ -3,14 +3,11 @@ layout: page
 show_sidebar: false
 menubar: false
 tabs: tabs_lauf
-hide_hero: true
+hero_height: is-small
+title: Klassiker (5.5km, 660Hm)
 ---
 
-## Klassiker <span style="font-size:0.55em;">  5.5km, 660Hm </span>
-
-<p style='text-align: justify;'> Die Laufstrecke ist 5.5km lang und es gilt 660 Höhenmeter zu erklimmen.
-Der Start erfolgt in Linthal bei der Braunwaldbahn. Die ersten 500m folgen einer coupierten Kiesstrasse parallel zur Linth talabwärts. Danach biegt der Weg scharf links auf einen Trail, wo es eng und steil wird. Im Zickzack geht es stetig hinauf bis zur RehaClinic Braunwald. Kurz danach befindet sich eine Verpflegungsstation mit Sportgetränk (nach ca. 2.8km).
-Der zweite Abschnitt führt einer Kiesstrasse entlang und steigt nur noch gemächlich bis zum Ziel auf dem Hüttenberg.
+<p style='text-align: justify;'> Die Laufstrecke ist 5.5km lang und es gilt 660 Höhenmeter zu erklimmen. Der Start erfolgt in Linthal bei der Braunwaldbahn. Die ersten 500m folgen einer coupierten Kiesstrasse parallel zur Linth talabwärts. Danach biegt der Weg scharf links auf einen Trail, wo es eng und steil wird. Im Zickzack geht es stetig hinauf bis zur RehaClinic Braunwald. Kurz danach befindet sich eine Verpflegungsstation mit Sportgetränk (nach ca. 2.8km). Der zweite Abschnitt führt einer Kiesstrasse entlang und steigt nur noch gemächlich bis zum Ziel auf dem Hüttenberg.
 </p>
 
 <div class="hero-body" style="margin:0 !important; padding: 0 !important;">
