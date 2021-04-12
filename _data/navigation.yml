@@ -12,6 +12,7 @@
 - name: Anmeldung
   link: anmeldung
 - name: Ranglisten
+  link: /rangliste_2020
   dropdown:
     - name: 1. Ausgabe 2020
       link: /rangliste_2020
