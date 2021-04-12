@@ -2,5 +2,6 @@
 layout: page
 title: Sponsoren
 gallery: sponsors_gallery
-hide_hero: true
+hero_height: is-small
+title: Unsere Sponsoren
 ---
