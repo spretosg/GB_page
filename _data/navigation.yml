@@ -10,7 +10,7 @@
     - name: Weitere Infos
       link: /weitere_infos
 - name: Anmeldung
-  link: anmeldung
+  link: /anmeldung
 - name: Ranglisten
   link: /rangliste_2020
   dropdown:
