@@ -114,7 +114,7 @@
       description: |-
         ### [KSPARTNER](https://www.kspartner.ch/)
         
-        Zwar in Zürich, aber mit Direktkontakt für Locals Ueli Kieser, 079 350 78 16
+        Zwar in Zürich, aber mit Direktkontakt für Locals: Ueli Kieser, 079 350 78 16
       ratio: is-4by3
       
     - link: /img/new/service7000.png
@@ -125,7 +125,7 @@
         
         Bestleistung garantiert
       ratio: is-4by3
-            
+	  
     - link: /img/new/schumi.png
       large_link: img/new/schumi.png
       alt: Transporte in Braunwald
