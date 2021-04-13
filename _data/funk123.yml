@@ -15,10 +15,10 @@ items:
     subtitle:  
     icon: fa-pencil-alt
     description: >
-      Melde dich ab dem 1.5.2021 online an
+      Melde dich ab dem 01.05.2021 online an
 
     call_to_action_name: Anmeldung
-    call_to_action_link: https://my.raceresult.com/162085/
+    call_to_action_link: /anmeldung
     
     
   - title: 
@@ -26,8 +26,8 @@ items:
     icon: fa-medal
     description: >
       Die Rangliste vom 2020
-    call_to_action_name: Rangliste 
-    call_to_action_link: https://my.raceresult.com/146939/participants?lang=de
+    call_to_action_name: Rangliste
+    call_to_action_link: /ranglisten
     
     
   - title: 
