@@ -3,7 +3,18 @@ layout: page
 show_sidebar: false
 menubar: false
 hero_height: is-small
-title: Anmeldung
+title: 
 ---
 
-Die Anmeldung für die zweite Glarner Berggeiss ist ab dem **01.05.2021** über <a href="https://my.raceresult.com/162085/" target="_blank">diesen Link (my.raceresult.com)</a> möglich.
+
+
+<div id="divRRRegStart" class="RRRegStart"></div>
+<script type="text/javascript" src="https://my.raceresult.com/RRRegStart/load.js.php?lang=de"></script>
+<script type="text/javascript">
+<!--
+	var rrp=new RRRegStart(document.getElementById("divRRRegStart"), 162085);
+-->
+</script>
+<style>
+  /* Add custom CSS here or elsewhere to change the design */
+</style>

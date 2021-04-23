@@ -7,3 +7,5 @@ title: Ranglisten
 ---
 
 - <a href="https://my.raceresult.com/146939/participants" target="_blank">Rangliste der ersten Glarner Berggeiss 2020</a>
+
+
