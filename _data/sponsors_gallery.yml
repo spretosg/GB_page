@@ -44,6 +44,17 @@
         Übernachten in Braunwald
       ratio: is-4by3
       
+      
+    - link: /img/new/bernegger.png
+      large_link: /img/new/bernegger.png
+      alt: Bernegger Elektro - Wir führen Sie an die Spitze
+      description: |-
+        ### [Bernegger Elekttro AG](https://www.bernegger-elektro.ch/)
+        
+        Rehabilitation und Prävention
+      ratio: is-4by3  
+      
+      
     - link: /img/new/reha.png
       large_link: /img/new/reha.png
       alt: Rehaklinik Braunwald - Rehabilitation und Prävention
