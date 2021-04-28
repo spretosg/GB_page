@@ -55,7 +55,7 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 > - **[Klassiker](/der_klassiker)** 
 
 > #### Wettkampfreglement
-> Hier PDF mit Wettkampfreglement anhängen.
+> Das Wettkampfreglement kann **[hier](https://drive.google.com/file/d/1Rct2lbjIkOnM0lVQzaf0Gld2WMdHCILi/view?usp=sharing)** heruntergeladen werden.
 
 > #### Zeitmessung
 >
