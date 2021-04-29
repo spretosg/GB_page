@@ -16,3 +16,24 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+<div class="navbar-item">
+  <div class="field is-grouped">
+    <p class="control">
+      <a class="button">
+        <span class="icon">
+          <i class="fas fa-twitter" aria-hidden="true"></i>
+        </span>
+        <span>Tweet</span>
+      </a>
+    </p>
+    <p class="control">
+      <a class="button is-primary">
+        <span class="icon">
+          <i class="fas fa-download" aria-hidden="true"></i>
+        </span>
+        <span>Download</span>
+      </a>
+    </p>
+  </div>
+</div>
