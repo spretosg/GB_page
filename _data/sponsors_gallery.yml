@@ -73,6 +73,17 @@
         Cloud solutions aus dem Glarnerland
       ratio: is-4by3
       
+    - link: /img/new/adrenalin.png
+      large_link: /img/new/adrenalin.png
+      alt: Das Hostel in Braunwald
+      description: |-
+        ### [adrenalin](https://adrenalin.gl/)
+        
+        Cloud solutions aus dem Glarnerland
+      ratio: is-4by3  
+      
+      
+      
     - link: /img/new/elmer.png
       large_link: /img/new/elmer.png
       alt: Elmer - Echt bergfrisch
