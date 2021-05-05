@@ -6,16 +6,17 @@ items:
     subtitle: 
     icon: fa-running
     description: >
-      Was dich bei der 2. Glarner Berggeiss erwartet
+      Die Glarner Berggeiss
 
     call_to_action_name: Infos
     call_to_action_link: /der_lauf
     
   - title: 
+    background-color: #E22816
     subtitle:  
     icon: fa-pencil-alt
     description: >
-      Melde dich ab dem 01.05.2021 online an
+      Online Anmeldung offen
 
     call_to_action_name: Anmeldung
     call_to_action_link: /anmeldung
