@@ -45,6 +45,16 @@
       ratio: is-4by3
       
       
+    - link: /img/new/glarusselli.png
+      large_link: img/new/glarusselli.png
+      alt: Das Glarnerland komprimiert in einem Shop
+      description: |-
+        ### [Glarussell](https://glarussell.ch/)
+    
+      ratio: is-4by3
+      
+
+      
     - link: /img/new/bernegger.png
       large_link: /img/new/bernegger.png
       alt: Bernegger Elektro - Wir führen Sie an die Spitze
