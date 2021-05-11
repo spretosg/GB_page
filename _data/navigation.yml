@@ -10,7 +10,13 @@
     - name: Weitere Infos
       link: /weitere_infos
 - name: Anmeldung
-  link: /anmeldung
+  link: /anmeldung    
+  dropdown:
+    - name: Anmeldung
+      link: /anmeldung
+    - name: Startliste
+      link: /startliste
+      
 - name: Ranglisten
   link: /ranglisten
 - name: Sponsoren
