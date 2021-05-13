@@ -15,6 +15,8 @@ Beide Läufe starten in Linthal bei der Talstation der Linthal-Braunwaldbahn. De
 >
 >**[Belvedere](/belvedere)**
 >12.6km, 1200Hm
+>
+>**[Weitere Infos](/weitere_infos)**
 
 > ## Programm
 > #### Klassiker
