@@ -15,7 +15,7 @@ items:
     subtitle:  
     icon: fa-pencil-alt
     description: >
-      Online Anmeldung offen
+      Online Anmeldung 
 
     call_to_action_name: Anmeldung
     call_to_action_link: /anmeldung
@@ -47,4 +47,12 @@ items:
     call_to_action_name: Kontakt
     call_to_action_link: /kontakt
     
+    
 
+  - title: 
+    subtitle: 
+    icon: fa-battery-three-quarters
+    description: >
+      Training für die Berggeiss mit fitgoat
+    call_to_action_name: Training
+    call_to_action_link: https://www.youtube.com/watch?v=bwD-nHk2r_Q
