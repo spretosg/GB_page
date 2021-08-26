@@ -4,7 +4,7 @@ title: Glarner Berggeiss &ndash; Berglauf in Braunwald
 
 # Link-Button im Header
 hero_link: /der_lauf
-hero_link_text: 2. Ausgabe am 27.08.2021
+hero_link_text: 2. Ausgabe am 27.08.2021 - noch wenige Startplätze zu vergeben!
 
 
 # Callouts einbinden
