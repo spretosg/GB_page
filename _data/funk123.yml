@@ -22,7 +22,7 @@ items:
     subtitle: 
     icon: fa-medal
     description: >
-      Die Rangliste vom 2021
+      Die Ranglisten beider Ausgaben
     call_to_action_name: Rangliste
     call_to_action_link: /ranglisten
     
