@@ -15,14 +15,14 @@ items:
     subtitle:  
     icon: fa-pencil-alt
     description: >
-      Online Anmeldung geschlossen - nachmelden im Startgelände ab 15.30 Uhr möglich (Barzahlung & TWINT)
+      Anmeldung ab Mai 2022 offen
     
     
   - title: 
     subtitle: 
     icon: fa-medal
     description: >
-      Die Rangliste vom 2020
+      Die Rangliste vom 2021
     call_to_action_name: Rangliste
     call_to_action_link: /ranglisten
     
