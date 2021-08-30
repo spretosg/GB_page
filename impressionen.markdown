@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Impressionen
-gallery: image_gallery
+gallery: 
 hero_height: is-small
 ---
 
-
+2021
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/WgGH4spTiLQpXSzM7"
