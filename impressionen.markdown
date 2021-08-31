@@ -18,8 +18,6 @@ Hier einige Impressionen von der 2. Glarner Berggeiss. Falls Ihr eure Bilder ohn
   <object data="https://lh3.googleusercontent.com/qOSwlODVU2VPpj2LKyvZDdyQpXUKlQ5KzkgYWELHBbV7CPe4KtmKclU163yfoqM-MZ6iqKXs7C2hMBhnqfzovfaUuv05psAan6V4jne-82YHVepOb_lnE1qo6Ssr1MnxdZaVegajTQ=w1200-h900"></object>
   <object data="https://lh3.googleusercontent.com/8VNlo_Sat2H2CpN0C0WJKTx4bBLTBsjqOkXnunW-4DZOOzbhC8H-YY9MS66ywRmPF_YPfG79pwFh3YziuaYPVyfmob7SU88wxdJzei4D07nVdxos8S9U1kC5JpwzYlCltV01Zv6QIA=w1200-h900"></object>
   <object data="https://lh3.googleusercontent.com/mpWjwG7jV5McD4b--NEgn44sQHgYoqRWJNvnk0qg5AHTM6nFtJBHstx46eTiBlpBPtDcVQTWjqxWG_9mD0r9Cq-G4Cd4nUbv4gNBeVIgu9uNPwVp-iTLFbMRjmdP0j6EMXyAHujQaw=w1200-h900"></object>
-  <object data="https://lh3.googleusercontent.com/4HdsxhV7J3UjuSBheV_eijxUlVNRqqX5F6pjNvk_S7WoyolkJw-bx4DOiQOf-G3JVfmK4DfL6gg2GlPpEqR_euAYpwcr-SdpBHbYoMYfP7Ievrp1PMThNL7vUvZchdHK5j1iOWNffQ=w1200-h900"></object>
-  <object data="https://lh3.googleusercontent.com/2xEamvHjgF_XC4J5YDtimhJJZRJnfTudZn_kU_WBK8aeYukYj-PIo_kqkLGIJfmqkVGxxIvEnbtbvXE_Yd-337v6iXRwsRwHxIlFebx_5wNXBOFgSRfpFmMudgewKD2TtfrvYzqWUw=w1200-h900"></object>
   <object data="https://lh3.googleusercontent.com/mlN2fBkaWTogzs624Ay7W0isr1MReAaBHIY3okoG6Tspm1FKjmrzt51pKB8Ta_la6jVH6DnHqSxGDV9SfLw8RD0Rs-BvBQoa8rZW4GUu5LBWmi8gKwI2lzhUYGe9P4bcwcnAU1Vwaw=w1200-h900"></object>
   <object data="https://lh3.googleusercontent.com/r_CCVFjHVmoGCfB9tCF0Gp81Qvrc307kvWjXb9fKJlaCzo_A7Vfid1w7ZJx09xCUShIYuuFqwQ_8nxrmlaQTwX-0H4g7dAXOCj3E-twwLIxMnQSL7WiXT3YdaS3JFmnHRy-etCfO1g=w1200-h900"></object>
   <object data="https://lh3.googleusercontent.com/jQi-rJDL0qduKk8s0i6L9sKH6tjuUylWzKtL87PLu3wVixsFBgtByBW2BteeJOzwGJIUixyGjTso8Yoys41hrANw52P325tPIg2JktXXKDONdAqHyRXZH-qll82DDOGKFi7h-AaEiw=w1200-h900"></object>
