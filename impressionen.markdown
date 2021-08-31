@@ -4,7 +4,7 @@ title: Impressionen
 hero_height: is-small
 ---
 
-Um das "Recht am eigenen Bild" der Athletinnen und Athleten zu schützen, haben wir die Bilder mit einem Wasserzeichen versehen. Falls Ihr eure original Bilder gerne hättet, schreibt uns einfach kurz an **[glarnerberggeiss@bluewin.ch](mailto:glarnerberggeiss@bluewin.ch)** und wir senden euch diese umgehend zu.
+Hier einige Impressionen von der 2. Glarner Berggeiss. Falls Ihr eure Bilder ohne Wasserzeichen hättet, schreibt uns einfach kurz an **[glarnerberggeiss@bluewin.ch](mailto:glarnerberggeiss@bluewin.ch)** und wir senden euch diese gerne zu.
 
 #### 2021
 
