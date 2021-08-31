@@ -5,9 +5,9 @@ gallery:
 hero_height: is-small
 ---
 
-Um das "Recht am eigenen Bild" der Athletinnen und Athleten zu schützen haben wir die Bilder mit einem Wasserzeichen versehen. Falls Ihr eure original Bilder gerne hättet, schreibt uns einfach kurz an glarnerberggeiss@bluewin.ch und wir senden euch diese umgehend zu.
+Um das "Recht am eigenen Bild" der Athletinnen und Athleten zu schützen haben wir die Bilder mit einem Wasserzeichen versehen. Falls Ihr eure original Bilder gerne hättet, schreibt uns einfach kurz an **[glarnerberggeiss@bluewin.ch](mailto:glarnerberggeiss@bluewin.ch)** und wir senden euch diese umgehend zu.
 
-2021
+####2021
 
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
