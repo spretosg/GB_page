@@ -48,8 +48,8 @@ items:
 
   - title: 
     subtitle: 
-    icon: fa-battery-three-quarters
+    icon: fa-images
     description: >
       Training für die Berggeiss mit fitgoat
-    call_to_action_name: Training
-    call_to_action_link: https://www.youtube.com/watch?v=79PZFmIsX_U&t=3s
+    call_to_action_name: Impressionen 2021
+    call_to_action_link: /impressionen
