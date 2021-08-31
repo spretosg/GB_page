@@ -4,7 +4,7 @@ title: Impressionen
 hero_height: is-small
 ---
 
-Hier einige Impressionen von der 2. Glarner Berggeiss. Falls Ihr eure Bilder ohne Wasserzeichen möchtet, schreibt uns einfach kurz an **[glarnerberggeiss@bluewin.ch](mailto:glarnerberggeiss@bluewin.ch)** und wir senden euch diese gerne zu.
+Hier einige Impressionen von der 2. Glarner Berggeiss. Falls ihr eure Bilder ohne Wasserzeichen möchtet, schreibt uns einfach kurz an **[glarnerberggeiss@bluewin.ch](mailto:glarnerberggeiss@bluewin.ch)** und wir senden euch diese gerne zu.
 
 #### 2021
 
