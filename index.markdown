@@ -3,7 +3,7 @@ layout: page
 title: Glarner Berggeiss &ndash; Berglauf in Braunwald
 
 # Link-Button im Header
-hero_link: https://glarnerberggeiss.com/der_lauf
+hero_link: /der_lauf
 hero_link_text: 3. Ausgabe am 26.August 2022
 
 
