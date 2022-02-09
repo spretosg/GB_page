@@ -18,15 +18,15 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 
 > #### Kategorien
 > **Der Klassiker:**
-> -	Frauen W/Männer M             *Jg. 2005 - 1992
-> -	Frauen W30/Männer M30         *Jg. 1991 - 1972
-> -	Frauen W50/Männer M50         *Jg. 1971 und älter
+> -	Frauen W/Männer M             *Jg. 2006 - 1993
+> -	Frauen W30/Männer M30         *Jg. 1992 - 1973
+> -	Frauen W50/Männer M50         *Jg. 1972 und älter
 > 
 > **Der Belvedere:**
 > - Keine Alterskategorien, es werden lediglich die zwei Kategorien Frauen (W) und Männer (M) gewertet. Teilnahmeberechtigt ab Jg. 2005 und älter.
 >
 >
-> Melde dich ab 1.5.21 **[hier](https://my.raceresult.com/162085/)** an. 
+> Melde dich ab 1.5.22 **[hier](https://my.raceresult.com/191313/)** an. 
 
 > #### Preise
 > Finishergeschenk für alle Teilnehmer.
@@ -37,14 +37,16 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 > Mit dem Finishergeschenk werden Billette ausgeteilt für die Rückfahrt von Braunwald nach Linthal mit der Braunwaldbahn.
 
 > #### Startgeld
+Das Startgeld richtet sich nach der Anzahl Anmeldungen pro Lauf.
 >
-> | Zeitraum    	 | Klassiker | Belvedere |
+> | Startplätze    	 | Klassiker | Belvedere |
 > | :---        	 |    :----  |       :---|
-> | 1.5. - 31.7.21 	 | 30.-	     | 35.-	     |
-> | 1.8. - 25.8.21   | 35.-      | 40.-      |
-> | Beim Start	 	 | 45.-      | 45.-      |
+> | 1 - 30 	 		 | 25.-	 	 | 30.-	     |
+> | 31 - 50 	     | 30.-      | 35.-      |
+> | restliche Plätze | 35.-      | 40.-      |
+> | Vor Ort          | 45.-      | 45.-      |
 >
-> Am 26.8.21 wird auf der Webseite kommuniziert, ob noch Startplätze vorhanden sind. Diese können "first come first serve" bei der Startnummernausgabe mit TWINT oder gegen Barzahlung gekauft werden. 
+> Am 25.8.21 wird auf der Webseite kommuniziert, ob noch Startplätze vorhanden sind. Diese können "first come first serve" bei der Startnummernausgabe mit TWINT oder gegen Barzahlung gekauft werden. 
 
 > #### Verpflegung
 > Nach 3km befindet sich ein Verpflegungsposten mit Sportgetränk (WinForce). Beim längeren *Belvedere* gibt es zwei weitere Verpflegungsposten nach 5km (Ober Staffel) und 7km (Ortstockhaus).
