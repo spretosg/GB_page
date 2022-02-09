@@ -22,3 +22,13 @@ title:
   /* Add custom CSS here or elsewhere to change the design */
 </style>
 
+<div id="divRRRegStart" class="RRRegStart"></div>
+<script type="text/javascript" src="https://my.raceresult.com/RRRegStart/load.js.php?lang=de"></script>
+<script type="text/javascript">
+<!--
+	var rrp=new RRRegStart(document.getElementById("divRRRegStart"), 191313);
+-->
+</script>
+<style>
+  /* Add custom CSS here or elsewhere to change the design */
+</style>
