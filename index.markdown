@@ -35,6 +35,6 @@ oder auf
 </a>
 
 
-{% include _includes/cookie-consent.html %}
+{% include cookie-consent.html %}
 </body>
 </html>
