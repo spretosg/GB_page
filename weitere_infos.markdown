@@ -46,7 +46,7 @@ Das Startgeld richtet sich nach der Anzahl Anmeldungen pro Lauf.
 > | restliche Plätze | 35.-      | 40.-      |
 > | Vor Ort          | 45.-      | 45.-      |
 >
-> Am 25.8.21 wird auf der Webseite kommuniziert, ob noch Startplätze vorhanden sind. Diese können "first come first serve" bei der Startnummernausgabe mit TWINT oder gegen Barzahlung gekauft werden. 
+> Am 24.8.22 wird auf der Webseite kommuniziert, ob noch Startplätze vorhanden sind. Diese können "first come first serve" bei der Startnummernausgabe mit TWINT oder gegen Barzahlung gekauft werden. 
 
 > #### Verpflegung
 > Nach 3km befindet sich ein Verpflegungsposten mit Sportgetränk (WinForce). Beim längeren *Belvedere* gibt es zwei weitere Verpflegungsposten nach 5km (Ober Staffel) und 7km (Ortstockhaus).
