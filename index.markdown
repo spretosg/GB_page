@@ -34,7 +34,7 @@ oder auf
 <a href="https://www.instagram.com/glarnerberggeiss/"><i class="fa fa-instagram fa-4x" style = "color:grey"></i>
 </a>
 
-
+<!-- Scripts -->
 {% include cookie-consent.html %}
 </body>
 </html>
