@@ -23,6 +23,7 @@ hero_height: is-medium
 <body>
 Folge uns auf 
 
+
 <a href="https://www.facebook.com/glarnerberggeiss"><i class="fa fa-facebook-official fa-4x"></i>
 </a>
 
@@ -33,7 +34,7 @@ oder auf
 <a href="https://www.instagram.com/glarnerberggeiss/"><i class="fa fa-instagram fa-4x" style = "color:grey"></i>
 </a>
 
-{% include cookie-consent.html %}
 
+{% include cookie-consent.html %}
 </body>
 </html>
