@@ -34,7 +34,7 @@ plugins:
     - jekyll-feed
     - jekyll-remote-theme
     
-google_analytics: UA-186957857-1
+#google_analytics: UA-186957857-1
 
 # footer_menu: sponsors_footer
 
