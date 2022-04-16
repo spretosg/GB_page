@@ -5,14 +5,6 @@ menubar: false
 hero_height: is-small
 title: Datenschutz & Cookies
 ---
-Um die Reichweite unseres Anlass besser zu verstehen, verwenden wir google analytics. 
-
-Welche Dienste speichern Cookies auf dem Computer des Benutzers und was ist der Zweck?
-Welche Dienste übermitteln personenbezogene Daten des Nutzers und zu welchem Zweck?
-Eine Anleitung, wie der Benutzer diese Cookies und Dienste in seinem Browser blockieren kann.
-
-
-Nutzung von Google Analytics
 
 Wir verwenden Google Analytics, um die Website-Nutzung zu analysieren. Die daraus gewonnenen Daten werden genutzt, um Läuferinnen und Läufer aus weiteren Regionen anzusprechen.
 
@@ -20,7 +12,7 @@ Google Analytics ist ein Webanalysedienst, der von Google Inc. (1600 Amphitheatr
 
 Während Ihres Website-Besuchs werden u.a. folgende Daten aufgezeichnet:
 
-Aufgerufene Seiten
+**[Aufgerufene Seiten]**
 
 Ihr ungefährer Standort (Land und Stadt)
 Ihre IP-Adresse (in gekürzter Form, sodass keine eindeutige Zuordnung möglich ist)
