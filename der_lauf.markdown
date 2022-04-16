@@ -19,17 +19,17 @@ Beide Läufe starten in Linthal bei der Talstation der Linthal-Braunwaldbahn. De
 >**[Weitere Infos](/weitere_infos)**
 
 > ## Programm
-> #### Klassiker
->- Startnummernausgabe: 16.00 - 18.00 Uhr
->- Gepäckabgabe 16.30 - 18.05 Uhr
->- **Start: 18.15 Uhr**
->- Zielschluss: 19.45 Uhr
->
 > #### Belvedere
 >- Startnummernausgabe: 16.00 - 17.15 Uhr
 >- Gepäckabgabe 16.00 - 17.15 Uhr
 >- **Start: 17.30 Uhr**
 >- Kontrollschluss Unterstafel: 18.35 Uhr **[Karte](/belvedere)** 
+>- Zielschluss: 19.45 Uhr
+
+> #### Klassiker
+>- Startnummernausgabe: 16.00 - 18.00 Uhr
+>- Gepäckabgabe 16.30 - 18.05 Uhr
+>- **Start: 18.15 Uhr**
 >- Zielschluss: 19.45 Uhr
 >
 >Die Rangverkündigung für beide Strecken findet ca. um 19.45 Uhr statt.
