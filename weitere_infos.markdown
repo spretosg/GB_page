@@ -57,7 +57,7 @@ Das Startgeld richtet sich nach dem Anmeldedatum.
 > - **[Klassiker](/der_klassiker)** 
 
 > #### Wettkampfreglement
-> Das Wettkampfreglement kann **[hier](https://drive.google.com/file/d/1Rct2lbjIkOnM0lVQzaf0Gld2WMdHCILi/view?usp=sharing)** heruntergeladen werden.
+> Das Wettkampfreglement kann **[hier](https://drive.google.com/file/d/1hoiISxfgr-hE12FQh0yXtjghOasdfRMp/view?usp=sharing)** heruntergeladen werden.
 
 > #### Zeitmessung
 >
