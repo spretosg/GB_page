@@ -37,13 +37,13 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 > Mit dem Finishergeschenk werden Billette ausgeteilt für die Rückfahrt von Braunwald nach Linthal mit der Braunwaldbahn.
 
 > #### Startgeld
-Das Startgeld richtet sich nach der Anzahl Anmeldungen pro Lauf.
+Das Startgeld richtet sich nach dem Anmeldedatum.
 >
-> | Startplätze    	 | Klassiker | Belvedere |
+> | Datum    	 | Klassiker | Belvedere |
 > | :---        	 |    :----  |       :---|
-> | 1 - 30 	 		 | 25.-	 	 | 30.-	     |
-> | 31 - 50 	     | 30.-      | 35.-      |
-> | restliche Plätze | 35.-      | 40.-      |
+> | 1.5.22 -31.5.22 	 		 | 25.-	 	 | 30.-	     |
+> | 1.6.22 -31.7.22	     | 30.-      | 35.-      |
+> | 1.8.22 -24.8.22 | 35.-      | 40.-      |
 > | Vor Ort          | 45.-      | 45.-      |
 >
 > Am 24.8.22 wird auf der Webseite kommuniziert, ob noch Startplätze vorhanden sind. Diese können "first come first serve" bei der Startnummernausgabe mit TWINT oder gegen Barzahlung gekauft werden. 
