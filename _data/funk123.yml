@@ -15,7 +15,10 @@ items:
     subtitle:  
     icon: fa-pencil-alt
     description: >
-      Anmeldung ab 1.Mai 2022 offen
+      Anmeldung offen
+      
+    call_to_action_name: Anmeldung
+    call_to_action_link: /anmeldung
     
     
   - title: 
