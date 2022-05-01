@@ -23,11 +23,11 @@ items:
     
   - title: 
     subtitle: 
-    icon: fa-medal
+    icon: fa-trophy
     description: >
-      Die Ranglisten beider Ausgaben
-    call_to_action_name: Rangliste
-    call_to_action_link: /ranglisten
+      Der Glarner Laufcup 2022
+    call_to_action_name: Glarner Laufcup
+    call_to_action_link: https://glarnerlaufcup.ch/
     
     
   - title: 
