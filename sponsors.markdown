@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Unsere Sponsoren
-#gallery: sponsors_gallery
+gallery: sponsoren
 hero_height: is-small
 ---
