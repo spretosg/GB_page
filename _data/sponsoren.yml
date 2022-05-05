@@ -8,13 +8,3 @@
       ratio: is-16by9
       
 
-- title: Unsere Silbersponsoren
-  images:
-    - link: <figure class="image is-128x128">
-  <img src="/img/new/W_LogoClaim_rgb.png.png">
-</figure>
-      large_link: /img/new/W_LogoClaim_rgb.png
-      alt: Twheycation
-      description: |-
-        **[WHEYCATION](https://wheycation.com/)** Guter Food aus Schweizer Molke für aktive, naturverbundene und abenteuerlustige Menschen
-      ratio: is-16by9
