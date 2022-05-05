@@ -1,10 +1,38 @@
 - title: Unsere Goldsponsoren
   images:
     - link: /img/new/W_LogoClaim_rgb.png
-      large_link: https://wheycation.com/
-      alt: Twheycation
+      large_/img/new/W_LogoClaim_rgb.png
+      alt: wheycation
       description: |-
         **[WHEYCATION](https://wheycation.com/)** Guter Food aus Schweizer Molke für aktive, naturverbundene und abenteuerlustige Menschen
       ratio: is-16by9
       
-
+    - link: /img/new/twing.PNG
+      large_link: /img/new/twing.PNG
+      alt: twing
+      description: |-
+        **[twing](https://www.twing.swiss/)** Produktinnovation B2B und B2C
+      ratio: is-16by9
+      
+         - link: /img/new/gctag.png
+      large_link: /img/new/gctag.png
+      alt: twing
+      description: |-
+        **[gctag](https://gctag.ch/)** Immobilien - Projektmanagement - Unternehmensberatung aus dem Glarnerland
+      ratio: is-16by9
+      
+            - link: /img/new/gctag.png
+      large_link: /img/new/gctag.png
+      alt: twing
+      description: |-
+        **[gctag](https://gctag.ch/)** Immobilien - Projektmanagement - Unternehmensberatung aus dem Glarnerland
+      ratio: is-16by9
+      
+      wirbel hg_sw_100.jpeg
+      
+          - link: /img/new/wirbel hg_sw_100.jpeg
+      large_link: /img/new/wirbel hg_sw_100.jpeg
+      alt: twing
+      description: |-
+        **[zurzach care](https://www.zurzachcare.ch/)** - für ein gesundes Leben
+      ratio: is-16by9
