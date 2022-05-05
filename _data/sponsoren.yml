@@ -1,6 +1,6 @@
 - title: Unsere Goldsponsoren
   images:
-    - link: /img/new/W_LogoClaim_rgb.png/400x200
+    - link: /img/new/W_LogoClaim_rgb.png
       large_link: https://wheycation.com/
       alt: Twheycation
       description: |-
@@ -10,7 +10,9 @@
 
 - title: Unsere Silbersponsoren
   images:
-    - link: /img/new/W_LogoClaim_rgb.png/200x100
+    - link: <figure class="image is-128x128">
+  <img src="/img/new/W_LogoClaim_rgb.png.png">
+</figure>
       large_link: /img/new/W_LogoClaim_rgb.png
       alt: Twheycation
       description: |-
