@@ -1,36 +1,36 @@
 - title: Unsere Goldsponsoren
   images:
-    - link: /img/new/W_LogoClaim_rgb.png
-      large_link: /img/new/W_LogoClaim_rgb.png
+    - link: /img/new/whey_16_9.png
+      large_link: /img/new/whey_16_9.png
       alt: wheycation
       description: |-
-        **[WHEYCATION](https://wheycation.com/)** Guter Food aus Schweizer Molke für aktive, naturverbundene und abenteuerlustige Menschen
+        **[WHEYCATION](https://wheycation.com/)** Guter Food aus Schweizer Molke für aktive Menschen
       ratio: is-16by9
       
-    - link: /img/new/twing.PNG
-      large_link: /img/new/twing.PNG
+    - link: /img/new/twing_16_9.png
+      large_link: /img/new/twing_16_9.png
       alt: twing
       description: |-
         **[twing](https://www.twing.swiss/)** Produktinnovation B2B und B2C
       ratio: is-16by9
       
-    - link: /img/new/gctag.png
-      large_link: /img/new/gctag.png
+    - link: /img/new/gctag_16_9.png
+      large_link: /img/new/gctag_16_9.png
       alt: gctag
       description: |-
         **[gctag](https://gctag.ch/)** Immobilien - Projektmanagement - Unternehmensberatung aus dem Glarnerland
       ratio: is-16by9
 
 
-    - link: /img/new/ungleich.png
-      large_link: /img/new/ungleich.png
+    - link: /img/new/ungleich_16_9.png
+      large_link: /img/new/ungleich_16_9.png
       alt: ungleich
       description: |-
         **[ungleich](https://ungleich.ch/en-us/cms/)** - Die Glarnercloud für Deine Daten
       ratio: is-16by9
 
-    - link: /img/new/wirbel hg_sw_100.jpeg
-      large_link: /img/new/wirbel hg_sw_100.jpeg
+    - link: /img/new/zurzach_16_9.png
+      large_link: /img/new/zurzach_16_9.png
       alt: zurzach care
       description: |-
         **[zurzach care](https://www.zurzachcare.ch/)** - für ein gesundes Leben
