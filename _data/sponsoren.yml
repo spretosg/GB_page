@@ -61,8 +61,8 @@
 
 
    - link: /img/new/glkb_16_9.png
-      large_link: /img/new/glkb_16_9.png
-      alt: GLKB
-      description: |-
+     large_link: /img/new/glkb_16_9.png
+     alt: GLKB
+     description: |-
         **[GLKB](https://glkb.ch/)** - 
-      ratio: is-16by9
+     ratio: is-16by9
