@@ -22,6 +22,13 @@
       ratio: is-16by9
 
 
+    - link: /img/new/ungleich.png
+      large_link: /img/new/ungleich.png
+      alt: twing
+      description: |-
+        **[ungleich](https://ungleich.ch/en-us/cms/)** - Die Glarnercloud für Deine Daten
+      ratio: is-16by9
+
     - link: /img/new/wirbel hg_sw_100.jpeg
       large_link: /img/new/wirbel hg_sw_100.jpeg
       alt: twing
