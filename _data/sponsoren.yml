@@ -35,3 +35,35 @@
       description: |-
         **[zurzach care](https://www.zurzachcare.ch/)** - für ein gesundes Leben
       ratio: is-16by9
+      
+      
+      - title: Silbersponsoren
+  images:
+    - link: /img/new/kspartner_16_9.png
+      large_link: /img/new/kspartner_16_9.png
+      alt: kspartner
+      description: |-
+        **[kspartner](https://https://www.kspartner.ch/)** 
+      ratio: is-16by9
+      
+    - link: /img/new/adler_16_9.png
+      large_link: /img/new/adler_16_9.png
+      alt: Adlerbräu
+      description: |-
+        **[Adlerbräu](https://www.brauereiadler.ch/)** 
+      ratio: is-16by9
+      
+    - link: /img/new/service_16_9.png
+      large_link: /img/new/service_16_9.png
+      alt: Service7000
+      description: |-
+        **[service7000](https://service7000.ch/)** 
+      ratio: is-16by9
+
+
+    - link: /img/new/glkb_16_9.png
+      large_link: /img/new/glkb_16_9.png
+      alt: GLKB
+      description: |-
+        **[GLKB](https://glkb.ch/)** - 
+      ratio: is-16by9
