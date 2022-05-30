@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Medien
+title: Impressionen
 tabs: tabs_medien
 hero_height: is-small
 ---
