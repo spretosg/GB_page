@@ -1,0 +1,10 @@
+alignment: is-left
+style: is-boxed
+size: is-medium
+items:
+  - name: Medienberichte
+    link: /medienberichte
+    icon: fa-newspaper
+  - name: Impressionen
+    link: /impressionen
+    icon: fa-camera
