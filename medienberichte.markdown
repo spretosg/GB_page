@@ -4,7 +4,6 @@ title: Medienberichte
 tabs: tabs_medien
 hero_height: is-small
 ---
-#### 2020
 
 #### 2021
 
@@ -12,7 +11,7 @@ hero_height: is-small
 
 [Südostschweiz Rennbericht](https://drive.google.com/file/d/1nrxxPAoVN0QrM1jC1TIqAnxUcORzVbTK/view?usp=sharing)
 
-[Südostschweiz Rennbericht II]([Südostschweiz Rennbericht](https://drive.google.com/file/d/1nrxxPAoVN0QrM1jC1TIqAnxUcORzVbTK/view?usp=sharing))
+[Südostschweiz Rennbericht II](https://drive.google.com/file/d/1nrxxPAoVN0QrM1jC1TIqAnxUcORzVbTK/view?usp=sharing)
 
 #### 2022
 [Südostschweiz Glarner Laufcup](https://drive.google.com/file/d/1c9hHbJ2NYJKSM1zgqpgJb0p5kaY52Hnb/view?usp=sharing)
