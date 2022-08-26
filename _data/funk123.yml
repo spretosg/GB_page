@@ -11,6 +11,7 @@ items:
     call_to_action_name: Infos
     call_to_action_link: /der_lauf
     
+    
   - title: 
     subtitle:  
     icon: fa-pencil-alt
@@ -19,17 +20,8 @@ items:
       
     call_to_action_name: Startliste
     call_to_action_link: /startliste
-    
-    
-   - title: 
-     subtitle:  
-     icon: fa-trophy
-     description: >
-      Resultate 2022 
-     call_to_action_name: Rangliste
-     call_to_action_link: https://my.raceresult.com/191313/results
-    
-    
+      
+      
   - title: 
     subtitle: 
     icon: fa-trophy
