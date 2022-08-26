@@ -9,11 +9,9 @@
       link: /belvedere
     - name: Weitere Infos
       link: /weitere_infos
-- name: Anmeldung
-  link: /anmeldung    
+- name: Startliste
+  link: /startliste    
   dropdown:
-    - name: Anmeldung
-      link: /anmeldung
     - name: Startliste
       link: /startliste
       
