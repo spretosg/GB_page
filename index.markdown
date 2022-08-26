@@ -4,7 +4,7 @@ title: Glarner Berggeiss &ndash; Berglauf in Braunwald
 
 # Link-Button im Header
 hero_link: /der_lauf
-hero_link_text: 26.8.22 ab 15.30 Uhr Startnummernausgabe - noch 30 Startplätze verfügbar
+hero_link_text: Nachmeldung offen
 
 
 # Callouts einbinden
