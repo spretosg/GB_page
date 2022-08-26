@@ -21,12 +21,11 @@ items:
     call_to_action_link: /startliste
     
     
-     - title: 
+   - title: 
     subtitle:  
-    icon: fa-clock-o
+    icon: fa-trophy
     description: >
-      Resultate 2022
-      
+      Resultate 2022 
     call_to_action_name: Rangliste
     call_to_action_link: https://my.raceresult.com/191313/results
     
