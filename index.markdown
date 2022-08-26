@@ -4,8 +4,7 @@ title: Glarner Berggeiss &ndash; Berglauf in Braunwald
 
 # Link-Button im Header
 hero_link: /der_lauf
-hero_link_text: Nachmeldung offen
-
+hero_link_text: 4. Ausgabe 25.8.2023
 
 # Callouts einbinden
 callouts: funk123
