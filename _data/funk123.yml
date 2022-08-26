@@ -17,8 +17,8 @@ items:
     description: >
       Nachmeldung vor Ort möglich
       
-    call_to_action_name: Anmeldung
-    call_to_action_link: /anmeldung
+    call_to_action_name: Startliste
+    call_to_action_link: /startliste
     
     
   - title: 
