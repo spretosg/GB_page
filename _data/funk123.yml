@@ -16,10 +16,10 @@ items:
     subtitle:  
     icon: fa-pencil-alt
     description: >
-      Nachmeldung vor Ort möglich
+      Rangliste 2022
       
-    call_to_action_name: Startliste
-    call_to_action_link: /startliste
+    call_to_action_name: Rangliste
+    call_to_action_link: https://my.raceresult.com/191313/
       
       
   - title: 
