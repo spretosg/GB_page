@@ -22,12 +22,12 @@ items:
     
     
    - title: 
-    subtitle:  
-    icon: fa-trophy
-    description: >
+     subtitle:  
+     icon: fa-trophy
+     description: >
       Resultate 2022 
-    call_to_action_name: Rangliste
-    call_to_action_link: https://my.raceresult.com/191313/results
+     call_to_action_name: Rangliste
+     call_to_action_link: https://my.raceresult.com/191313/results
     
     
   - title: 
