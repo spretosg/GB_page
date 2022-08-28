@@ -5,7 +5,36 @@ tabs: tabs_medien
 hero_height: is-small
 ---
 
-Hier einige Impressionen von der 2. Glarner Berggeiss. Falls ihr eure Bilder ohne Wasserzeichen möchtet, schreibt uns einfach kurz an **[glarnerberggeiss@bluewin.ch](mailto:glarnerberggeiss@bluewin.ch)** und wir senden euch diese gerne zu.
+Hier einige Impressionen von der 3. Glarner Berggeiss.
+
+#### 2022
+
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/qoeEjE9X25iyUuC86"
+  data-title="Glarner Berggeiss 2022"
+  data-description="18 new items added to shared album">
+  <object data="https://lh3.googleusercontent.com/Vl3yy_-atMtzgCKnVUSVvWg2OXB8kmBdQg188uN0TpRR_NYrfTpytf6cILYAiAK10M0ifzm1LIj4TBTE9Ms3ugGOKb9fU5o8jpqlPtr_oNhv_V5Md8UJ2rpbBIOxRni4rLbQI4KcRg=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/8Z-nUZ_qQornZ5WdY5KgVrdh0jSVdngL85bhOYsv8j3npustHJ-7pQv6DE_LBck06uQTT5yFn3kHxYH6dnQviEmNPidoOMau618KgZhPsUemeKWFibyNK7YFamIXkj0IbxKm15dx9w=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/ASeSGLlgxWBJoBfstfwc0qRvnXIKgDXUNbbkWFsQqJHNhXQ-HRYwDAnrYV8pAQMgQHq7QRn1WZPwraf_Js3hKvUUd15K0DbYb2UQl52atyrT3SzSeAPMCwBV1QxPwPG4n7mjDKyYkw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/ZunzPD_e2aZH23XBk4NcGYj2-WEqJ5zcRyC_gR0avhw6XSoxRH_kDukj6z9wPTnlCiwZjZaR99cFU95seBR_LpxpJrSmD6Pbf5HoRSirJk0PnM7cX32cIK6ns0icaUla567PNsJM3Q=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/kRw92B-LzciiKKOVTRO8ynopqZS9iK338WpWuq2wWryovp1BAI042Bq6FjANpcIQQNmp11i30-hqrDP8BwVvBsjJCKEipT0dcOK4HQHLCLG-BcoLvDVdzvRPo_nCnQX2uPIkxzoB7g=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/9-fqcTtufTVkMVr4opnWDN3fyh5sNwD4Q3Pu9z4_CbdmRLI0AFZYm5i7S9ylMD25RbxuUnHwSIt2FxWus2R1WEtEX4V6T0gsGNY2EobYDoWoJ4x990m0QKrTDBNDqCWJoA3s_78CuQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/q6XB8R7UXq42MPAKzqZOJUNnpKgHdS2qsgEDchSnx8comibZCizuo8hTqCSLFz2BF8EzufUhtaZfzJ5N_Y8gyBRj0pQGdDDV_XcuzoOYdUoW4auGAP5_K1lrvVLJVQEutQEBePDqbA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/3Rx90a2YSQgIMTLOmt26bp62NFnWEKRQb1aDbiMYEyFZSVctigfdkj1V09rt1rOmrKPDrLognuJ2s742XfFwSedtzbXlKi8bH1ebUuY7RkozskGZrInL5Hi23kFRgO3eIicUMia_RQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/rN23oZObYl1cYN7NcjDjz74HNzGnPdDpilbfKrDCAo25S0NANgXQcumRm4kqbF72GwbO1A29tWf_c7EIk0wwJ6o0J5BL_OJd5dikWxX1jfJE4oDLeq_2qasvsNQH-rb6XT0q739qmQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/4JSViraaLMXSA3A6uzsJNeH8b7lnX6TYrqqfO7AvOZxjkonfa8QENA5s3sA7OBqXFv3JirMRGkn5j8ZaN1YwPqH09i-uPVl9v3kqiHkRfaL1aEaB8fazeM8cAbMVbcjqlqvLoDhxfA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/yvak5anA4vRZo58OTZUNswQtue47HRlljH-KBduE5-WuovItNryLu9cLdKClelE2NWOP__PFNHLITZJP-eCbwbo6_oV7kxOgWlUJFu5zLod0tu8qlXOZlNFnK8SwKpXxthemhA2vLw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/oIYs6UN-A-IMGAqXXx4KFgMemFheGczzIM2KodHEuEWXzsSHal6v6ZC3jOdJlIAp75NVu23KY1Z6I4jsTSdU3jmdozfcvJkNsw1EeRQtCN91EsR958Vbv4K8Yo9YfIeQFzpOJ0fPdA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/FeO20y6EWvEZEar0ebZVySWIiqS6eT_BCmH4FqQAnMXugMSNKRCcXk9nbYLmpVAcYulHc1o_RUX2UNzzm3VXzCrZrorNTn38uTX0JKZdxOnyGqiSE-rS_VjbACXIM-GYDyxfV18ASQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/OZaEnZZ2Ifv-ELLQHvbTor8f1pAOmBFM6zcs6l-bEQffazNt5bu6UBpppB2ue6-IToX3ClKn48EiZT5H8tPvUMC86djfnlEh_oZcri_8Z8U2WSFOcrPZVp-EMpZeMQDFXV4CfRnOqw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/GmXHy0Hxk-ok5ZZkbhwItQSxzOutdjdBSDomH2D8MVPuND66mqA-_GcbjxIazV1puHnHItRNdz8NXD8rAMX9JXHI8MTuRDNsDrLsraWQ1a84CJ3DKPaxmcXPBerP5Scc3vres7ZpSA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/4SGUuYEJAqcIzhhJBqNlvaJpwzlXpQwXx1rsV05PPKE1jfvDIPW1U3JfeFVgmBNOOJsL-Q25cbDnjYeCqr5vd1UshxCZx36WfonIqlJss7XzwnAcS1EQBbLU3bwy8QfgdhfOdJCncQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/BAUZsgC11GAweWmoc22ED6NBo84v4ZiDjxWDAK_deR6A6Sj-iwwmmo5xNL82QcYttX_lBfBI-M5x4ABAA-DAoDIDtuybtQKECX9GrWLWrmG3NrLRWi8Y8rIT5ZXBFY1WNtDfMvbYCA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/FgmVAdAt4FPiVW8f-IaeV7tVuKnvsjZQwIxveWFfkNCZxXKs26ETu8byZius9axUwJU8Bh8OVQx_gfDOMbKa0age_mkWqu2Xuj3uK11igL9fhIKhfG60nTXYOyKezQVrhpFgcinfuw=w1920-h1080"></object>
+</div>
+
+
 
 #### 2021
 
