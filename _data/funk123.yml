@@ -20,6 +20,15 @@ items:
       
     call_to_action_name: Rangliste
     call_to_action_link: https://my.raceresult.com/191313/
+    
+  - title:
+    subtitle: 
+    icon: fa-solid fa-camera
+    description: >
+      Impressionen 2022
+
+    call_to_action_name: Fotos
+    call_to_action_link: /impressionen
       
       
   - title: 
