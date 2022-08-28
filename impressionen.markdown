@@ -5,7 +5,7 @@ tabs: tabs_medien
 hero_height: is-small
 ---
 
-Hier einige Impressionen von der 3. Glarner Berggeiss.
+Hier einige Impressionen von der 3. und 2. Glarner Berggeiss.
 
 #### 2022
 
