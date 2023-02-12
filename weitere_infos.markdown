@@ -66,4 +66,4 @@ Das Startgeld richtet sich nach dem Anmeldedatum.
 
 > #### Zeitmessung
 >
-> Die Zeitmessung erfolgt mittels **Bruttozeiten**, das heisst die Laufzeit zählt bei beiden Läufen ab dem Startschuss.
+> Die Zeitmessung erfolgt mittels **Bruttozeiten**, das heisst die Laufzeit zählt bei allen Läufen ab dem Startschuss. Bei der Plauskategorie auf der Berggizi Strecke werden keine Laufzeiten publiziert, sondern eine alphabetische Finisher Liste.
