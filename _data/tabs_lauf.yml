@@ -11,6 +11,9 @@ items:
   - name: Belvedere
     link: /belvedere
     icon: fa-star
+  - name: Berggizi
+    link: /berggizi
+    icon: fa-thumbs-o-up
   - name: Weitere Infos
     link: /weitere_infos
     icon: fa-bars
