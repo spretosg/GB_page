@@ -15,13 +15,16 @@ Beide Läufe starten in Linthal bei der Talstation der Linthal-Braunwaldbahn. De
 >
 >**[Belvedere](/belvedere)**
 >12.6km, 1200Hm
+
+>**[Berggizi](/berggizi)**
+>4.1km, 450Hm
 >
 >**[Weitere Infos](/weitere_infos)**
 
 > ## Programm
 > #### Belvedere
 >- Startnummernausgabe: 16.00 - 17.15 Uhr
->- Gepäckabgabe 16.00 - 17.15 Uhr
+>- Gepäckabgabe 16.30 - 17.15 Uhr
 >- **Start: 17.30 Uhr**
 >- Kontrollschluss Unterstafel: 18.35 Uhr **[Karte](/belvedere)** 
 >- Zielschluss: 19.45 Uhr
@@ -29,16 +32,35 @@ Beide Läufe starten in Linthal bei der Talstation der Linthal-Braunwaldbahn. De
 > #### Klassiker
 >- Startnummernausgabe: 16.00 - 18.00 Uhr
 >- Gepäckabgabe 16.30 - 18.05 Uhr
->- **Start: 18.15 Uhr**
+>- **Start: 18.30 Uhr**
 >- Zielschluss: 19.45 Uhr
+
+> #### Berggizi
+>- Startnummernausgabe: 16.00 - 18.00 Uhr
+>- Gepäckabgabe 16.30 - 18.00 Uhr
+>- **Extrafahrt Braunwaldbahn bis Tannboden. Vorderste zwei Abteile benutzen!**
+>- **Start: 18.20 Uhr**
+>- Zielschluss: 19.45 Uhr
+
 >
->Die Rangverkündigung für beide Strecken findet ca. um 19.45 Uhr statt.
+>Die Rangverkündigung für alle Strecken findet ca. um 19.45 Uhr im Zielgelände statt.
 
 > ## Start- und Zielgelände
-> Der Start, die Startnummernausgabe und die Gepäckabgabe befinden sich bei der Talstation der Braunwaldbahn.
->
-> Das Ziel befindet sich auf dem Hüttenberg beim Hotel Cristal in Braunwald.
->
+
+Der Start, die Startnummernausgabe und die Gepäckabgabe befinden sich bei der Talstation der Braunwaldbahn.
+
+Wir empfehlen die Anreise mit dem ÖV, das Programm ist abgestimmt auf den Fahrplan der Linien S6 und S25:
+
+**Belvedere:** Empfohlene Anreise mit S25, Ankunft Linthal Braunwaldbahn um 16:13 (Zürich HB ab: 14:43) oder S6 mit Busanschluss ab Schwanden, Ankunft um 16:50 (Rapperswil ab: 15:33)
+
+**Klassiker:** Empfohlene Anreise mit S25, Ankunft Linthal Braunwaldbahn um 17:13 (Zürich HB ab: 15:43) oder S6 mit Busanschluss ab Schwanden, Ankunft um 17:50 (Rapperswil ab: 16:33)
+
+**Berggitzi:** mpfohlene Anreise mit S25, Ankunft Linthal Braunwaldbahn um 17:13 (Zürich HB ab: 15:43).
+
+Das Ziel befindet sich auf dem Hüttenberg beim Hotel Cristal in Braunwald.
+
+Rückreise: 10min Fussmarsch vom Zielgelände zur Bergstation Braunwaldbahn. Braunwaldbahn Abfahrten 20:25, 20:55, 21:55 (xx:55 mit Anschluss nach Rapperswil/Zürich).
+
 ><div class="hero-body" style="margin:0 !important; padding: 0 !important;">
 ><iframe src='https://map.geo.admin.ch/embed.html?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,KML%7C%7Chttps:%2F%2Fpublic.geo.admin.ch%2FIoZL194gTJifnsQOmcdBdg&layers_visibility=false,false,false,false,true&layers_timestamp=18641231,,,,&layers_opacity=1,1,1,0.8,1&E=2718616.92&N=1199874.20&zoom=6' height='400' frameborder='0' style='width: 100% !important; border:0;'></iframe>
 ></div>
