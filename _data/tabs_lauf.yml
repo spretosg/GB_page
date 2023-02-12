@@ -13,7 +13,7 @@ items:
     icon: fa-star
   - name: Berggizi
     link: /berggizi
-    icon: fa-thumbs-o-up
+    icon: fa-thumbs-up
   - name: Weitere Infos
     link: /weitere_infos
     icon: fa-bars
