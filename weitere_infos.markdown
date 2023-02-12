@@ -58,7 +58,7 @@ Das Startgeld richtet sich nach dem Anmeldedatum.
 > Im Ziel wird dann für opitmale Regeneration gesorgt.
 >
 > Schau dir nochmals die Karte an mit den eingezeichneten Verpflegungsposten an:
-> - **[Belvedere](/belvedere)** 
+> - **[Belvedere/Berggizi](/belvedere)** 
 > - **[Klassiker](/der_klassiker)** 
 
 > #### Wettkampfreglement
