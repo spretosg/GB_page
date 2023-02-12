@@ -23,7 +23,7 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 > -	Frauen W50/Männer M50         *Jg. 1973 und älter
 > 
 > **Der Belvedere:**
-> - Keine Alterskategorien, es werden lediglich die zwei Kategorien Frauen (W) und Männer (M) gewertet. Teilnahmeberechtigt ab Jg. 2006 und älter.
+> - Keine Alterskategorien, es werden lediglich die zwei Kategorien Frauen (W) und Männer (M) gewertet. Teilnahmeberechtigt ab Jg. 2007 und älter.
 
 **Das Berggizi:**
 - Frauen WU16/ Männer MU16 *Jg. 2011 - 2007
