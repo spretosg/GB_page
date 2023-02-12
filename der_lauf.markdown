@@ -15,7 +15,7 @@ Beide Läufe starten in Linthal bei der Talstation der Linthal-Braunwaldbahn. De
 >
 >**[Belvedere](/belvedere)**
 >12.6km, 1200Hm
-
+>
 >**[Berggizi](/berggizi)**
 >4.1km, 450Hm
 >
@@ -55,7 +55,7 @@ Wir empfehlen die Anreise mit dem ÖV, das Programm ist abgestimmt auf den Fahrp
 
 **Klassiker:** Empfohlene Anreise mit S25, Ankunft Linthal Braunwaldbahn um 17:13 (Zürich HB ab: 15:43) oder S6 mit Busanschluss ab Schwanden, Ankunft um 17:50 (Rapperswil ab: 16:33)
 
-**Berggitzi:** mpfohlene Anreise mit S25, Ankunft Linthal Braunwaldbahn um 17:13 (Zürich HB ab: 15:43).
+**Berggizi:** mpfohlene Anreise mit S25, Ankunft Linthal Braunwaldbahn um 17:13 (Zürich HB ab: 15:43).
 
 Das Ziel befindet sich auf dem Hüttenberg beim Hotel Cristal in Braunwald.
 
