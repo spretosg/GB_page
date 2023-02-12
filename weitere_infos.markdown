@@ -18,15 +18,20 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 
 > #### Kategorien
 > **Der Klassiker:**
-> -	Frauen W/Männer M             *Jg. 2006 - 1993
-> -	Frauen W30/Männer M30         *Jg. 1992 - 1973
-> -	Frauen W50/Männer M50         *Jg. 1972 und älter
+> -	Frauen W/Männer M             *Jg. 2007 - 1989
+> -	Frauen W35/Männer M35         *Jg. 1988 - 1974
+> -	Frauen W50/Männer M50         *Jg. 1973 und älter
 > 
 > **Der Belvedere:**
 > - Keine Alterskategorien, es werden lediglich die zwei Kategorien Frauen (W) und Männer (M) gewertet. Teilnahmeberechtigt ab Jg. 2006 und älter.
+
+**Das Berggizi:**
+- Frauen WU16/ Männer MU16 *Jg. 2011 - 2007
+- Finisherkategorie ohne Zeitmessung, Jg. 2011 und älter
 >
->
-> Melde dich ab 1.5.22 **[hier](https://my.raceresult.com/191313/)** an. 
+> Melde dich ab 1.5.23 **[hier](https://my.raceresult.com/216668/)** an. 
+
+
 
 > #### Preise
 > Finishergeschenk für alle Teilnehmer.
@@ -41,9 +46,9 @@ Das Startgeld richtet sich nach dem Anmeldedatum.
 >
 > | Datum    	 | Klassiker | Belvedere |
 > | :---        	 |    :----  |       :---|
-> | 1.5.22 -31.5.22 	 		 | 25.-	 	 | 30.-	     |
-> | 1.6.22 -31.7.22	     | 30.-      | 35.-      |
-> | 1.8.22 -24.8.22 | 35.-      | 40.-      |
+> | 1.5.23 -31.5.23 	 		 | 25.-	 	 | 30.-	     |
+> | 1.6.23 -31.7.23	     | 30.-      | 35.-      |
+> | 1.8.23 -24.8.23 | 35.-      | 40.-      |
 > | Vor Ort          | 45.-      | 45.-      |
 >
 > Am 24.8.22 wird auf der Webseite kommuniziert, ob noch Startplätze vorhanden sind. Diese können "first come first serve" bei der Startnummernausgabe mit TWINT oder gegen Barzahlung gekauft werden. 
