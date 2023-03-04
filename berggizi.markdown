@@ -9,8 +9,14 @@ title: Berggizi (4.1km, 450Hm)
 ### Start um 18.15 Uhr
 
 #### Beschreibung
-<p style='text-align: justify;'> Die Laufstrecke ist 4.1km lang und es gilt 450 Höhenmeter zu erklimmen. Der Start erfolgt bei der Mittelstation Braunwaldbahn auf dem Tannboden. Im Zickzack geht es stetig hinauf bis zur RehaClinic Braunwald. Kurz danach befindet sich eine Verpflegungsstation mit Sportgetränk (nach ca. 2.8km). Der zweite Abschnitt führt einer Kiesstrasse entlang und steigt nur noch gemächlich bis zum Ziel auf dem Hüttenberg.
+<p style='text-align: justify;'> Bei der verkürzten Version des Klassikers wird um 18.05 ab dem Tannboden gestartet. 
+Dafür fährt um 17.55 eine Spezialfahrt mit der Braunwaldbahn bis zur Mittelstation Tannboden. 
+Die Teilnehmerinnen und Teilnehmer müssen in die vorderen beiden Abteile der Bahn einsteigen. 
+In ca. 30 min ist der Start auch mit einem Fussmarsch von Linthal Braunwaldbahn zu erreichen und zugleich ein gutes Aufwärmen. 
+Die Strecke folgt ab Tannboden der Klassiker Strecke bis zum Hüttenberg. Auf dieser Strecke erhalten alle ein Finisher Geschenk, jedoch gibt es keine Rangierung nach Zeit.
+Somit ist die Strecke eine Genussstrecke und offen für alle älter als 12 Jahre, ob zügiger oder gemütlicher unterwegs. Es gilt dabei das Zeitlimit im Hüttenberg von 19.30 Uhr.
 </p>
+**Hinweis:** Beim Berggizi gibt es keine Zeitmessung. Die Teilnehmenden werden in der run4Fun Kategorie des Glarner Laufcups aufgenommen (Link GLC)
 
 [GPX Track Download](https://drive.google.com/uc?export=download&id=1wFbdG7IEKZZfbzM3B59zZ61UMlZ6u_2N)
 
