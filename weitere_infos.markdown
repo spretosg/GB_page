@@ -69,5 +69,5 @@ Das Startgeld richtet sich nach dem Anmeldedatum.
 >
 >Teilnehmende welche beim Klassiker oder Belvedere mitmachen & beim Klöntalereseelauf 2023 die lange Strecke absolviert haben, werden in die Glarner Laufcup >Zwischenwertung aufgenommen.
 >
->Teilnehmende auf der Berggizi Strecke, welche bereits in irgend einer Kategorie am Klöntalerseelauf 2023 gestartet sind, werden in die run4Fun Kategorie des Glarner >Laufcups aufgenommen. **[Cupreglement 2023] (https://www.glarnerlaufcup.ch/cup-infos/reglement)**
+>Teilnehmende auf der Berggizi Strecke, welche bereits in irgend einer Kategorie am Klöntalerseelauf 2023 gestartet sind, werden in die run4Fun Kategorie des Glarner >Laufcups aufgenommen. **[Cupreglement 2023](https://www.glarnerlaufcup.ch/cup-infos/reglement)**
 
