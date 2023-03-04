@@ -51,11 +51,11 @@ Der Start, die Startnummernausgabe und die Gepäckabgabe befinden sich bei der T
 
 Wir empfehlen die Anreise mit dem ÖV, das Programm ist abgestimmt auf den Fahrplan der Linien S6 und S25:
 
-**Belvedere:** Empfohlene Anreise mit S25, Ankunft Linthal Braunwaldbahn um 16:13 (Zürich HB ab: 14:43) oder S6 mit Busanschluss ab Schwanden, Ankunft um 16:50 (Rapperswil ab: 15:33)
+**Belvedere:** S25 Ankunft Linthal Braunwaldbahn um 16:13 (Zürich HB ab: 14:43) oder S6 mit Busanschluss ab Schwanden, Ankunft um 16:50 (Rapperswil ab: 15:33)
 
-**Klassiker:** Empfohlene Anreise mit S25, Ankunft Linthal Braunwaldbahn um 17:13 (Zürich HB ab: 15:43) oder S6 mit Busanschluss ab Schwanden, Ankunft um 17:50 (Rapperswil ab: 16:33)
+**Klassiker:** S25 Ankunft Linthal Braunwaldbahn um 17:13 (Zürich HB ab: 15:43) oder S6 mit Busanschluss ab Schwanden, Ankunft um 17:50 (Rapperswil ab: 16:33)
 
-**Berggizi:** mpfohlene Anreise mit S25, Ankunft Linthal Braunwaldbahn um 17:13 (Zürich HB ab: 15:43).
+**Berggizi:** S25 Ankunft Linthal Braunwaldbahn um 17:13 (Zürich HB ab: 15:43).
 
 Das Ziel befindet sich auf dem Hüttenberg beim Hotel Cristal in Braunwald.
 
