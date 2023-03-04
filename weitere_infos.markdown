@@ -24,18 +24,18 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 > 
 > **Der Belvedere:**
 > - Keine Alterskategorien, es werden lediglich die zwei Kategorien Frauen (W) und Männer (M) gewertet. Teilnahmeberechtigt ab Jg. 2007 und älter.
-
-**Das Berggizi:**
-- Frauen WU16/ Männer MU16 *Jg. 2011 - 2007
-- Finisherkategorie ohne Zeitmessung, Jg. 2011 und älter
 >
-> Melde dich ab 1.5.23 **[hier](https://my.raceresult.com/216668/)** an. 
+>**Das Berggizi:**
+>- Frauen WU16/ Männer MU16 *Jg. 2011 - 2007
+>- Finisherkategorie ohne Zeitmessung, Jg. 2011 und älter
+>
+> Melde dich für alle Strecken ab 1.5.23 **[hier](https://my.raceresult.com/216668/)** an. 
 
 
 
 > #### Preise
-> Finishergeschenk für alle Teilnehmer.
-> Die ersten drei jeder Kategorie erhalten einen Siegerpreis.
+> Finishergeschenk für alle Teilnehmer auf allen Strecken.
+> Die ersten drei jeder Kategorie (Belvedere & Klassiker) erhalten einen Siegerpreis.
 
 > #### Rückfahrt mit der Braunwaldbahn
 > Der Fussmarsch vom Zielgelände zur Bergstation dauert ca. 10min.
@@ -58,12 +58,17 @@ Das Startgeld richtet sich nach dem Anmeldedatum.
 > Im Ziel wird dann für opitmale Regeneration gesorgt.
 >
 > Schau dir nochmals die Karte an mit den eingezeichneten Verpflegungsposten an:
-> - **[Belvedere/Berggizi](/belvedere)** 
-> - **[Klassiker](/der_klassiker)** 
+> - **[Belvedere](/belvedere)** 
+> - **[Klassiker/Berggizi](/der_klassiker)** 
 
 > #### Wettkampfreglement
 > Das Wettkampfreglement kann **[hier](https://drive.google.com/file/d/1hoiISxfgr-hE12FQh0yXtjghOasdfRMp/view?usp=sharing)** heruntergeladen werden.
 
-> #### Zeitmessung
+> #### Zeitmessung & Cupwertung
 >
 > Die Zeitmessung erfolgt mittels **Bruttozeiten**, das heisst die Laufzeit zählt bei allen Läufen ab dem Startschuss. Bei der Plauskategorie auf der Berggizi Strecke werden keine Laufzeiten publiziert, sondern eine alphabetische Finisher Liste.
+>
+>Teilnehmende welche beim Klassiker oder Belvedere mitmachen & beim Klöntalereseelauf 2023 die lange Strecke absolviert haben, werden in die Glarner Laufcup >Zwischenwertung aufgenommen.
+>
+>Teilnehmende auf der Berggizi Strecke, welche bereits in irgend einer Kategorie am Klöntalerseelauf 2023 gestartet sind, werden in die run4Fun Kategorie des Glarner >Laufcups aufgenommen. **[Cupreglement 2023] (https://www.glarnerlaufcup.ch/cup-infos/reglement)**
+
