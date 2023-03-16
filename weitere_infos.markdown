@@ -46,8 +46,7 @@ Das Startgeld richtet sich nach dem Anmeldedatum.
 > | Datum    	 | Klassiker | Belvedere | Berggizi |
 > | :---        	 |    :----  |       :---| :---|
 > | 1.5.23 -31.5.23 	 		 | 25.-	 	 | 30.-	     | 20.-	     |
-> | 1.6.23 -31.7.23	     | 30.-      | 35.-      | 25.-	     |
-> | 1.8.23 -24.8.23 | 35.-      | 40.-      | 30.-	     |
+> | 1.6.23 -24.8.23 | 35.-      | 40.-      | 30.-	     |
 > | Vor Ort          | 45.-      | 45.-      | 35.-
 >
 > Am 24.8.22 wird auf der Webseite kommuniziert, ob noch Startplätze vorhanden sind. Diese können "first come first serve" bei der Startnummernausgabe mit TWINT oder gegen Barzahlung gekauft werden. 
