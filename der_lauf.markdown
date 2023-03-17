@@ -7,7 +7,7 @@ hero_height: is-small
 title: Programm
 ---
 
-Beide Läufe starten in Linthal bei der Talstation der Linthal-Braunwaldbahn. Der “Klassiker” führt über 5.5km und 660 Hm nach Braunwald. Der “Belvedere” mit 12.6 km und 1200 Hm führt ebenfalls auf die Terrasse von Braunwald, zweigt dann aber ab und geht weiter hoch in die Brächalp und zum Ortstockhaus. In Mitten der herrlichen Bergkulisse und runter über tolle Trails nähert man sich dem Ziel in Braunwald.
+Der Klassiker und der Belvedere starten in Linthal bei der Talstation der Linthal-Braunwaldbahn. Die Klassiker Strecke führt über 5.5km und 660 Hm nach Braunwald. Für alle die es etwas gemütlicher wollen, bietet sich die neue Berggitzi Strecke an. Diese verkürzte Version des Klassikers startet im Tannboden, folgt dann der Klassiker Strecke. Die Belvedere Strecke mit 12.6 km und 1200 Hm führt ebenfalls auf die Terrasse von Braunwald, zweigt dann aber ab und geht weiter hoch in die Brächalp und zum Ortstockhaus. In Mitten der herrlichen Bergkulisse und runter über tolle Trails nähert man sich dem Ziel in Braunwald.
 
 > ## Die Läufe
 >**[Klassiker](/der_klassiker)**
@@ -16,7 +16,7 @@ Beide Läufe starten in Linthal bei der Talstation der Linthal-Braunwaldbahn. De
 >**[Belvedere](/belvedere)**
 >12.6km, 1200Hm
 >
->**[Berggizi](/berggizi)**
+>**[Berggitzi](/berggitzi)**
 >4.1km, 450Hm
 >
 >**[Weitere Infos](/weitere_infos)**
@@ -35,7 +35,7 @@ Beide Läufe starten in Linthal bei der Talstation der Linthal-Braunwaldbahn. De
 >- **Start: 18.30 Uhr**
 >- Zielschluss: 19.45 Uhr
 
-> #### Berggizi
+> #### Berggitzi
 >- Startnummernausgabe: 16.00 - 18.00 Uhr
 >- Gepäckabgabe 16.30 - 18.00 Uhr
 >- **Extrafahrt Braunwaldbahn bis Tannboden. Vorderste zwei Abteile benutzen!**
@@ -55,7 +55,7 @@ Wir empfehlen die Anreise mit dem ÖV, das Programm ist abgestimmt auf den Fahrp
 
 **Klassiker:** S25 Ankunft Linthal Braunwaldbahn um 17:13 (Zürich HB ab: 15:43) oder S6 mit Busanschluss ab Schwanden, Ankunft um 17:50 (Rapperswil ab: 16:33)
 
-**Berggizi:** S25 Ankunft Linthal Braunwaldbahn um 17:13 (Zürich HB ab: 15:43).
+**Berggitzi:** S25 Ankunft Linthal Braunwaldbahn um 17:13 (Zürich HB ab: 15:43).
 
 Das Ziel befindet sich auf dem Hüttenberg beim Hotel Cristal in Braunwald.
 
