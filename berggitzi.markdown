@@ -4,7 +4,7 @@ show_sidebar: false
 menubar: false
 tabs: tabs_lauf
 hero_height: is-small
-title: Berggizi (4.1km, 450Hm)
+title: Berggitzi (4.1km, 450Hm)
 ---
 ### Start um 18.15 Uhr
 
