@@ -27,9 +27,11 @@ Somit ist die Strecke eine Genussstrecke und offen für alle älter als 12 Jahre
 #### Höhenprofil
 
   <div class="box"> 
-    <img src="img/profil_kurz22.svg"  alt="Höhenprofil Klassiker" width="400" 
+    <img src="img/profil_berggitzi.svg"  alt="Höhenprofil Berggitzi" width="400" 
      style="object-fit:contain;
             width:100%;
             height:auto;
             border: none"/>
   </div>
+  
+
