@@ -10,7 +10,7 @@ title: Berggitzi (4.1km, 450Hm)
 
 #### Beschreibung
 <p style='text-align: justify;'> Bei der verkürzten Version des Klassikers wird um 18.05 ab dem Tannboden gestartet. 
-**Dafür fährt um 17.55 eine Spezialfahrt mit der Braunwaldbahn bis zur Mittelstation Tannboden. Die Teilnehmerinnen und Teilnehmer müssen in die vorderen beiden Abteile der Bahn einsteigen**
+Dafür fährt um 17.55 eine Spezialfahrt mit der Braunwaldbahn bis zur Mittelstation Tannboden. Die Teilnehmerinnen und Teilnehmer müssen in die vorderen beiden Abteile der Bahn einsteigen.
 In ca. 30 min ist der Start auch mit einem Fussmarsch von Linthal Braunwaldbahn zu erreichen und zugleich ein gutes Aufwärmen. 
 Die Strecke folgt ab Tannboden der Klassiker Strecke bis zum Hüttenberg. Auf dieser Strecke erhalten alle ein Finisher Geschenk, jedoch gibt es keine Rangierung nach Zeit.
 Somit ist die Strecke eine Genussstrecke und offen für alle älter als 12 Jahre, ob zügiger oder gemütlicher unterwegs. Es gilt dabei das Zeitlimit im Hüttenberg von 19.30 Uhr.
