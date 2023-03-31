@@ -1,33 +1,6 @@
 - title: Goldsponsoren
   images:
-    - link: /img/new/whey_16_9.png
-      large_link: /img/new/whey_16_9.png
-      alt: wheycation
-      description: |-
-        **[WHEYCATION](https://wheycation.com/)** Guter Food aus Schweizer Molke für aktive Menschen
-      ratio: is-16by9
-      
-    - link: /img/new/twing_16_9.png
-      large_link: /img/new/twing_16_9.png
-      alt: twing
-      description: |-
-        **[twing](https://www.twing.swiss/)** Produktinnovation B2B und B2C
-      ratio: is-16by9
-      
-    - link: /img/new/gctag_16_9.png
-      large_link: /img/new/gctag_16_9.png
-      alt: gctag
-      description: |-
-        **[gctag](https://gctag.ch/)** Immobilien - Projektmanagement - Unternehmensberatung aus dem Glarnerland
-      ratio: is-16by9
-
-
-    - link: /img/new/ungleich_16_9.png
-      large_link: /img/new/ungleich_16_9.png
-      alt: ungleich
-      description: |-
-        **[ungleich](https://ungleich.ch/en-us/cms/)** - Die Glarnercloud für Deine Daten
-      ratio: is-16by9
+    
 
     - link: /img/new/zurzach_16_9.png
       large_link: /img/new/zurzach_16_9.png
@@ -45,24 +18,4 @@
        **[kspartner](https://https://www.kspartner.ch/)** 
      ratio: is-16by9
       
-   - link: /img/new/adler_16_9.png
-     large_link: /img/new/adler_16_9.png
-     alt: Adlerbräu
-     description: |-
-        **[Adlerbräu](https://www.brauereiadler.ch/)** 
-     ratio: is-16by9
-      
-   - link: /img/new/service_16_9.png
-     large_link: /img/new/service_16_9.png
-     alt: Service7000
-     description: |-
-        **[service7000](https://service7000.ch/)** 
-     ratio: is-16by9
 
-
-   - link: /img/new/glkb_16_9.png
-     large_link: /img/new/glkb_16_9.png
-     alt: GLKB
-     description: |-
-        **[GLKB](https://glkb.ch/)** - 
-     ratio: is-16by9
