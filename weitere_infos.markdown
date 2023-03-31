@@ -26,7 +26,7 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 > - Keine Alterskategorien, es werden lediglich die zwei Kategorien Frauen (W) und Männer (M) gewertet. Teilnahmeberechtigt ab Jg. 2007 und älter.
 >
 >**Das Berggizi:**
->- run4Fun Kategore ohne Zeitmessung, Jg. 2011 und älter
+>- Finish4Fun Kategore ohne Zeitmessung, Jg. 2011 und älter
 >
 > Melde dich für alle Strecken ab 1.5.23 **[hier](https://my.raceresult.com/216668/)** an. 
 
