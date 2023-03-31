@@ -15,7 +15,7 @@ In ca. 30 min ist der Start auch mit einem Fussmarsch von Linthal Braunwaldbahn 
 Die Strecke folgt ab Tannboden der Klassiker Strecke bis zum Hüttenberg. Auf dieser Strecke erhalten alle ein Finisher Geschenk, jedoch gibt es keine Rangierung nach Zeit.
 Somit ist die Strecke eine Genussstrecke und offen für alle älter als 12 Jahre, ob zügiger oder gemütlicher unterwegs. Es gilt dabei das Zeitlimit im Hüttenberg von 19.30 Uhr.
 </p>
-**Hinweis:** Beim Berggizi gibt es keine Zeitmessung. Die Teilnehmenden werden in der run4Fun Kategorie des Glarner Laufcups aufgenommen (Link GLC)
+**Hinweis:** Beim Berggizi gibt es eine Finish4Fun Kategorie ohne Zeitmessung. Die Teilnehmenden des Berggitzi werden entsprechend nicht in die Cupwertung, aber in der Finisherwertung des Glarner Laufcups aufgenommen. [Reglement GLC](https://www.glarnerlaufcup.ch/cup-infos/reglement)
 
 [GPX Track Download](https://drive.google.com/uc?export=download&id=1wFbdG7IEKZZfbzM3B59zZ61UMlZ6u_2N)
 
