@@ -23,9 +23,11 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 > -	Frauen W50/Männer M50         *Jg. 1973 und älter
 > 
 > **Der Belvedere:**
-> - Keine Alterskategorien, es werden lediglich die zwei Kategorien Frauen (W) und Männer (M) gewertet. Teilnahmeberechtigt ab Jg. 2007 und älter.
+> -	Frauen W/Männer M             *Jg. 2007 - 1989
+> -	Frauen W35/Männer M35         *Jg. 1988 - 1974
+> -	Frauen W50/Männer M50         *Jg. 1973 und älter
 >
->**Das Berggizi:**
+>**Das Berggitzi:**
 >- Finish4Fun Kategore ohne Zeitmessung, Jg. 2011 und älter
 >
 > Melde dich für alle Strecken ab 1.5.23 **[hier](https://my.raceresult.com/216668/)** an. 
@@ -49,7 +51,7 @@ Das Startgeld richtet sich nach dem Anmeldedatum.
 > | 1.6.23 -24.8.23 | 35.-      | 40.-      | 30.-	     |
 > | Vor Ort          | 45.-      | 45.-      | 35.-
 >
-> Am 24.8.22 wird auf der Webseite kommuniziert, ob noch Startplätze vorhanden sind. Diese können "first come first serve" bei der Startnummernausgabe mit TWINT oder gegen Barzahlung gekauft werden. 
+> Am 24.8.23 wird auf der Webseite kommuniziert, ob noch Startplätze vorhanden sind. Diese können "first come first serve" bei der Startnummernausgabe mit TWINT oder gegen Barzahlung gekauft werden. 
 
 > #### Verpflegung
 > Nach 3km befindet sich ein Verpflegungsposten mit Sportgetränk (WinForce). Beim längeren *Belvedere* gibt es zwei weitere Verpflegungsposten nach 5km (Ober Staffel) und 7km (Ortstockhaus).
@@ -64,7 +66,7 @@ Das Startgeld richtet sich nach dem Anmeldedatum.
 
 > #### Zeitmessung & Cupwertung
 >
-> Die Zeitmessung erfolgt mittels **Bruttozeiten**, das heisst die Laufzeit zählt bei allen Läufen ab dem Startschuss. Bei der Plauskategorie auf der Berggizi Strecke werden keine Laufzeiten publiziert, sondern eine alphabetische Finisher Liste.
+> Die Zeitmessung erfolgt mittels **Bruttozeiten**, das heisst die Laufzeit zählt bei allen Läufen ab dem Startschuss. Bei der Finish4Fun Kategorie auf der Berggizi Strecke werden keine Laufzeiten publiziert, sondern eine alphabetische Finisher Liste.
 >
 >Teilnehmende welche beim Klassiker oder Belvedere mitmachen & beim Klöntalereseelauf 2023 die lange Strecke absolviert haben, werden in die Glarner Laufcup >Zwischenwertung aufgenommen.
 >
