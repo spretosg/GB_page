@@ -30,8 +30,6 @@ Der Klassiker und der Belvedere starten in Linthal bei der Talstation der Lintha
 > | **Start** | **18.30 Uhr** | **17.30 Uhr** | **18.20 Uhr (1)** |
 > | Kontrollschluss |  | Unterstafel: 18.35 Uhr **[Karte](/belvedere) |  |
 > | Zielschluss | 19.45 Uhr | 19.45 Uhr | 19.45 Uhr |
-> 
-
 
 > (1) **Extrafahrt Braunwaldbahn bis Tannboden. Vorderste zwei Abteile benutzen!**
 >
