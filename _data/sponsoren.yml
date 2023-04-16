@@ -2,19 +2,19 @@
   images:
     
 
-    - link: /img/new/zurzach_16_9.png
-      large_link: /img/new/zurzach_16_9.png
-      alt: zurzach care
+    - link: /img/pro_nordic.png
+      large_link: /img/pro_nordic.png
+      alt: pro Nordic
       description: |-
-        **[pro Nordic](https://pronordic.ch/)** - für ein gesundes Leben
+        **[pro Nordic](https://pronordic.ch/)** - Wir fördern den Nordischen Skisport
       ratio: is-16by9
 
 - title: Goldsponsoren
   images:
     
 
-    - link: /img/new/zurzach_16_9.png
-      large_link: /img/new/zurzach_16_9.png
+    - link: /img/new/ZURZACHCare_50Jahre_RGB.jpg
+      large_link: /img/new/ZURZACHCare_50Jahre_RGB.jpg
       alt: zurzach care
       description: |-
         **[zurzach care](https://www.zurzachcare.ch/)** - für ein gesundes Leben
@@ -29,16 +29,16 @@
        **[kspartner](https://https://www.kspartner.ch/)** 
      ratio: is-16by9
      
-       images:
-   - link: /img/new/kspartner_16_9.png
-     large_link: /img/new/kspartner_16_9.png
+  images:
+   - link: /img/new/glkb_16_9.png
+     large_link: /img/new/glkb_16_9.png
      alt: glkb
      description: |-
        **[GLKB](https://https://www.glkb.ch/)** 
      ratio: is-16by9
      
      
- - title: Gönner & Partner
+- title: Gönner & Partner
   images:
    - link: /img/new/kspartner_16_9.png
      large_link: /img/new/kspartner_16_9.png
