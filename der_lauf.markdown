@@ -22,13 +22,13 @@ Der Klassiker und der Belvedere starten in Linthal bei der Talstation der Lintha
 >**[Weitere Infos](/weitere_infos)**
 
 > ## Programm
-|     	 | Klassiker | Belvedere | Berggitzi |
+> | - | Klassiker | Belvedere | Berggitzi |
 > | :---        	 |    :----  |       :---| :---|
 > | Anreise | S25 Ankunft Linthal Braunwaldbahn um 17:13 | S25 Ankunft Linthal Braunwaldbahn um 16:13 | S25 Ankunft Linthal Braunwaldbahn um 17:13 |
 > | Startnummernausgabe | 16.00 - 18.00 Uhr | 16.00 - 17.15 Uhr | 16.00 - 18.00 Uhr |
 > | Gepäckabgabe | 16.30 - 18.05 Uhr | 16.30 - 17.15 Uhr | 16.30 - 18.00 Uhr |
 > | **Start** | **18.30 Uhr** | **17.30 Uhr** | **18.20 Uhr (1)** |
-> | Kontrollschluss |   | Unterstafel: 18.35 Uhr **[Karte](/belvedere) |   |
+> | Kontrollschluss | - | Unterstafel: 18.35 Uhr **[Karte](/belvedere) | - |
 > | Zielschluss | 19.45 Uhr | 19.45 Uhr | 19.45 Uhr |
 > 
 
