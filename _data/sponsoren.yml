@@ -44,14 +44,14 @@
      
 - title: Gönner & Partner
   images:
-  - link: /img/new/ortstockhaus.png
+   - link: /img/new/ortstockhaus.png
      large_link: /img/new/ortstockhaus.png
      alt: Ortstockhaus
      description: |-
        **[Ortstockhaus](https://www.ortstockhaus.ch/)** 
      ratio: is-16by9
      
-   images:
+  images:
    - link: /img/new/schumi.png
      large_link: /img/new/schumi.png
      alt: Schumi-trans
@@ -59,7 +59,7 @@
        **[Schumi-trans](https://schumi-trans.ch/)** 
      ratio: is-16by9
   
-   images:
+  images:
    - link: /img/new/linth.png
      large_link: /img/new/linth.png
      alt: lintharena
