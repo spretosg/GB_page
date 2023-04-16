@@ -1,7 +1,5 @@
 - title: Hauptsponsor
   images:
-    
-
     - link: /img/pro_nordic.png
       large_link: /img/pro_nordic.png
       alt: pro Nordic
@@ -11,13 +9,19 @@
 
 - title: Goldsponsoren
   images:
-    
-
     - link: /img/new/ZURZACHCare_50Jahre_RGB.jpg
       large_link: /img/new/ZURZACHCare_50Jahre_RGB.jpg
       alt: zurzach care
       description: |-
         **[zurzach care](https://www.zurzachcare.ch/)** - für ein gesundes Leben
+      ratio: is-16by9
+   
+  images:
+    - link: /img/new/06_Logo_3614_Tîdisport.jpg
+      large_link: /img/new/06_Logo_3614_Tîdisport.jpg
+      alt: Tödisport
+      description: |-
+        **[Tödisport](https://www.3614.ch/)** - Alles für ihre aktiven Sommermomente
       ratio: is-16by9
       
 - title: Silbersponsoren
@@ -40,11 +44,26 @@
      
 - title: Gönner & Partner
   images:
-   - link: /img/new/kspartner_16_9.png
-     large_link: /img/new/kspartner_16_9.png
-     alt: kspartner
+   - link: /img/new/ortstockhaus.png
+     large_link: /img/new/ortstockhaus.png
+     alt: Ortstockhaus
      description: |-
-       **[kspartner](https://https://www.kspartner.ch/)** 
+       **[Ortstockhaus](https://www.ortstockhaus.ch/)** 
      ratio: is-16by9
-      
+     
+   images:
+   - link: /img/new/schumi.png
+     large_link: /img/new/schumi.png
+     alt: Schumi-trans
+     description: |-
+       **[Schumi-trans](https://schumi-trans.ch/)** 
+     ratio: is-16by9
+  
+   images:
+   - link: /img/new/linth.png
+     large_link: /img/new/linth.png
+     alt: lintharena
+     description: |-
+       **[lintharena](https://www.lintharena.ch/)** 
+     ratio: is-16by9
 
