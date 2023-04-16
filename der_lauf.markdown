@@ -33,7 +33,7 @@ Der Klassiker und der Belvedere starten in Linthal bei der Talstation der Lintha
 > 
 
 
->- **Extrafahrt Braunwaldbahn bis Tannboden. Vorderste zwei Abteile benutzen!**
+> (1) **Extrafahrt Braunwaldbahn bis Tannboden. Vorderste zwei Abteile benutzen!**
 >
 >Die Rangverkündigung für alle Strecken findet ca. um 19.45 Uhr im Zielgelände statt.
 
