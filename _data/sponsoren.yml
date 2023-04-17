@@ -16,7 +16,6 @@
         **[zurzach care](https://www.zurzachcare.ch/)** - für ein gesundes Leben
       ratio: is-16by9
    
-  images:
     - link: /img/new/06_Logo_3614_Tîdisport.jpg
       large_link: /img/new/06_Logo_3614_Tîdisport.jpg
       alt: Tödisport
@@ -33,7 +32,6 @@
        **[kspartner](https://https://www.kspartner.ch/)** 
       ratio: is-16by9
      
-  images:
     - link: /img/new/glkb_16_9.png
       large_link: /img/new/glkb_16_9.png
       alt: glkb
@@ -50,7 +48,6 @@
        **[Ortstockhaus](https://www.ortstockhaus.ch/)** 
       ratio: is-16by9
      
-  images:
     - link: /img/new/schumi.png
       large_link: /img/new/schumi.png
       alt: Schumi-trans
@@ -58,7 +55,6 @@
        **[Schumi-trans](https://schumi-trans.ch/)** 
       ratio: is-16by9
   
-  images:
     - link: /img/new/linth.png
       large_link: /img/new/linth.png
       alt: lintharena
