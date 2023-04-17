@@ -17,6 +17,13 @@ title: Programm
 > | **Start** | **18.30 Uhr** | **17.30 Uhr** | **18.20 Uhr (1)** |
 > | Kontrollschluss | a | Unterstafel: 18.35 Uhr **[Karte](/belvedere) | a |
 > | Zielschluss | 19.45 Uhr | 19.45 Uhr | 19.45 Uhr 
+
+> | s    	 |  **[Klassiker](/der_klassiker)** | **[Belvedere](/belvedere)** | **[Berggitzi](/berggitzi)** |
+> | :---        	 |    :----  |       :---| :---|
+> | Distanz 	 		 |  5.5km, 660Hm	 	 | 12.6km, 1200H	     | 4.1km, 450Hm     |
+> | 1.6.23 -24.8.23 | 35.-      | 40.-      | 30.-	     |
+> | Vor Ort          | 45.-      | 45.-      | 35.-
+
 >
 > (1) **Extrafahrt Braunwaldbahn bis Tannboden. Vorderste zwei Abteile benutzen!**
 > Die Rangverkündigung für alle Strecken findet ca. um 19.45 Uhr im Zielgelände statt.
