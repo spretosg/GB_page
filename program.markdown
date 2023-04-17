@@ -1,6 +1,6 @@
 ---
 title: Programm
-subtitle: Hier die allgemeinen Infos für beide Läufe
+subtitle: Allgemeine Infos zu den Läufen
 layout: page
 show_sidebar: false
 menubar: side_navigation
