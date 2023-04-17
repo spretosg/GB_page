@@ -10,7 +10,7 @@ title: Programm
 > ## Programm
 > |  | **[Klassiker](/der_klassiker)** | **[Belvedere](/belvedere)** | **[Berggitzi](/berggitzi)** |
 > | :---        	 |    :----  |       :---| :---|
-> | Distanzz, Höhenmeter | 5.5km, 660Hm | 12.6km, 1200Hm | 4.1km, 450Hm |
+> | Distanz, Höhenmeter | 5.5km, 660Hm | 12.6km, 1200Hm | 4.1km, 450Hm |
 > | Anreise | S25 Ankunft Linthal Braunwaldbahn um 17:13 | S25 Ankunft Linthal Braunwaldbahn um 16:13 | S25 Ankunft Linthal Braunwaldbahn um 17:13 |
 > | Startnummernausgabe | 16.00 - 18.00 Uhr | 16.00 - 17.15 Uhr | 16.00 - 18.00 Uhr |
 > | Gepäckabgabe | 16.30 - 18.05 Uhr | 16.30 - 17.15 Uhr | 16.30 - 18.00 Uhr |
