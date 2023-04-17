@@ -18,7 +18,7 @@ title: Programm
 > | Kontrollschluss | a | Unterstafel: 18.35 Uhr **[Karte](/belvedere) | a |
 > | Zielschluss | 19.45 Uhr | 19.45 Uhr | 19.45 Uhr 
 
-> | s    	 |  **[Klassiker](/der_klassiker)** | **[Belvedere](/belvedere)** | **[Berggitzi](/berggitzi)** |
+> |     	 |  **[Klassiker](/der_klassiker)** | **[Belvedere](/belvedere)** | **[Berggitzi](/berggitzi)** |
 > | :---        	 |    :----  |       :---| :---|
 > | Distanz 	 		 |  5.5km, 660Hm	 	 | 12.6km, 1200H	     | 4.1km, 450Hm     |
 > | 1.6.23 -24.8.23 | 35.-      | 40.-      | 30.-	     |
