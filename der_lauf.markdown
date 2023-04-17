@@ -21,8 +21,9 @@ title: Programm
 > |     	 |  **[Klassiker](/der_klassiker)** | **[Belvedere](/belvedere)** | **[Berggitzi](/berggitzi)** |
 > | :---        	 |    :----  |       :---| :---|
 > | Distanz 	 		 |  5.5km, 660Hm	 	 | 12.6km, 1200H	     | 4.1km, 450Hm     |
-> | 1.6.23 -24.8.23 | 35.-      | 40.-      | 30.-	     |
-> | Vor Ort          | 45.-      | 45.-      | 35.-
+> | Anreise | S25 Ankunft Linthal Braunwaldbahn um 17:13      |S25 Ankunft Linthal Braunwaldbahn um 16:13    | S25 Ankunft Linthal Braunwaldbahn um 17:13     |
+> | Startnummernausgabe          | 16.00 - 18.00 Uhr       | 16.00 - 17.15 Uh     | 16.00 - 18.00 Uhr |
+> | **Start** | **18.30 Uhr** | **17.30 Uhr** | **18.20 Uhr (1)** 
 
 >
 > (1) **Extrafahrt Braunwaldbahn bis Tannboden. Vorderste zwei Abteile benutzen!**
