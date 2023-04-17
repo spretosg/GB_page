@@ -43,7 +43,7 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 > Mit dem Finishergeschenk werden Billette ausgeteilt für die Rückfahrt von Braunwald nach Linthal mit der Braunwaldbahn.
 
 > #### Startgeld
-Das Startgeld richtet sich nach dem Anmeldedatum.
+> Das Startgeld richtet sich nach dem Anmeldedatum.
 >
 > | Datum    	 | Klassiker | Belvedere | Berggitzi |
 > | :---        	 |    :----  |       :---| :---|
