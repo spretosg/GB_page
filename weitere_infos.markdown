@@ -17,6 +17,7 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 > 
 
 > #### Kategorien
+> **[Klassiker](/der_klassiker)** 
 > -	Frauen W/Männer M             *Jg. 2007 - 1989
 > -	Frauen W35/Männer M35         *Jg. 1988 - 1974
 > -	Frauen W50/Männer M50         *Jg. 1973 und älter
