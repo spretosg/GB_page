@@ -16,7 +16,7 @@ title: Programm
 > | Gepäckabgabe | 16.30 - 18.05 Uhr | 16.30 - 17.15 Uhr | 16.30 - 18.00 Uhr |
 > | **Start** | **18.30 Uhr** | **17.30 Uhr** | **18.20 Uhr (1)** |
 > | Kontrollschluss | a | Unterstafel: 18.35 Uhr **[Karte](/belvedere) | a |
-> | Zielschluss | 19.45 Uhr | 19.45 Uhr | 19.45 Uhr |
+> | Zielschluss | 19.45 Uhr | 19.45 Uhr | 19.45 Uhr 
 >
 > (1) **Extrafahrt Braunwaldbahn bis Tannboden. Vorderste zwei Abteile benutzen!**
 > Die Rangverkündigung für alle Strecken findet ca. um 19.45 Uhr im Zielgelände statt.
