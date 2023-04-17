@@ -7,9 +7,6 @@ hero_height: is-small
 title: Programm
 ---
 
-Der Klassiker und der Belvedere starten in Linthal bei der Talstation der Linthal-Braunwaldbahn. Die Klassiker Strecke führt über 5.5km und 660 Hm nach Braunwald. Für alle die es etwas gemütlicher wollen, bietet sich die neue Berggitzi Strecke an. Diese verkürzte Version des Klassikers startet im Tannboden, folgt dann der Klassiker Strecke. Die Belvedere Strecke mit 12.6 km und 1200 Hm führt ebenfalls auf die Terrasse von Braunwald, zweigt dann aber ab und geht weiter hoch in die Brächalp und zum Ortstockhaus. In Mitten der herrlichen Bergkulisse und runter über tolle Trails nähert man sich dem Ziel in Braunwald.
-
-> ## Die Läufe
 >**[Klassiker](/der_klassiker)**
 >5.5km, 660Hm
 >
