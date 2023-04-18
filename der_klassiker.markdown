@@ -10,10 +10,10 @@ title: Klassiker (5.5km, 660Hm)
 Teilnehmende des Klassikers werden im Glarner Laufcup gewertet
 
 #### Strecke & Highlights
--Start: Linthal Braunwaldbahn Talstation
--Aufstieg auf Wanderweg bis Braunwald Reha Clinic (Verpflegung)
--Sanft ansteigende, schnelle Kieswege durch Braunwald
--Ziel: Braunwald Hüttenberg
+- Start: Linthal Braunwaldbahn Talstation
+- Aufstieg auf Wanderweg bis Braunwald Reha Clinic (Verpflegung)
+- Sanft ansteigende, schnelle Kieswege durch Braunwald
+- Ziel: Braunwald Hüttenberg
 
 [GPX Track Download](https://drive.google.com/uc?export=download&id=1wFbdG7IEKZZfbzM3B59zZ61UMlZ6u_2N)
 
