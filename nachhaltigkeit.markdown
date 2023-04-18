@@ -10,8 +10,7 @@ Obwohl wir nur ein kleiner Laufanlass in der Schweizer Laufwelt darstellen, sind
 Erfahre mehr über unsere Nachhaltigkeits-Strategie
 
 <img src="/img/saubere_veranstaltung.jpg"
-     alt="qr saubere veranstaltung"
-     style="float: left; margin-right: 10px;" />
+     alt="qr saubere veranstaltung"/>
      
 Nun ist es an uns am 25.8 den Worten auch Taten folgen zu lassen. Sollte dir am Anlass etwas auffallen, was nicht dem Konzept entsprich oder wir verbessern können, freuen wir uns über deine konstruktive Kritik.
 
