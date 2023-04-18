@@ -23,12 +23,12 @@ items:
     
   - title:
     subtitle: 
-    icon: fa-solid fa-camera
+    icon: fa-duotone fa-exclamation
     description: >
-      Impressionen 2022
+      Helfer für Glarner Laufcup gesucht! Bei Interesse freuen wir uns über dein Mail an uns
 
-    call_to_action_name: Fotos
-    call_to_action_link: /impressionen
+    call_to_action_name: Helfer gesucht
+    call_to_action_link: mailto:glarnerberggeiss@bluewin.ch
       
       
   - title: 
