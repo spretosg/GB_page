@@ -8,14 +8,16 @@ title: Berggitzi (4.1km, 450Hm)
 ---
 ### Start um 18.05 Uhr
 
-#### Beschreibung
-<p style='text-align: justify;'> Bei der verkürzten Version des Klassikers wird um 18.05 ab dem Tannboden gestartet. 
-Dafür fährt um 17.55 eine Spezialfahrt mit der Braunwaldbahn bis zur Mittelstation Tannboden. Die Teilnehmerinnen und Teilnehmer müssen in die vorderen beiden Abteile der Bahn einsteigen.
-In ca. 30 min ist der Start auch mit einem Fussmarsch von Linthal Braunwaldbahn zu erreichen und zugleich ein gutes Aufwärmen. 
-Die Strecke folgt ab Tannboden der Klassiker Strecke bis zum Hüttenberg. Auf dieser Strecke erhalten alle ein Finisher Geschenk, jedoch gibt es keine Rangierung nach Zeit.
-Somit ist die Strecke eine Genussstrecke und offen für alle älter als 12 Jahre, ob zügiger oder gemütlicher unterwegs. Es gilt dabei das Zeitlimit im Hüttenberg von 19.30 Uhr.
-</p>
-**Hinweis:** Beim Berggizi gibt es eine Finish4Fun Kategorie ohne Zeitmessung. Die Teilnehmenden des Berggitzi werden entsprechend nicht in die Cupwertung, aber in der Finisherwertung des Glarner Laufcups aufgenommen. [Reglement GLC](https://www.glarnerlaufcup.ch/cup-infos/reglement)
+#### Strecke & Highlights
+- Extrafahrt Braunwaldbahn bis Tannboden
+- Start: Tannboden
+- Verkürzter Aufstieg auf Wanderweg bis Braunwald Reha Clinic (Verpflegung)
+- Sanft ansteigende, schnelle Kieswege durch Braunwald
+- Ziel: Braunwald Hüttenberg
+- Keine Rangliste nur Finisher Geschenk
+
+
+**Hinweis:** Beim Berggizi gibt es eine Finish4Fun Kategorie ohne Zeitmessung. Die Teilnehmenden des Berggitzi werden entsprechend nicht in die Cupwertung, aber in der Finisherwertung des Glarner Laufcups aufgenommen. <a href="(https://www.glarnerlaufcup.ch/cup-infos/reglement)" target="_blank">Reglement GLC</a>
 
 [GPX Track Download](https://drive.google.com/uc?export=download&id=1wFbdG7IEKZZfbzM3B59zZ61UMlZ6u_2N)
 
