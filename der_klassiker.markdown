@@ -9,9 +9,11 @@ title: Klassiker (5.5km, 660Hm)
 ### Start um 18.30 Uhr
 Teilnehmende des Klassikers werden im Glarner Laufcup gewertet
 
-#### Beschreibung
-<p style='text-align: justify;'> Die Laufstrecke ist 5.5km lang und es gilt 660 Höhenmeter zu erklimmen. Der Start erfolgt in Linthal bei der Braunwaldbahn. Die ersten 500m folgen einer coupierten Kiesstrasse parallel zur Linth talabwärts. Danach biegt der Weg scharf links auf einen Trail, wo es eng und steil wird. Im Zickzack geht es stetig hinauf bis zur RehaClinic Braunwald. Kurz danach befindet sich eine Verpflegungsstation mit Sportgetränk (nach ca. 2.8km). Der zweite Abschnitt führt einer Kiesstrasse entlang und steigt nur noch gemächlich bis zum Ziel auf dem Hüttenberg.
-</p>
+#### Strecke & Highlights
+-Start: Linthal Braunwaldbahn Talstation
+-Aufstieg auf Wanderweg bis Braunwald Reha Clinic (Verpflegung)
+-Sanft ansteigende, schnelle Kieswege durch Braunwald
+-Ziel: Braunwald Hüttenberg
 
 [GPX Track Download](https://drive.google.com/uc?export=download&id=1wFbdG7IEKZZfbzM3B59zZ61UMlZ6u_2N)
 
