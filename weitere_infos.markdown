@@ -34,6 +34,7 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 
 
 
+
 > #### Preise
 > Finishergeschenk für alle Teilnehmer auf allen Strecken.
 > Die ersten drei jeder Kategorie (Belvedere & Klassiker) erhalten einen Siegerpreis.
@@ -62,7 +63,7 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 > - **[Klassiker/Berggitzi](/der_klassiker)** 
 
 > #### Wettkampfreglement
-> Das Wettkampfreglement kann **[hier](https://drive.google.com/file/d/1hoiISxfgr-hE12FQh0yXtjghOasdfRMp/view?usp=sharing)** heruntergeladen werden.
+> Das Wettkampfreglement kann **[hier](https://drive.google.com/drive/u/1/folders/1qw3XZv68AHAdAc3diolOvJ1OZRaOcrvA)** heruntergeladen werden.
 
 > #### Zeitmessung & Cupwertung
 >
