@@ -17,7 +17,7 @@ title: Berggitzi (4.1km, 450Hm)
 - Keine Rangliste nur Finisher Geschenk
 
 
-**Hinweis:** Beim Berggizi gibt es eine Finish4Fun Kategorie ohne Zeitmessung. Die Teilnehmenden des Berggitzi werden entsprechend nicht in die Cupwertung, aber in der Finisherwertung des Glarner Laufcups aufgenommen. <a href="(https://www.glarnerlaufcup.ch/cup-infos/reglement)" target="_blank">Reglement GLC</a>
+**Hinweis:** Beim Berggizi gibt es eine Finish4Fun Kategorie ohne Zeitmessung. Die Teilnehmenden des Berggitzi werden entsprechend nicht in die Cupwertung, aber in der Finisherwertung des Glarner Laufcups aufgenommen. <a href="https://www.glarnerlaufcup.ch/cup-infos/reglement" target="_blank">Reglement GLC</a>
 
 [GPX Track Download](https://drive.google.com/uc?export=download&id=1wFbdG7IEKZZfbzM3B59zZ61UMlZ6u_2N)
 
