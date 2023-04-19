@@ -55,7 +55,7 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 > Am 24.8.23 wird auf der Webseite kommuniziert, ob noch Startplätze vorhanden sind. Diese können "first come first serve" bei der Startnummernausgabe mit TWINT oder gegen Barzahlung gekauft werden. 
 
 > #### Verpflegung
-> Nach 3km befindet sich ein Verpflegungsposten mit Sportgetränk (WinForce). Beim längeren *Belvedere* gibt es zwei weitere Verpflegungsposten nach 5km (Ober Staffel) und 7km (Ortstockhaus).
+> Nach 3km befindet sich ein Verpflegungsposten mit Sportgetränk (Isostar). Beim längeren *Belvedere* gibt es zwei weitere Verpflegungsposten nach 5km (Ober Staffel) und 7km (Ortstockhaus).
 > Im Ziel wird dann für opitmale Regeneration gesorgt.
 >
 > Schau dir nochmals die Karte an mit den eingezeichneten Verpflegungsposten an:
@@ -63,7 +63,7 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 > - **[Klassiker/Berggitzi](/der_klassiker)** 
 
 > #### Wettkampfreglement
-> Das Wettkampfreglement kann **[hier](https://drive.google.com/drive/u/1/folders/1qw3XZv68AHAdAc3diolOvJ1OZRaOcrvA)** heruntergeladen werden.
+> Das Wettkampfreglement kann **[hier](https://drive.google.com/file/d/13OTMABYE4kWnHiWvjOzSNDKYiDByo6wD/view?usp=share_link)** heruntergeladen werden.
 
 > #### Zeitmessung & Cupwertung
 >
