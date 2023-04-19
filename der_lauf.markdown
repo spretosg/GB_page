@@ -16,7 +16,8 @@ title: Programm
 > | Startnummernausgabe          | 16.00 - 18.00 Uhr       | 16.00 - 17.15 Uh     | 16.00 - 18.00 Uhr |
 > | **Start** | **18.30 Uhr** | **17.30 Uhr** | **18.20 Uhr (1)** | 
 > | Kontrollschluss |  | Unterstafel: 18.35 Uhr **[Karte](/belvedere) |  |
-> | Zielschluss | 19.45 Uhr | 19.45 Uhr | 19.45 Uhr 
+> | Zielschluss | 19.45 Uhr | 
+> | Rangverkündigung | ca. 19.45 Uhr |
 >
 > (1) **Extrafahrt Braunwaldbahn bis Tannboden. Vorderste zwei Abteile benutzen!**
 > Die Rangverkündigung für alle Strecken findet ca. um 19.45 Uhr im Zielgelände statt.
