@@ -6,10 +6,10 @@ tabs: tabs_lauf
 hero_height: is-small
 title: Berggitzi (4.1km, 450Hm)
 ---
-### Start um 18.05 Uhr
+### Start um 18.20 Uhr ab Tannboden
 
 #### Strecke & Highlights
-- Extrafahrt Braunwaldbahn bis Tannboden
+- Extrafahrt Braunwaldbahn 18.10 Uhr bis Tannboden
 - Start: Tannboden
 - Verkürzter Aufstieg auf Wanderweg bis Braunwald Reha Clinic (Verpflegung)
 - Sanft ansteigende, schnelle Kieswege durch Braunwald
