@@ -2,23 +2,14 @@ style: is-light
 height: is-small
 
 items:
-  - title:
-    subtitle: 
-    icon: fa-running
-    description: >
-      Die Glarner Berggeiss
 
-    call_to_action_name: Infos
-    call_to_action_link: /der_lauf
-    
-    
   - title: 
     subtitle:  
     icon: fa-pencil-alt
     description: >
       Rangliste 2022
       
-    call_to_action_name: Rangliste
+    call_to_action_name: Ranglisten
     call_to_action_link: https://my.raceresult.com/191313/
     
   - title:
@@ -29,16 +20,7 @@ items:
 
     call_to_action_name: Helfer gesucht
     call_to_action_link: mailto:glarnerberggeiss@bluewin.ch
-      
-      
-  - title: 
-    subtitle: 
-    icon: fa-trophy
-    description: >
-      Der Glarner Laufcup 2023
-    call_to_action_name: Glarner Laufcup
-    call_to_action_link: https://glarnerlaufcup.ch/
-    
+         
     
   - title: 
     subtitle: 
