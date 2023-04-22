@@ -41,13 +41,36 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 > #### Startgeld
 > Das Startgeld richtet sich nach dem Anmeldedatum.
 
-
-
-> | Datum    	 | Klassiker | Belvedere | Berggitzi |
-> | :---        	 |    :----  |       :---| :---|
-> | 1.5.23 -31.5.23 	 		 | 25.-	 	 | 30.-	     | 20.-	     |
-> | 1.6.23 -24.8.23 | 35.-      | 40.-      | 30.-	     |
-> | Vor Ort          | 45.-      | 45.-      | 35.-
+> <div style="overflow-x:auto;">
+> 
+> <table>
+>     <tr>
+>       <th>Datum</th>
+>       <th>Klassiker</th>
+>       <th>Belvedere</th>
+>       <th>Berggitzi</th>
+> 
+>     </tr>
+>     <tr>
+>       <td>1.5.23 -31.5.23</td>
+>       <td>25.-/td>
+>       <td>30.-</td>
+>       <td>20.-</td>
+>     </tr>
+>       <tr>
+>       <td>1.6.23 -24.8.23</td>
+>       <td>35.-</td>
+>       <td>40.-</td>
+>       <td>30.-</td>
+>     </tr>
+>      <tr>
+>       <td>Vor Ort</td>
+>       <td>45.-</td>
+>       <td>45.-</td>
+>       <td>35.-</td>
+>     </tr>
+></table>
+></div>
 >
 > Am 24.8.23 wird auf der Webseite kommuniziert, ob noch Startplätze vorhanden sind. Diese können "first come first serve" bei der Startnummernausgabe mit TWINT oder gegen Barzahlung gekauft werden. 
 
