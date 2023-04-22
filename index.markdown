@@ -3,18 +3,15 @@ layout: page
 title: Glarner Berggeiss &ndash; Berglauf in Braunwald
 
 # Link-Button im Header
-hero_link: /der_lauf
-hero_link_text: 4. Ausgabe 25.8.2023
-
-hero_link: https://glarnerlaufcup.ch/
-hero_link_text: Glarner Laufcup 2023
+hero_link: /anmeldung
+hero_link_text: Anmelden und am 25.8.23 starten
 
 
 # Callouts einbinden
 callouts: funk123
 
 hero_image: /img/new_page_210102.jpg
-hero_height: is-small
+hero_height: is-medium
 
 
 ---
