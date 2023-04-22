@@ -53,7 +53,7 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 >     </tr>
 >     <tr>
 >       <td>1.5.23 -31.5.23</td>
->       <td>25.-/td>
+>       <td>25.-</td>
 >       <td>30.-</td>
 >       <td>20.-</td>
 >     </tr>
