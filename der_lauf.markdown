@@ -20,6 +20,37 @@ title: Programm
 > | Rangverkündigung | ca. 19.45 Uhr |
 
 
+<div style="overflow-x:auto;">
+
+<table>
+    <tr>
+      <th></th>
+      <th></th>
+      <th>Klassiker</th>
+      <th>Belvedere</th>
+      <th>Berggitzi</th>
+
+    </tr>
+    <tr>
+      <td>Distanz</td>
+      <td>5.5km, 660Hm</td>
+      <td>12.6km, 1200H</td>
+      <td>4.1km, 450Hm</td>
+    </tr>
+      <tr>
+      <td>Distanz</td>
+      <td>5.5km, 660Hm</td>
+      <td>12.6km, 1200H</td>
+      <td>4.1km, 450Hm</td>
+
+    </tr>
+  
+  
+</table>
+
+</div>
+
+
 > ## Start- und Zielgelände
 >
 > Der Start, die Startnummernausgabe und die Gepäckabgabe befinden sich bei der Talstation der Braunwaldbahn.
