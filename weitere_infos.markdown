@@ -40,7 +40,23 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 
 > #### Startgeld
 > Das Startgeld richtet sich nach dem Anmeldedatum.
-
+><html>
+><head>
+><style>
+>table {
+>  border-collapse: collapse;
+>  width: 100%;
+>}
+>
+>th, td {
+>  text-align: left;
+>  padding: 8px;
+>}
+>
+>tr:nth-child(even) {background-color: #f2f2f2;}
+</style>
+</head>
+<body>
 > <div style="overflow-x:auto;">
 > 
 > <table>
