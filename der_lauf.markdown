@@ -45,21 +45,18 @@ title: Programm
 >     </tr>
 >      <tr>
 >       <td>Zielschluss</td>
->       <td>19.45 Uhr</td>
->       <td>19.45 Uhr</td>
->       <td>19.45 Uhr</td>
+>       <td></td>
+>       <td>für alle Läufe um ca. 19.45 Uhr</td>
+>       <td></td>
 >     </tr>
 >      <tr>
 >       <td>Rangverkündigung</td>
 >       <td>19.45 Uhr</td>
->       <td>19.45 Uhr</td>
+>       <td>für alle Läufe um ca. 19.45 Uhr</td>
 >       <td>19.45 Uhr</td>
 >     </tr>
-  
-  
-</table>
-
-</div>
+></table>
+></div>
 
 
 > ## Start- und Zielgelände
