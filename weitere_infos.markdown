@@ -17,13 +17,9 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 > 
 
 > #### Kategorien
+>
 > Gemäss [Glarner Laufcup](https://glarnerlaufcup.ch/cup-infos/reglement)
-> **[Klassiker](/der_klassiker)** 
-> -	Frauen W/Männer M             *Jg. 2007 - 1989
-> -	Frauen W35/Männer M35         *Jg. 1988 - 1974
-> -	Frauen W50/Männer M50         *Jg. 1973 und älter
-> 
-> **[Belvedere](/belvedere)** 
+> **[Klassiker](/der_klassiker)** und **[Belvedere](/belvedere)** 
 > -	Frauen W/Männer M             *Jg. 2007 - 1989
 > -	Frauen W35/Männer M35         *Jg. 1988 - 1974
 > -	Frauen W50/Männer M50         *Jg. 1973 und älter
@@ -32,8 +28,6 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 >- Finish4Fun Kategore ohne Zeitmessung, Jg. 2011 und älter
 >
 > Melde dich für alle Strecken ab 1.5.23 **[hier](https://my.raceresult.com/216668/)** an. 
-
-
 
 
 > #### Preise
@@ -46,7 +40,9 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 
 > #### Startgeld
 > Das Startgeld richtet sich nach dem Anmeldedatum.
->
+
+
+
 > | Datum    	 | Klassiker | Belvedere | Berggitzi |
 > | :---        	 |    :----  |       :---| :---|
 > | 1.5.23 -31.5.23 	 		 | 25.-	 	 | 30.-	     | 20.-	     |
