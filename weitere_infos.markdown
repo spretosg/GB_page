@@ -71,6 +71,7 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 ></table>
 ></div>
 >
+>
 > Am 24.8.23 wird auf der Webseite kommuniziert, ob noch Startplätze vorhanden sind. Diese können "first come first serve" bei der Startnummernausgabe mit TWINT oder gegen Barzahlung gekauft werden. 
 
 > #### Verpflegung
