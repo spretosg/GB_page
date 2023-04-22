@@ -8,23 +8,11 @@ title: Programm
 ---
 
 > ## Programm
->
-> |     	 |  **[Klassiker](/der_klassiker)** | **[Belvedere](/belvedere)** | **[Berggitzi](/berggitzi)** |
-> | :---        	 |    :----  |       :---| :---|
-> | Distanz 	 		 |  5.5km, 660Hm	 	 | 12.6km, 1200H	     | 4.1km, 450Hm     |
-> | Anreise | S25 Ankunft Linthal Braunwaldbahn um 17:13      |S25 Ankunft Linthal Braunwaldbahn um 16:13    | S25 Ankunft Linthal Braunwaldbahn um 17:13 **Extrafahrt 18.10 Uhr Braunwaldbahn bis Tannboden. Vorderste zwei Abteile benutzen!**    |
-> | Startnummernausgabe          | 16.00 - 18.15 Uhr       | 16.00 - 17.15 Uh     | 16.00 - 18.00 Uhr |
-> | **Start** | **18.30 Uhr** | **17.30 Uhr** | **18.20 Uhr** | 
-> | Kontrollschluss |  | Unterstafel: 18.35 Uhr **[Karte](/belvedere) |  |
-> | Zielschluss | 19.45 Uhr | 
-> | Rangverkündigung | ca. 19.45 Uhr |
-
 
 <div style="overflow-x:auto;">
 
 <table>
     <tr>
-      <th></th>
       <th></th>
       <th>Klassiker</th>
       <th>Belvedere</th>
@@ -38,11 +26,34 @@ title: Programm
       <td>4.1km, 450Hm</td>
     </tr>
       <tr>
-      <td>Distanz</td>
-      <td>5.5km, 660Hm</td>
-      <td>12.6km, 1200H</td>
-      <td>4.1km, 450Hm</td>
-
+      <td>Anreise</td>
+      <td>S25 Ankunft Linthal Braunwaldbahn um 17:13 </td>
+      <td>S25 Ankunft Linthal Braunwaldbahn um 16:13</td>
+      <td>S25 Ankunft Linthal Braunwaldbahn um 17:13 **Extrafahrt 18.10 Uhr Braunwaldbahn bis Tannboden. Vorderste zwei Abteile benutzen!** </td>
+    </tr>
+     <tr>
+      <td>Startnummernausgabe</td>
+      <td>16.00 - 18.15 Uhr</td>
+      <td>16.00 - 17.15 Uhr</td>
+      <td>16.00 - 18.00 Uhr</td>
+    </tr>
+     <tr>
+      <td>Kontrollschluss</td>
+      <td></td>
+      <td>Unterstafel: 18.35 Uhr</td>
+      <td></td>
+    </tr>
+     <tr>
+      <td>Zielschluss</td>
+      <td>19.45 Uhr</td>
+      <td>19.45 Uhr</td>
+      <td>19.45 Uhr</td>
+    </tr>
+     <tr>
+      <td>Rangverkündigung</td>
+      <td>19.45 Uhr</td>
+      <td>19.45 Uhr</td>
+      <td>19.45 Uhr</td>
     </tr>
   
   
