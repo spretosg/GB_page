@@ -2,7 +2,7 @@ style: is-light
 height: is-small
 
 items:
-   - title:
+  - title:
     subtitle: 
     icon: fa-running
     description: >
