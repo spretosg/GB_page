@@ -54,9 +54,9 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 >}
 >
 >tr:nth-child(even) {background-color: #f2f2f2;}
-</style>
-</head>
-<body>
+></style>
+></head>
+><body>
 > <div style="overflow-x:auto;">
 > 
 > <table>
