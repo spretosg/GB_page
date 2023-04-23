@@ -37,9 +37,16 @@ title: Programm
 >       <td>16.00 - 18.00 Uhr</td>
 >     </tr>
 >      <tr>
+>       <td>Start</td>
+>       <td>18:30 Uhr Linthal Braunwaldbahn</td>
+>       <td>17:30 Uhr Linthal Braunwaldbahn</td>
+>       <td>18:20 Uhr Tannboden Extrafahrt beachten</td>
+>       <td></td>
+>     </tr>
+>      <tr>
 >       <td>Kontrollschluss</td>
 >       <td></td>
->       <td>Unterstafel: 18.35 Uhr</td>
+>       <td>Für Belvedere: Unterstafel 18.35 Uhr</td>
 >       <td></td>
 >     </tr>
 >      <tr>
