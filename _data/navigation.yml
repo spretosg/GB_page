@@ -14,7 +14,12 @@
     - name: Nachhaltigkeit
       link: /nachhaltigkeit
 - name: Anmeldung
-  link: /anmeldung   
+  link: /anmeldung
+  dropdown:
+    - name: Anmeldung
+      link: /anmeldung
+    - name: Startloste 2023
+      link: /startliste
 
       
 - name: Ranglisten
