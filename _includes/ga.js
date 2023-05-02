@@ -17,4 +17,5 @@ loadScriptAsync('https://www.googletagmanager.com/gtag/js?id=UA-186957857-1', fu
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
     gtag('config', 'UA-186957857-1', { 'anonymize_ip': true });
+    gtag('config', 'G-GVLZHZ8HSQ');
 })
