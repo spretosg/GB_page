@@ -20,9 +20,9 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 >
 > Gemäss [Glarner Laufcup](https://glarnerlaufcup.ch/cup-infos/reglement)
 > **[Klassiker](/der_klassiker)** und **[Belvedere](/belvedere)** 
-> -	Frauen W/Männer M             *Jg. 2007 - 1989
-> -	Frauen W35/Männer M35         *Jg. 1988 - 1974
-> -	Frauen W50/Männer M50         *Jg. 1973 und älter
+> -	Frauen W / Männer M              Jg. 2007 - 1989
+> -	Frauen W35 / Männer M35          Jg. 1988 - 1974
+> -	Frauen W50+ / Männer M50+         Jg. 1973 und älter
 >
 > **[Berggitzi](/berggitzi)**
 >- Finish4Fun Kategore ohne Zeitmessung, Jg. 2011 und älter
