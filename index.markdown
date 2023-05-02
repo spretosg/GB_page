@@ -19,7 +19,6 @@ hero_height: is-medium
 <html>
 <head>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
- {% include analytics.html %}
 </head>
 <body>
 Folge uns auf 
