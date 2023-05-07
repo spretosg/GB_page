@@ -35,7 +35,7 @@ Folge uns auf
 <a href="https://www.instagram.com/glarnerberggeiss/"><i class="fa fa-instagram fa-4x" style = "color:grey"></i>
 </a>
  
-  abonniere unseren **[Newsletter]https://af017c05.sibforms.com/serve/MUIEAI3DkzsyfwEMNUodIOEIjdTCWckCV9G9wbbV3vho6MLGAiqtJv-tJRL3CufT6et7CZsQwOxWQSNl9I4qFI2JXJrYTZzJwdTyx2YkLYkHV05Y91-vHzwBbiCUiqhU9YiV0nvobMd_aZMFWCPyAum5n74_98XaUvZkwfDfVXXGVi4O-Th-o2Z4Cl2z2ecTLTGnCfY0puNowZcc)**  
+  abonniere unseren Newsletter 
  
  <a href="https://af017c05.sibforms.com/serve/MUIEAI3DkzsyfwEMNUodIOEIjdTCWckCV9G9wbbV3vho6MLGAiqtJv-tJRL3CufT6et7CZsQwOxWQSNl9I4qFI2JXJrYTZzJwdTyx2YkLYkHV05Y91-vHzwBbiCUiqhU9YiV0nvobMd_aZMFWCPyAum5n74_98XaUvZkwfDfVXXGVi4O-Th-o2Z4Cl2z2ecTLTGnCfY0puNowZcc"><i class="fa fa-newspaper fa-4x" style = "color:grey"></i>
 </a>
