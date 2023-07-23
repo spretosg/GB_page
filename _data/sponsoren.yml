@@ -16,10 +16,10 @@
         **[zurzach care](https://www.zurzachcare.ch/)** - für ein gesundes Leben
       ratio: is-16by9
 
-     images:
+  images:
     - link: /img/new/jdmt.png
       large_link: /img/new/jdmt.png
-      alt: zurzach care
+      alt: JDMT
       description: |-
         **[JDMT impacting lives](https://www.jdmt.ch/)** - Unser kompetenter Partner für medizinische Betreuung
       ratio: is-16by9   
