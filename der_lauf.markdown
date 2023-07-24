@@ -37,6 +37,12 @@ title: Programm
 >       <td>16.00 - 18.00 Uhr</td>
 >     </tr>
 >      <tr>
+>       <td>Gepäckabgabe bis spätestens</td>
+>       <td>18.20 Uhr Uhr</td>
+>       <td>17.20 Uhr</td>
+>       <td>18.05 Uhr</td>
+>     </tr>
+>      <tr>
 >       <td>Start</td>
 >       <td>18:30 Uhr Linthal Braunwaldbahn</td>
 >       <td>17:30 Uhr Linthal Braunwaldbahn</td>
