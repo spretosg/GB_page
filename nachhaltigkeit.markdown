@@ -5,7 +5,7 @@ menubar: false
 hero_height: is-small
 title: Nachhaltigkeit
 ---
-Obwohl wir nur einen kleinen Laufanlass in der Schweizer Laufwelt sind, bemühen wir uns, die Glarner Berggeiss so nachhaltig wie möglich durchzuführen. Wir haben auf der Plattform [Saubere Veranstaltung](https://saubere-veranstaltung.ch/EventProfil/Detail/12674) ein Nachhaltigkeitskonzept entworfen.
+Obwohl wir nur ein kleiner Laufanlass in der Schweizer Laufwelt sind, bemühen wir uns, die Glarner Berggeiss so nachhaltig wie möglich durchzuführen. Wir haben auf der Plattform [Saubere Veranstaltung](https://saubere-veranstaltung.ch/EventProfil/Detail/12674) ein Nachhaltigkeitskonzept entworfen.
 
 Erfahre mehr über unser Nachhaltigkeitskonzept
 
