@@ -16,10 +16,10 @@ items:
     subtitle: 
     icon: fa-duotone fa-exclamation
     description: >
-      Helfer für Glarner Laufcup gesucht! Bei Interesse freuen wir uns über dein Mail an uns
+      Bis 24.8 23:59 Uhr ist die online Anmeldung offen. Am Freitag können Startnummern vor Ort bar oder per TWINT gekauft werden.
 
-    call_to_action_name: Helfer gesucht
-    call_to_action_link: mailto:glarnerberggeiss@bluewin.ch
+    call_to_action_name: Online Anmeldung 
+    call_to_action_link: /anmeldung
 
   - title: 
     subtitle: 
