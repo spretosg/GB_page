@@ -14,7 +14,7 @@ items:
     
   - title:
     subtitle: 
-    icon: fa-solid fa-ranking-star
+    icon: fa-star-o
     description: >
       Aktuelle Rangliste und Wertungen früherer Ausgaben.
 
