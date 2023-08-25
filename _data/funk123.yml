@@ -14,12 +14,12 @@ items:
     
   - title:
     subtitle: 
-    icon: fa-duotone fa-exclamation
+    icon: fa-ranking-star
     description: >
       Belvedere auf Grund Gewitter abgesagt! Belvedere wird um 18:30 auf Klassiker Strecke 5km durchgeführt.
 
-    call_to_action_name: Nachmeldungen 
-    call_to_action_link: /startliste
+    call_to_action_name: Ranglisten 
+    call_to_action_link: /ranglisten
 
   - title: 
     subtitle: 
