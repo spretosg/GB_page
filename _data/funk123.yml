@@ -16,7 +16,7 @@ items:
     subtitle: 
     icon: fa fa-star-o
     description: >
-      Aktuelle Rangliste.
+      Aktuelle Rangliste
 
     call_to_action_name: Ranglisten 
     call_to_action_link: https://my.raceresult.com/216668/results
