@@ -16,10 +16,10 @@ items:
     subtitle: 
     icon: fa-duotone fa-exclamation
     description: >
-      Bis 24.8 23:59 Uhr ist die online Anmeldung offen. Am Freitag können Startnummern vor Ort bar oder per TWINT gekauft werden.
+      Für Kurzentschlossene: Wir haben noch 25 Startplätze. Ab 16 Uhr können Startnummern im Startgelände bar oder per TWINT gekauft werden.
 
-    call_to_action_name: Online Anmeldung 
-    call_to_action_link: /anmeldung
+    call_to_action_name: Nachmeldungen 
+    call_to_action_link: /startliste
 
   - title: 
     subtitle: 
