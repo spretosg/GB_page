@@ -4,12 +4,12 @@ height: is-small
 items:
   - title:
     subtitle: 
-    icon: fa-running
+    icon: fa-camera
     description: >
-      Strecken & Infos
+      Tolle Sportmomente in schönster Bergwelt
 
-    call_to_action_name: Infos
-    call_to_action_link: /der_lauf
+    call_to_action_name: Impressionen 2023
+    call_to_action_link: /impressionen
 
     
   - title:
@@ -25,7 +25,7 @@ items:
     subtitle: 
     icon: fa-trophy
     description: >
-      Der Glarner Laufcup 2023
+      Aktueller Stand Cupwertung
     call_to_action_name: Glarner Laufcup
     call_to_action_link: https://glarnerlaufcup.ch/
          
