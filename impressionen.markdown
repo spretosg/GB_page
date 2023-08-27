@@ -5,9 +5,9 @@ tabs: tabs_medien
 hero_height: is-small
 ---
 
-Hier einige Impressionen von der 3. und 2. Glarner Berggeiss.
+Hier einige Impressionen der 4. Glarner Berggeiss. Falls du ein Bild von dir gerne in hoher Qualität haben möchtest, melde dich doch kurz unter Angabe von Startnummer und Name unter 
+<a href="mailto:glarnerberggeiss@bluewin.ch">glarnerberggeiss@bluewin.ch</a>
 
-#### 2023
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
