@@ -13,13 +13,6 @@
       link: /weitere_infos
     - name: Nachhaltigkeit
       link: /nachhaltigkeit
-- name: Anmeldung
-  link: /anmeldung
-  dropdown:
-    - name: Anmeldung
-      link: /anmeldung
-    - name: Startliste 2023
-      link: /startliste
 
       
 - name: Ranglisten
