@@ -10,7 +10,7 @@ hero_link_text: Abonniere unseren Newsletter
 # Callouts einbinden
 callouts: funk123
 
-hero_image: /start_page_230828.jpg
+hero_image: /img/test_1.jpg
 hero_height: is-medium
 
 
