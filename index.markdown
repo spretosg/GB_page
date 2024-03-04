@@ -4,13 +4,13 @@ title: Glarner Berggeiss &ndash; Berglauf in Braunwald
 
 # Link-Button im Header
 hero_link: https://af017c05.sibforms.com/serve/MUIEAI3DkzsyfwEMNUodIOEIjdTCWckCV9G9wbbV3vho6MLGAiqtJv-tJRL3CufT6et7CZsQwOxWQSNl9I4qFI2JXJrYTZzJwdTyx2YkLYkHV05Y91-vHzwBbiCUiqhU9YiV0nvobMd_aZMFWCPyAum5n74_98XaUvZkwfDfVXXGVi4O-Th-o2Z4Cl2z2ecTLTGnCfY0puNowZcc
-hero_link_text: Abonniere unseren Newsletter
+hero_link_text: 23.August 2024
 
 
 # Callouts einbinden
 callouts: funk123
 
-hero_image: /img/test_2.jpg
+hero_image: /img/new_page_210127.jpg
 hero_height: is-medium
 
 
