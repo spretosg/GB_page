@@ -4,7 +4,7 @@ show_sidebar: false
 menubar: false
 tabs: tabs_lauf
 hero_image: /img/2020_img/img4.jpg
-hero_height: is-small
+hero_height: is-medium
 title: Klassiker (5.5km, 660Hm)
 ---
 ### Start um 18.30 Uhr
