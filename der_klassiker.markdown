@@ -3,7 +3,7 @@ layout: page
 show_sidebar: false
 menubar: false
 tabs: tabs_lauf
-hero_image: /img/img4.jpg
+hero_image: /img/2020_img/img4.jpg
 hero_height: is-small
 title: Klassiker (5.5km, 660Hm)
 ---
