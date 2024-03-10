@@ -4,7 +4,7 @@ show_sidebar: false
 menubar: false
 tabs: tabs_lauf
 hero_height: is-small
-title: Programm
+title: Wichtige Infos
 ---
 
 > ## Programm
@@ -67,8 +67,9 @@ title: Programm
 >       <td>für alle Läufe um ca. 19.45 Uhr</td>
 >       <td>19.45 Uhr</td>
 >     </tr>
-></table>
+>     ></table>
 ></div>
+> Rückreise: 10min Fussmarsch vom Zielgelände zur Bergstation Braunwaldbahn. Braunwaldbahn Abfahrten 20:25, 20:55, 21:55 (xx:55 mit Anschluss nach Rapperswil/Zürich).
 
 
 > ## Start- und Zielgelände
@@ -77,9 +78,83 @@ title: Programm
 >
 > Das Ziel befindet sich auf dem Hüttenberg beim Hotel Cristal in Braunwald.
 >
-> Rückreise: 10min Fussmarsch vom Zielgelände zur Bergstation Braunwaldbahn. Braunwaldbahn Abfahrten 20:25, 20:55, 21:55 (xx:55 mit Anschluss nach Rapperswil/Zürich).
 
-<div class="hero-body" style="margin:0 !important; padding: 0 !important;">
-<iframe src='https://map.geo.admin.ch/embed.html?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,KML%7C%7Chttps:%2F%2Fpublic.geo.admin.ch%2FIoZL194gTJifnsQOmcdBdg&layers_visibility=false,false,false,false,true&layers_timestamp=18641231,,,,&layers_opacity=1,1,1,0.8,1&E=2718616.92&N=1199874.20&zoom=6' height='400' frameborder='0' style='width: 100% !important; border:0;'></iframe>
+> #### Garderoben/Toiletten
+>
+> - Im Startgelände befinden sich keine Garderoben. Wir empfehlen, in den Sportkleidern anzureisen.
+> - Toiletten stehen in der Talstation der Braunwaldbahn zur Verfügung.
+> - Im Zielgelände gibt es Toiletten, jedoch keine Garderoben/Duschen
+> 
+
+> #### Kategorien
+>
+> Gemäss [Glarner Laufcup](https://glarnerlaufcup.ch/cup-infos/reglement)
+> **[Klassiker](/der_klassiker)** und **[Belvedere](/belvedere)** 
+> -	Frauen W / Männer M              Jg. 2008 - 1990
+> -	Frauen W35 / Männer M35          Jg. 1989 - 1975
+> -	Frauen W50+ / Männer M50+        Jg. 1974 und älter
+>
+> **[Berggitzi](/berggitzi)**
+>- Finish4Fun Kategore ohne Zeitmessung, Jg. 2012 und älter
+>
+> Melde dich für alle Strecken ab 1.5.24 über das Anmeldeportal des Glarner Laufcups an
+
+
+> #### Preise
+> Finishergeschenk für alle Teilnehmer auf allen Strecken.
+> Die ersten drei jeder Kategorie (Belvedere & Klassiker) erhalten einen Siegerpreis.
+
+
+
+> #### Startgeld
+> Das Startgeld richtet sich nach dem Anmeldedatum.
+> <div style="overflow-x:auto;">
+> 
+> <table>
+>     <tr>
+>       <th>Datum</th>
+>       <th>Klassiker</th>
+>       <th>Belvedere</th>
+>       <th>Berggitzi</th>
+> 
+>     </tr>
+>     <tr>
+>       <td>1.5.24 -31.5.24</td>
+>       <td>25.-</td>
+>       <td>30.-</td>
+>       <td>20.-</td>
+>     </tr>
+>       <tr>
+>       <td>1.6.24 -22.8.24</td>
+>       <td>35.-</td>
+>       <td>40.-</td>
+>       <td>30.-</td>
+>     </tr>
+>      <tr>
+>       <td>Vor Ort</td>
+>       <td>45.-</td>
+>       <td>45.-</td>
+>       <td>35.-</td>
+>     </tr>
+></table>
 ></div>
+>
+>
+> Am 24.8.23 wird auf der Webseite kommuniziert, ob noch Startplätze vorhanden sind. Diese können "first come first serve" bei der Startnummernausgabe mit TWINT oder gegen Barzahlung gekauft werden. 
 
+> #### Verpflegung
+> Nach 3km befindet sich ein Verpflegungsposten mit Sportgetränk (Isostar). Beim längeren *Belvedere* gibt es zwei weitere Verpflegungsposten nach 5km (Ober Staffel) und 7km (Ortstockhaus).
+> Im Ziel wird dann für opitmale Regeneration gesorgt.
+>
+> Schau dir nochmals die Karte an mit den eingezeichneten Verpflegungsposten an:
+> - **[Belvedere](/belvedere)** 
+> - **[Klassiker/Berggitzi](/der_klassiker)** 
+
+> #### Wettkampfreglement
+> Das Wettkampfreglement kann **[hier](https://drive.google.com/file/d/13OTMABYE4kWnHiWvjOzSNDKYiDByo6wD/view?usp=share_link)** heruntergeladen werden.
+
+> #### Zeitmessung & Cupwertung
+>
+> Die Zeitmessung erfolgt mittels **Bruttozeiten**, das heisst die Laufzeit zählt bei allen Läufen ab dem Startschuss. Bei der Finish4Fun Kategorie auf der Berggizi Strecke werden keine Laufzeiten publiziert, sondern eine alphabetische Finisher Liste.
+>
+>Teilnehmende werden automatisch im Glarner Laufcup gemäss **[Cupreglement 2024](https://www.glarnerlaufcup.ch/cup-infos/reglement)** gewertet
