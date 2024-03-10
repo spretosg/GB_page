@@ -7,9 +7,9 @@ hero_height: is-small
 title: Wichtige Infos
 ---
 
-> ## Programm
-> <div style="overflow-x:auto;">
+> #### Programm
 > 
+> <div style="overflow-x:auto;">
 > <table>
 >     <tr>
 >       <th></th>
@@ -72,7 +72,7 @@ title: Wichtige Infos
 > Rückreise: 10min Fussmarsch vom Zielgelände zur Bergstation Braunwaldbahn. Braunwaldbahn Abfahrten 20:25, 20:55, 21:55 (xx:55 mit Anschluss nach Rapperswil/Zürich).
 
 
-> ## Start- und Zielgelände
+> #### Start- und Zielgelände
 >
 > Der Start, die Startnummernausgabe und die Gepäckabgabe befinden sich bei der Talstation der Braunwaldbahn.
 >
