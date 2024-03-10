@@ -1,7 +1,5 @@
 - label: NAVIGATION
   items:
-    - name: Home
-      link: /index
     - name: Infos
       link: /der_lauf
       items:
