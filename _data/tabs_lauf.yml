@@ -2,7 +2,7 @@ alignment: is-left
 style: is-boxed
 size: is-medium
 items:
-  - name: Programm
+  - name: Wichtige Infos
     link: /der_lauf
     icon: fa-solid fa-exclamation
   - name: Klassiker
