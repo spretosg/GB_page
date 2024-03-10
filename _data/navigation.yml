@@ -1,7 +1,7 @@
 - name: Die Läufe
   link: /der_lauf
   dropdown: 
-    - name: Programm
+    - name: Wichtige Infos
       link: /der_lauf
     - name: Klassiker
       link: /der_klassiker
@@ -9,8 +9,6 @@
       link: /belvedere
     - name: Berggitzi
       link: /berggitzi
-    - name: Weitere Infos
-      link: /weitere_infos
     - name: Nachhaltigkeit
       link: /nachhaltigkeit
 
