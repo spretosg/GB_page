@@ -16,20 +16,6 @@
         **[zurzach care](https://www.zurzachcare.ch/)** - für ein gesundes Leben
       ratio: is-16by9
 
-  images:
-    - link: /img/new/jdmt.png
-      large_link: /img/new/jdmt.png
-      alt: JDMT
-      description: |-
-        **[JDMT impacting lives](https://www.jdmt.ch/)** - Unser kompetenter Partner für medizinische Betreuung
-      ratio: is-16by9   
-   
-    - link: /img/new/toedi.png
-      large_link: /img/new/toedi.png
-      alt: Tödisport
-      description: |-
-        **[Tödisport](https://www.3614.ch/)** - Alles für ihre aktiven Sommermomente
-      ratio: is-16by9
       
 - title: Silbersponsoren
   images:
@@ -44,7 +30,7 @@
       large_link: /img/new/glkb.png
       alt: glkb
       description: |-
-       **[GLKB](https://https://www.glkb.ch/)** 
+       **[Kanton Glarus / swisslos](https://www.gl.ch/)** 
       ratio: is-16by9
         
 - title: Gönner 
