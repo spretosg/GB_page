@@ -88,7 +88,7 @@ title: Wichtige Infos
 
 > #### Kategorien
 >
-> Gemäss [Glarner Laufcup](https://glarnerlaufcup.ch/cup-infos/reglement)
+> Gemäss [Glarner Laufcup](https://glarnerlaufcup.ch/cup-infos/reglement-2023)
 > 
 > **[Klassiker](/der_klassiker)** und **[Belvedere](/belvedere)** 
 > -	Frauen W / Männer M              Jg. 2008 - 1990
