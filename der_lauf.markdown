@@ -95,7 +95,7 @@ title: Wichtige Infos
 > -	Frauen W50+ / Männer M50+        Jg. 1974 und älter
 >
 > **[Berggitzi](/berggitzi)**
->- Finish4Fun Kategore ohne Zeitmessung, Jg. 2012 und älter
+>- Run4Fun Kategore ohne Zeitmessung, Jg. 2012 und älter
 >
 > Melde dich für alle Strecken ab 1.5.24 über das Anmeldeportal des Glarner Laufcups an
 
