@@ -89,6 +89,7 @@ title: Wichtige Infos
 > #### Kategorien
 >
 > Gemäss [Glarner Laufcup](https://glarnerlaufcup.ch/cup-infos/reglement)
+> 
 > **[Klassiker](/der_klassiker)** und **[Belvedere](/belvedere)** 
 > -	Frauen W / Männer M              Jg. 2008 - 1990
 > -	Frauen W35 / Männer M35          Jg. 1989 - 1975
