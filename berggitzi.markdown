@@ -4,7 +4,7 @@ show_sidebar: false
 menubar: false
 tabs: tabs_lauf
 hero_height: is-small
-title: Berggitzi - Run for Fun (4.1km, 450Hm)
+title: Berggitzi - Run for Fun (4.1km, +450Hm)
 ---
 ### Start um 18.20 Uhr ab Tannboden
 
