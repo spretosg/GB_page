@@ -4,7 +4,7 @@ show_sidebar: false
 menubar: false
 tabs: tabs_lauf
 hero_height: is-small
-title: Belvedere (12.6km, 1200Hm)
+title: Belvedere (12.6km, +1200/-425Hm)
 ---
 
 ### Start um 17.30 Uhr
