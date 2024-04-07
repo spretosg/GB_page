@@ -1,100 +1,26 @@
 - title: Hauptsponsor
   images:
-    - link: /img/new/pronordic.png
-      large_link: /img/new/pronordic.png
-      alt: pro Nordic
-      description: |-
-        **[pro Nordic](https://pronordic.ch/)** - Wir fördern den Nordischen Skisport
-      ratio: is-16by9
+  
 
 - title: Goldsponsoren
   images:
     - link: /img/new/zurzach.png
       large_link: /img/new/zurzach.png
-      alt: zurzach care
+      alt: Glarner Regionalbank
       description: |-
-        **[zurzach care](https://www.zurzachcare.ch/)** - für ein gesundes Leben
+        **[Glarner Regionalbank](https://glarner-regionalbank.ch/)** - Ihre Bank
       ratio: is-16by9
 
       
 - title: Silbersponsoren
-  images:
-    - link: /img/new/kspartner.png
-      large_link: /img/new/kspartner.png
-      alt: kspartner
-      description: |-
-       **[kspartner](https://https://www.kspartner.ch/)** 
-      ratio: is-16by9
-     
-    - link: /img/new/glkb.png
-      large_link: /img/new/glkb.png
-      alt: glkb
-      description: |-
-       **[Kanton Glarus / swisslos](https://www.gl.ch/)** 
-      ratio: is-16by9
+
         
 - title: Gönner 
   images:
     - link: /img/new/osh.png
       large_link: /img/new/osh.png
-      alt: Ortstockhaus
+      alt: Service7000
       description: |-
-       **[Ortstockhaus](https://www.ortstockhaus.ch/)** 
-      ratio: is-16by9
-     
-    - link: /img/new/schumi.png
-      large_link: /img/new/schumi.png
-      alt: Schumi-trans
-      description: |-
-       **[Schumi-trans](https://schumi-trans.ch/)** 
+       **[service7000](https://service7000.ch/)** 
       ratio: is-16by9
   
-    - link: /img/new/linth.png
-      large_link: /img/new/linth.png
-      alt: lintharena
-      description: |-
-       **[lintharena](https://www.lintharena.ch/)** 
-      ratio: is-16by9
-  
-    - link: /img/new/glarussell.png
-      large_link: /img/new/glarussell.png
-      alt: glarussell
-      description: |-
-       **[Glarussell](https://glarussell.ch/)** 
-      ratio: is-16by9
-      
-    - link: /img/new/cristal.png
-      large_link: /img/new/cristal.png
-      alt: cristal
-      description: |-
-       **[Hotel Cristal](https://hotel-cristal.ch/)** 
-      ratio: is-16by9 
-      
-    - link: /img/new/braunwaldbahn.png
-      large_link: /img/new/braunwaldbahn.png
-      alt: braunwaldbahn
-      description: |-
-       **[Braunwaldbahn](https://braunwald.ch/de/map/detail/braunwald-standseilbahn-0b116a0d-60d2-405c-844b-cbba3faf23e0.html)** 
-      ratio: is-16by9 
-
-    - link: /img/new/adler_16_9.png
-      large_link: /img/new/adler.png
-      alt: adler
-      description: |-
-       **[Adler Bräu](https://www.brauereiadler.ch/)** 
-      ratio: is-16by9
-
-    - link: /img/new/elmer.png
-      large_link: /img/new/elmer.png
-      alt: elmer
-      description: |-
-       **[Elmer Citro](https://www.elmercitro.ch/)** 
-      ratio: is-16by9
-      
- 
-    - link: /img/new/glarnersteg.png
-      large_link: /img/new/glarnersteg.png
-      alt: glarnersteg
-      description: |-
-       **[Glarnersteg](https://www.glarnersteg.ch/)** 
-      ratio: is-16by9
