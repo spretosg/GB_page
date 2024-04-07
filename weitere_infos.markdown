@@ -25,7 +25,7 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 > -	Frauen W50+ / Männer M50+         Jg. 1973 und älter
 >
 > **[Berggitzi](/berggitzi)**
->- Finish4Fun Kategore ohne Zeitmessung, Jg. 2011 und älter
+>- Run for Fun Kategore ohne Zeitmessung, Jg. 2011 und älter
 >
 > Melde dich für alle Strecken ab 1.5.23 **[hier](https://my.raceresult.com/216668/)** an. 
 
