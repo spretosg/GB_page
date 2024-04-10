@@ -4,7 +4,7 @@ show_sidebar: false
 menubar: false
 tabs: tabs_lauf
 hero_image: img/2020_img/img_2021.png
-hero_height: is-small
+hero_height: is-medium
 title: Belvedere (12.6km, +1200/-425Hm)
 ---
 
