@@ -4,7 +4,7 @@ show_sidebar: false
 menubar: false
 tabs: tabs_lauf
 hero_image: img/img_2020/img_2_small.png
-hero_height: is-small
+hero_height: is-medium
 title: Berggitzi - Run for Fun (4.1km, +450Hm)
 ---
 ### Start um 18.20 Uhr ab Tannboden
