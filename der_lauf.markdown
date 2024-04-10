@@ -147,7 +147,7 @@ title: Wichtige Infos
 > - **[Klassiker/Berggitzi](/der_klassiker)** 
 
 > #### Wettkampfreglement
-> Das Wettkampfreglement kann **[hier](https://drive.google.com/file/d/13OTMABYE4kWnHiWvjOzSNDKYiDByo6wD/view?usp=share_link)** heruntergeladen werden.
+> Das Wettkampfreglement kann **[hier](https://drive.google.com/file/d/1ihVPRa6Mfy7aW-Unh-VMrVbMSommCsrC/view?usp=share_link)** heruntergeladen werden.
 
 > #### Zeitmessung & Cupwertung
 >
