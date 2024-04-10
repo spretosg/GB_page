@@ -97,7 +97,7 @@ title: Wichtige Infos
 > -	Frauen W50+ / Männer M50+        Jg. 1974 und älter
 >
 > **[Berggitzi](/berggitzi)**
->- Run4Fun Kategore ohne Zeitmessung, Jg. 2012 und älter
+>- Run for Fun Kategore ohne Zeitmessung, Jg. 2012 und älter
 >
 > Melde dich für alle Strecken ab 1.5.24 über das Anmeldeportal des Glarner Laufcups an
 
@@ -151,6 +151,6 @@ title: Wichtige Infos
 
 > #### Zeitmessung & Cupwertung
 >
-> Die Zeitmessung erfolgt mittels **Bruttozeiten**, das heisst die Laufzeit zählt bei allen Läufen ab dem Startschuss. Bei der Run4Fun Kategorie auf der Berggizi Strecke werden keine Laufzeiten publiziert, sondern eine alphabetische Finisher Liste.
+> Die Zeitmessung erfolgt mittels **Bruttozeiten**, das heisst die Laufzeit zählt bei allen Läufen ab dem Startschuss. Bei der Run for Fun Kategorie auf der Berggizi Strecke werden keine Laufzeiten publiziert, sondern eine alphabetische Finisher Liste.
 >
 >Teilnehmende werden automatisch im Glarner Laufcup gemäss [Cupreglement 2024](https://www.glarnerlaufcup.ch/cup-infos/reglement-2023) gewertet
