@@ -4,7 +4,7 @@ show_sidebar: false
 menubar: false
 tabs: tabs_lauf
 hero_height: is-small
-title: Weitere Infos
+title: Wichtige Infos
 ---
 
 Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch Fragen auftauchen sollten, schreib uns ein Mail an **[glarnerberggeiss@bluewin.ch](mailto:glarnerberggeiss@bluewin.ch)**
@@ -87,7 +87,7 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 
 > #### Zeitmessung & Cupwertung
 >
-> Die Zeitmessung erfolgt mittels **Bruttozeiten**, das heisst die Laufzeit zählt bei allen Läufen ab dem Startschuss. Bei der Finish4Fun Kategorie auf der Berggizi Strecke werden keine Laufzeiten publiziert, sondern eine alphabetische Finisher Liste.
+> Die Zeitmessung erfolgt mittels **Bruttozeiten**, das heisst die Laufzeit zählt bei allen Läufen ab dem Startschuss. Bei der Run for Fun Kategorie auf der Berggizi Strecke werden keine Laufzeiten publiziert, sondern eine alphabetische Finisher Liste.
 >
 >Teilnehmende welche beim Klassiker oder Belvedere mitmachen & beim Klöntalereseelauf 2023 die lange Strecke absolviert haben, werden in die Glarner Laufcup >Zwischenwertung aufgenommen.
 >
