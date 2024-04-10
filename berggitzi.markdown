@@ -18,7 +18,7 @@ title: Berggitzi - Run for Fun (4.1km, +450Hm)
 - Run for Fun Kategorie - Keine Rangliste nur Finisher Geschenk
 
 
-**Hinweis:** Die Run for Fun Kategorie hat keine Zeitwertung, die Teilnehmenden werden entsprechend nicht in die Cupwertung, aber in der Finisherwertung des Glarner Laufcups aufgenommen. <a href="https://www.glarnerlaufcup.ch/cup-infos/reglement" target="_blank">Reglement GLC</a>
+**Hinweis:** Die Run for Fun Kategorie hat keine Zeitwertung, die Teilnehmenden werden entsprechend nicht in die Cupwertung, aber in der Finisherwertung des Glarner Laufcups aufgenommen. <a href="https://www.glarnerlaufcup.ch/cup-infos/reglement-2023" target="_blank">Reglement GLC</a>
 
 [GPX Track Download](https://drive.google.com/uc?export=download&id=1wFbdG7IEKZZfbzM3B59zZ61UMlZ6u_2N)
 
