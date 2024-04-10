@@ -14,7 +14,7 @@ title: Berggitzi - Run for Fun (4.1km, +450Hm)
 - Verkürzter Aufstieg auf Wanderweg bis Braunwald Reha Clinic (Verpflegung)
 - Sanft ansteigende, schnelle Kieswege durch Braunwald
 - Ziel: Braunwald Hüttenberg
-- Run for fun Kategorie - Keine Rangliste nur Finisher Geschenk
+- Run for Fun Kategorie - Keine Rangliste nur Finisher Geschenk
 
 
 **Hinweis:** Die Run for Fun Kategorie hat keine Zeitwertung, die Teilnehmenden werden entsprechend nicht in die Cupwertung, aber in der Finisherwertung des Glarner Laufcups aufgenommen. <a href="https://www.glarnerlaufcup.ch/cup-infos/reglement" target="_blank">Reglement GLC</a>
