@@ -18,8 +18,8 @@ items:
     description: >
       Aktuelle Rangliste
 
-    call_to_action_name: Ranglisten 
-    call_to_action_link: https://my.raceresult.com/216668/results
+    call_to_action_name: Sponsoren 
+    call_to_action_link: /sponsors
 
   - title: 
     subtitle: 
