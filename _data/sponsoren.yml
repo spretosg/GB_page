@@ -1,5 +1,12 @@
 - title: Hauptsponsor
   images:
+    - link: /img/new/glarus.png
+      large_link: /img/new/glarus.png
+      alt: Sportamt Glarus
+      description: |-
+        **[Sportamt Glarus](https://www.gl.ch/verwaltung/bildung-und-kultur/volksschule-und-sport/sport.html/602)**
+      ratio: is-16by9
+    
   
 
 - title: Goldsponsoren
@@ -13,6 +20,13 @@
 
       
 - title: Silbersponsoren
+  images:
+    - link: /img/new/kspartner.png
+      large_link: /img/new/kspartner.png
+      alt: KSPartner
+      description: |-
+       **[KSPartner](https://service7000.ch/)** - Ihre Anwaltskanzlei in Versicherungsfragen
+      ratio: is-16by9
 
         
 - title: Gönner 
