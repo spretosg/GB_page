@@ -2,14 +2,7 @@ style: is-light
 height: is-small
 
 items:
-  - title:
-    subtitle: 
-    icon: fa-sign-in
-    description: >
-      Melde dich jetzt an!
 
-    call_to_action_name: Anmeldung 2024
-    call_to_action_link: reg.glarnerlaufcup.ch
 
     
   - title:
