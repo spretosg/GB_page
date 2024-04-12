@@ -4,19 +4,19 @@ height: is-small
 items:
   - title:
     subtitle: 
-    icon: fa-camera
+    icon: fa-sign-in
     description: >
-      Tolle Sportmomente in schönster Bergwelt
+      Melde dich jetzt an!
 
-    call_to_action_name: Impressionen 2023
-    call_to_action_link: /impressionen
+    call_to_action_name: Anmeldung 2024
+    call_to_action_link: reg.glarnerlaufcup.ch
 
     
   - title:
     subtitle: 
     icon: fa fa-star-o
     description: >
-      Aktuelle Rangliste
+      Unsere Unterstützer
 
     call_to_action_name: Sponsoren 
     call_to_action_link: /sponsors
@@ -25,7 +25,7 @@ items:
     subtitle: 
     icon: fa-trophy
     description: >
-      Cupwertung 2023
+      Cupwertung 2024
     call_to_action_name: Glarner Laufcup
     call_to_action_link: https://glarnerlaufcup.ch/
          
