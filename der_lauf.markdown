@@ -101,6 +101,16 @@ title: Wichtige Infos
 >
 > Melde dich für alle Strecken ab 1.5.24 über das Anmeldeportal des Glarner Laufcups an
 
+> #### Sicherheit / Sanität
+> Am Ende beider Lauffelder (Belvedere/Klassiker) befinden sich Schlussläufer/innen.
+> Auf der gesamtem Laufstrecke sind 12 Streckenhelfer/innen, 2 Ärzte, ein Notfallsanitäter und 3 Verpflegungsstationen positioniert. Sie sind entsprechend ausgerüstet und untereinander in Kontakt.
+> - Laufe aufmerksam und spreche andere an, welche dir einen kritischen Eindruck machen.
+> - Melde Läufer/innen, welche Hilfe benötigen beim nächsten Streckenposten.
+> **Alle Teilnehmenden sind verpflichtet, in Notsituationen Hilfe zu leisten, auch wenn der Lauf dadurch unterbrochen werden muss!**
+
+> #### Markierung der Strecke
+> Die Strecke ist ca. alle 300m mit weiss/blauem Trassierband gekennzeichnet. Abzweigungen und kritische Stellen sind mit Pfeilen oder Ausrufezeichen signalisiert.
+
 
 > #### Preise
 > Finishergeschenk für alle Teilnehmer auf allen Strecken.
