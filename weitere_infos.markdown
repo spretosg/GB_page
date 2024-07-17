@@ -27,8 +27,17 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 > **[Berggitzi](/berggitzi)**
 >- Run for Fun Kategore ohne Zeitmessung, Jg. 2011 und älter
 >
-> Melde dich für alle Strecken ab 1.5.23 **[hier](https://my.raceresult.com/216668/)** an. 
+> Melde dich für alle Strecken ab 1.5.24 **[hier](https://onreg.datasport.com/en/5-glarner-berggeiss-2024)** an.
 
+> #### Sicherheit / Sanität
+> Am Ende beider Lauffelder (Belvedere/Klassiker) befinden sich Schlussläufer/innen.
+> Auf der gesamtem Laufstrecke sind 12 Streckenhelfer/innen, 2 Ärzte, ein Notfallsanitäter und 3 Verpflegungsstationen positioniert. Sie sind entsprechend ausgerüstet und untereinander in Kontakt.
+> - Laufe aufmerksam und spreche andere an, welche dir einen kritischen Eindruck machen.
+> - Melde Läufer/innen, welche Hilfe benötigen beim nächsten Streckenposten.
+> **Alle Teilnehmenden sind verpflichtet, in Notsituationen Hilfe zu leisten, auch wenn der Lauf dadurch unterbrochen werden muss!**
+
+> #### Markierung der Strecke
+> Die Strecke ist ca. alle 300m mit weiss/blauem Trassierband gekennzeichnet. Abzweigungen und kritische Stellen sind mit Pfeilen oder Ausrufezeichen signalisiert.
 
 > #### Preise
 > Finishergeschenk für alle Teilnehmer auf allen Strecken.
@@ -83,7 +92,7 @@ Hier findest du alle wichtigen Informationen für deine Teilnahme. Falls dennoch
 > - **[Klassiker/Berggitzi](/der_klassiker)** 
 
 > #### Wettkampfreglement
-> Das Wettkampfreglement kann **[hier](https://drive.google.com/file/d/13OTMABYE4kWnHiWvjOzSNDKYiDByo6wD/view?usp=share_link)** heruntergeladen werden.
+> Das Wettkampfreglement kann **[hier](https://drive.google.com/file/d/1ihVPRa6Mfy7aW-Unh-VMrVbMSommCsrC/view?usp=drive_link)** heruntergeladen werden.
 
 > #### Zeitmessung & Cupwertung
 >
