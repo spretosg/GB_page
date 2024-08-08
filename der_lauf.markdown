@@ -39,9 +39,9 @@ title: Wichtige Infos
 >     </tr>
 >      <tr>
 >       <td>Gepäckabgabe bis spätestens</td>
->       <td>18.20 Uhr Uhr</td>
->       <td>18.05 Uhr</td>
->       <td>17.20 Uhr</td>
+>       <td>18.15 Uhr Uhr</td>
+>       <td>18.00 Uhr</td>
+>       <td>17.15 Uhr</td>
 >     </tr>
 >      <tr>
 >       <td>Start</td>
@@ -70,7 +70,7 @@ title: Wichtige Infos
 >     </tr>
 >     ></table>
 ></div>
-> Rückreise: 10min Fussmarsch vom Zielgelände zur Bergstation Braunwaldbahn. Braunwaldbahn Abfahrten **20:25, 20:55, 21:55 Uhr** (xx:55 mit Anschluss nach Rapperswil/Zürich).
+> Rückreise: 10min Fussmarsch vom Zielgelände zur Bergstation Braunwaldbahn. Braunwaldbahn Abfahrten **20:25, 20:55, 20:25, 21:55 Uhr** (xx:55 mit Anschluss nach Rapperswil/Zürich).
 
 
 > #### Start- und Zielgelände
