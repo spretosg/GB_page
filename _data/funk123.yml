@@ -2,14 +2,14 @@ style: is-light
 height: is-small
 
 items:
-  - title:
+  - title: Wir sind fast ausverkauft!
     subtitle: 
     icon: fa-sign-in
     description: >
-      Melde dich jetzt an!
+      Noch 28 Startplätze ab 16 Uhr bei der Startnummernausgabe verfügbar
 
     call_to_action_name: Anmeldung 2024
-    call_to_action_link: https://onreg.datasport.com/en/5-glarner-berggeiss-2024
+    call_to_action_link: 
 
 
     
