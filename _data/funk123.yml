@@ -2,14 +2,14 @@ style: is-light
 height: is-small
 
 items:
-  - title: Wir sind fast ausverkauft!
+  - title: Rangliste 2024
     subtitle: 
     icon: fa-sign-in
     description: >
-      Noch 19 Startplätze ab 16 Uhr bei der Startnummernausgabe verfügbar (first come first serve)
+      Rangliste 2024
 
-    call_to_action_name: Anmeldung 2024
-    call_to_action_link: 
+    call_to_action_name: Rangliste 2024
+    call_to_action_link: https://my.raceresult.com/259731/
 
 
     
