@@ -4,9 +4,8 @@ height: is-small
 items:
   - title: Rangliste 2024
     subtitle: 
-    icon: fa-sign-in
-    description: >
-      Rangliste 2024
+    icon: fa-solid fa-list-ul
+    description:
 
     call_to_action_name: Rangliste 2024
     call_to_action_link: https://my.raceresult.com/259731/
