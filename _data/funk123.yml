@@ -15,7 +15,7 @@ items:
   - title: Impressionen 2024
     subtitle: 
     icon: fa-regular fa-camera
-    description: >Die schönsten Momente der 5.Ausgabe
+    description: Die schönsten Momente der 5.Ausgabe
 
     call_to_action_name: Impressionen
     call_to_action_link: /impressionen
