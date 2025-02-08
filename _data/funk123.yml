@@ -22,11 +22,11 @@ items:
 
   - title: 
     subtitle: 
-    icon: fa-trophy
+    icon: fa-pen-to-square
     description: >
-      Cupwertung 2024
-    call_to_action_name: Glarner Laufcup
-    call_to_action_link: https://glarnerlaufcup.ch/
+      Anmeldung ab 1.4.25
+    call_to_action_name: Anmeldung
+    call_to_action_link: 
          
 
     
