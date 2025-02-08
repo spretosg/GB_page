@@ -92,14 +92,14 @@ title: Wichtige Infos
 > Gemäss [Glarner Laufcup](https://glarnerlaufcup.ch/cup-infos/reglement-2023)
 > 
 > **[Klassiker](/der_klassiker)** und **[Belvedere](/belvedere)** 
-> -	Frauen W / Männer M              Jg. 2008 - 1990
-> -	Frauen W35 / Männer M35          Jg. 1989 - 1975
-> -	Frauen W50+ / Männer M50+        Jg. 1974 und älter
+> -	Frauen W / Männer M              Jg. 2009 - 1991
+> -	Frauen W35 / Männer M35          Jg. 1990 - 1976
+> -	Frauen W50+ / Männer M50+        Jg. 1975 und älter
 >
 > **[Berggitzi](/berggitzi)**
->- Run for Fun Kategore ohne Zeitmessung, Jg. 2012 und älter
+>- Run for Fun Kategore ohne Zeitmessung, Jg. 2013 und älter
 >
-> Melde dich für alle Strecken ab 1.5.24 über das Anmeldeportal des Glarner Laufcups an
+> Melde dich für alle Strecken ab 1.4.25 über das Anmeldeportal des Glarner Laufcups an
 
 > #### Sicherheit / Sanität
 > Am Ende beider Lauffelder (Belvedere/Klassiker) befinden sich Schlussläufer/innen.
@@ -131,7 +131,7 @@ title: Wichtige Infos
 > 
 >     </tr>
 >       <tr>
->       <td>1.5.24 -22.8.24</td>
+>       <td>1.4.25 -14.8.25</td>
 >       <td>35.-</td>
 >       <td>40.-</td>
 >       <td>30.-</td>
@@ -146,7 +146,7 @@ title: Wichtige Infos
 ></div>
 >
 >
-> Am 22.8.24 wird auf der Webseite kommuniziert, ob noch Startplätze vorhanden sind. Diese können "first come first serve" bei der Startnummernausgabe mit TWINT oder gegen Barzahlung gekauft werden. 
+> Am 14.8.25 wird auf der Webseite kommuniziert, ob noch Startplätze vorhanden sind. Diese können "first come first serve" bei der Startnummernausgabe mit TWINT oder gegen Barzahlung gekauft werden. 
 
 > #### Verpflegung
 > Nach 3km befindet sich ein Verpflegungsposten mit Sportgetränk (Isostar). Beim längeren *Belvedere* gibt es zwei weitere Verpflegungsposten nach 5km (Ober Staffel) und 7km (Ortstockhaus).
@@ -163,4 +163,4 @@ title: Wichtige Infos
 >
 > Die Zeitmessung erfolgt mittels **Bruttozeiten**, das heisst die Laufzeit zählt bei allen Läufen ab dem Startschuss. Bei der Run for Fun Kategorie auf der Berggizi Strecke werden keine Laufzeiten publiziert, sondern eine alphabetische Finisher Liste.
 >
->Teilnehmende werden automatisch im Glarner Laufcup gemäss [Cupreglement 2024](https://www.glarnerlaufcup.ch/cup-infos/reglement-2023) gewertet
+>Teilnehmende werden automatisch im Glarner Laufcup gemäss [Cupreglement 2025](https://www.glarnerlaufcup.ch/cup-infos/reglement-2023) gewertet
