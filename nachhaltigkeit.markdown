@@ -12,7 +12,7 @@ Erfahre mehr über unser Nachhaltigkeitskonzept
 <img src="/img/saubere_veranstaltung.jpg"
      alt="qr saubere veranstaltung"/>
      
-Nun ist es an uns, am 25.8.23 den Worten auch Taten folgen zu lassen. Sollte dir am Anlass etwas auffallen, was nicht dem Konzept entspricht oder wir verbessern können, freuen wir uns über deine konstruktive Kritik.
+Nun ist es an uns, am 15.8.25 den Worten auch Taten folgen zu lassen. Sollte dir am Anlass etwas auffallen, was nicht dem Konzept entspricht oder wir verbessern können, freuen wir uns über deine konstruktive Kritik.
 
 
 **[glarnerberggeiss@bluewin.ch](mailto:glarnerberggeiss@bluewin.ch)**
