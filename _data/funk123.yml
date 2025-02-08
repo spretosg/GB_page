@@ -22,11 +22,10 @@ items:
 
   - title: 
     subtitle: 
-    icon: fa-pen-to-square
+    icon: fa-pen
     description: >
       Anmeldung ab 1.4.25
-    call_to_action_name: Anmeldung
-    call_to_action_link: 
+
          
 
     
