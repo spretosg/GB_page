@@ -157,7 +157,8 @@ title: Wichtige Infos
 > - **[Klassiker/Berggitzi](/der_klassiker)** 
 
 > #### Wettkampfreglement
-> Das Wettkampfreglement kann **[hier](https://drive.google.com/file/d/1ihVPRa6Mfy7aW-Unh-VMrVbMSommCsrC/view?usp=share_link)** heruntergeladen werden.
+> <iframe src="img/Wettkampfreglement_Berggeiss_2024.pdf" width="100%" height="600px"></iframe>
+
 
 > #### Zeitmessung & Cupwertung
 >
