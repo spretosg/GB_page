@@ -156,7 +156,7 @@ title: Wichtige Infos
 > - **[Belvedere](/belvedere)** 
 > - **[Klassiker/Berggitzi](/der_klassiker)** 
 
-> #### Wettkampfreglement
+
 > <iframe src="img/Wettkampfreglement_Berggeiss_2025.pdf" width="100%" height="600px"></iframe>
 
 
