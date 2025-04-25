@@ -24,7 +24,10 @@ items:
     subtitle: 
     icon: fa-pen
     description: >
-      Anmeldung ab 1.4.25
+      Anmeldung offen
+
+    call_to_action_name: Anmeldung
+    call_to_action_link: https://wp.glarnerlaufcup.ch/plattform
 
          
 
