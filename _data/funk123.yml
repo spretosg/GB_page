@@ -2,13 +2,13 @@ style: is-light
 height: is-small
 
 items:
-  - title: Resultate
+  - title: Startliste 2025
     subtitle: 
     icon: fa-solid fa-list-ul
     description:
 
-    call_to_action_name: Rangliste 2024
-    call_to_action_link: https://my.raceresult.com/259731/
+    call_to_action_name: Startliste
+    call_to_action_link: https://results.datasport.com/de/anlass/6-glarner-berggeiss-2025/startlist
 
 
     
