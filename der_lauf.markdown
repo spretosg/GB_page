@@ -158,7 +158,7 @@ title: Wichtige Infos
 > - **[Klassiker/Berggitzi](/der_klassiker)** 
 
 
-> <iframe src="img/Wettkampfreglement_Berggeiss_2025.pdf" width="100%" height="600px"></iframe>
+> <iframe src="img/Wettkampfreglement_Berggeiss_25.pdf" width="100%" height="600px"></iframe>
 
 
 > #### Zeitmessung & Cupwertung
