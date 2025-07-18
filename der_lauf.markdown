@@ -90,6 +90,7 @@ title: Wichtige Infos
 > #### Kategorien
 >
 > Gemäss [Glarner Laufcup](https://glarnerlaufcup.ch/cup-infos/reglement)
+> Alle ab Jahrgang 2013 und älter sind startberechtigt, jedoch ohne eigene Preiswertugn. Jahrgänge 2013-2010 sind in der Kategorie W/M preisberechtigt.
 > 
 > **[Klassiker](/der_klassiker)** und **[Belvedere](/belvedere)** 
 > -	Frauen W / Männer M              Jg. 2009 - 1991
