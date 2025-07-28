@@ -147,7 +147,7 @@ title: Wichtige Infos
 ></div>
 >
 >
-> Am 14.8.25 wird auf der Webseite kommuniziert, ob noch Startplätze vorhanden sind. Diese können "first come first serve" bei der Startnummernausgabe mit TWINT oder gegen Barzahlung gekauft werden. 
+> Am 14.8.25 wird auf der Webseite kommuniziert, ob noch Startplätze vorhanden sind. Diese können "first come first serve" bei der Startnummernausgabe nur mit TWINT gekauft werden. 
 
 > #### Verpflegung
 > Nach 3km befindet sich ein Verpflegungsposten mit Sportgetränk (Isostar). Beim längeren *Belvedere* gibt es zwei weitere Verpflegungsposten nach 5km (Ober Staffel) und 7km (Ortstockhaus).
