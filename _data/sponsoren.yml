@@ -46,3 +46,17 @@
       description: |-
         **[Glarnersteg](https://www.glarnersteg.ch/)**
       ratio: is-16by9
+
+    - link: /img/new/baeck.png
+      large_link: /img/new/baeck.png
+      alt: Feinbäckerei
+      description: |-
+        **[Feinbäckerei](https://www.feinback.ch/)**
+      ratio: is-16by9
+      
+    - link: /img/new/baeck.png
+      large_link: /img/new/baeck.png
+      alt: Service 7000
+      description: |-
+        **[Service7000](https://service7000.ch/)**
+      ratio: is-16by9
