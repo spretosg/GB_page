@@ -1,51 +1,3 @@
-- title: Hauptsponsor
-  images:
-    - link: /img/new/regio_bank.jpeg
-      large_link: /img/new/regio_bank.jpeg
-      alt: Glarner Regionalbank
-      description: |-
-        **[Glarner Regionalbank](https://glarner-regionalbank.ch/)** – Ihre Bank
-      ratio: is-16by9
-
-- title: Goldsponsoren
-  images:
-    - link: /img/new/glarus_swisslos.png
-      large_link: /img/new/glarus_swisslos.png
-      alt: Sportamt Glarus
-      description: |-
-        **[Sportamt Glarus](https://www.gl.ch/verwaltung/bildung-und-kultur/volksschule-und-sport/sport.html/602)**
-      ratio: is-16by9
-
-    - link: /img/new/glarus_swisslos.png
-      large_link: /img/new/glarus_swisslos.png
-      alt: Tödisport
-      description: |-
-        **[3614 Tödisport](https://www.3614.ch/)**
-      ratio: is-16by9
-
-    - link: /img/new/glarus_swisslos.png
-      large_link: /img/new/glarus_swisslos.png
-      alt: Laufgsund
-      description: |-
-        **[Laufgsund](https://www.podotherapielaufgsund.ch/de/)**
-      ratio: is-16by9
-
-- title: Silbersponsoren
-  images:
-    - link: /img/new/kspartner.png
-      large_link: /img/new/kspartner.png
-      alt: KSPartner
-      description: |-
-        **[KSPartner](https://www.kspartner.ch/)** – Ihre Anwaltskanzlei in Versicherungsfragen
-      ratio: is-16by9
-
-    - link: /img/new/kspartner.png
-      large_link: /img/new/kspartner.png
-      alt: Glarnersteg
-      description: |-
-        **[Glarnersteg](https://www.glarnersteg.ch/)**
-      ratio: is-16by9
-
 - title: Unterstützt von
   list:
     - **[Isostar](https://beispielverein-a.ch)**
@@ -53,3 +5,51 @@
     - **[GLarus Süd](https://initiative-c.ch)**
     - **[Ramseier Elmer Citro](https://initiative-c.ch)**
     - **[Quöllfrisch](https://initiative-c.ch)**
+
+- title: Hauptsponsor
+  images:
+    - link: /img/new/regio_bank.jpeg
+      large_link: /img/new/regio_bank.jpeg
+      alt: Glarner Regionalbank
+      description: |-
+        **[Glarner Regionalbank](https://glarner-regionalbank.ch/)** - Ihre Bank
+      ratio: is-16by9
+      
+- title: Goldsponsor
+  images:
+    - link: /img/new/glarus_swisslos.png
+      large_link: /img/new/glarus_swisslos.png
+      alt: Sportamt Glarus
+      description: |-
+        **[Sportamt Glarus](https://www.gl.ch/verwaltung/bildung-und-kultur/volksschule-und-sport/sport.html/602)**
+      ratio: is-16by9
+      
+    - link: /img/new/glarus_swisslos.png
+      large_link: /img/new/glarus_swisslos.png
+      alt: Tödisport
+      description: |-
+        **[3614 Tödisport](https://www.3614.ch/)**
+      ratio: is-16by9
+      
+    - link: /img/new/glarus_swisslos.png
+      large_link: /img/new/glarus_swisslos.png
+      alt: Laufgsund
+      description: |-
+        **[Laufgsund](https://www.podotherapielaufgsund.ch/de/)**
+      ratio: is-16by9
+      
+- title: Silbersponsoren
+  images:
+    - link: /img/new/kspartner.png
+      large_link: /img/new/kspartner.png
+      alt: KSPartner
+      description: |-
+       **[KSPartner](https://www.kspartner.ch/)** - Ihre Anwaltskanzlei in Versicherungsfragen
+      ratio: is-16by9
+
+    - link: /img/new/kspartner.png
+      large_link: /img/new/kspartner.png
+      alt: Glarnersteg
+      description: |-
+       **[Glarnersteg](https://www.glarnersteg.ch/)** 
+      ratio: is-16by9
