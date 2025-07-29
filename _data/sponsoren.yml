@@ -17,8 +17,8 @@
         **[Sportamt Glarus](https://www.gl.ch/verwaltung/bildung-und-kultur/volksschule-und-sport/sport.html/602)**
       ratio: is-16by9
 
-    - link: /img/new/glarus_swisslos.png
-      large_link: /img/new/glarus_swisslos.png
+    - link: /img/new/toedi.png
+      large_link: /img/new/toedi.png
       alt: Tödisport
       description: |-
         **[3614 Tödisport](https://www.3614.ch/)**
@@ -32,10 +32,6 @@
       ratio: is-16by9
 
 - title: Silbersponsoren
-    - description: |-
-        **[KSPartner](https://www.kspartner.ch/)** – Ihre Anwaltskanzlei in Versicherungsfragen
-    - description: |-
-        **[Glarnersteg](https://www.glarnersteg.ch/)**
   images:
     - link: /img/new/kspartner.png
       large_link: /img/new/kspartner.png
