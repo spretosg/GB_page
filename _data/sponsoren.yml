@@ -37,11 +37,11 @@
       large_link: /img/new/kspartner.png
       alt: KSPartner
       description: |-
-        **[KSPartner](https://www.kspartner.ch/)** – Ihre Anwaltskanzlei in Versicherungsfragen
+        **[KSPartner](https://www.kspartner.ch/)**
       ratio: is-16by9
 
-    - link: /img/new/kspartner.png
-      large_link: /img/new/kspartner.png
+    - link: /img/new/glarnersteg.png
+      large_link: /img/new/glarnersteg.png
       alt: Glarnersteg
       description: |-
         **[Glarnersteg](https://www.glarnersteg.ch/)**
@@ -54,8 +54,8 @@
         **[Feinbäckerei](https://www.feinback.ch/)**
       ratio: is-16by9
       
-    - link: /img/new/baeck.png
-      large_link: /img/new/baeck.png
+    - link: /img/new/service7000.svg
+      large_link: /img/new/service7000.svg
       alt: Service 7000
       description: |-
         **[Service7000](https://service7000.ch/)**
