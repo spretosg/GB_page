@@ -1,5 +1,4 @@
 - title: Hauptsponsor
-  class: is-larger
   images:
     - link: /img/new/regio_bank.jpeg
       large_link: /img/new/regio_bank.jpeg
@@ -49,6 +48,8 @@
 
 - title: Unterstützt von
   list:
-    - **[Beispielverein A](https://beispielverein-a.ch)**
-    - **[Unternehmen B](https://unternehmen-b.ch)**
-    - **[Initiative C](https://initiative-c.ch)**
+    - **[Isostar](https://beispielverein-a.ch)**
+    - **[Lintharena](https://unternehmen-b.ch)**
+    - **[GLarus Süd](https://initiative-c.ch)**
+    - **[Ramseier Elmer Citro](https://initiative-c.ch)**
+    - **[Quöllfrisch](https://initiative-c.ch)**
