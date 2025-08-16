@@ -2,24 +2,6 @@ style: is-light
 height: is-small
 
 items:
-  - title: Startliste 2025
-    subtitle: 
-    icon: fa-solid fa-list-ul
-    description:
-
-    call_to_action_name: Startliste
-    call_to_action_link: https://results.datasport.com/de/anlass/6-glarner-berggeiss-2025/startlist
-
-
-    
-  - title: Impressionen 2024
-    subtitle: 
-    icon: fa-regular fa-camera
-    description: Die schönsten Momente der 5.Ausgabe
-
-    call_to_action_name: Impressionen
-    call_to_action_link: /impressionen
-
   - title: 
     subtitle: 
     icon: fa-medal
