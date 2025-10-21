@@ -3,7 +3,7 @@ layout: page
 title: Glarner Berggeiss &ndash; Berglauf in Braunwald
 
 # Link-Button im Header
-hero_link: 
+hero_link: /index
 hero_link_text: Save the date 14.8.26!
 
 
