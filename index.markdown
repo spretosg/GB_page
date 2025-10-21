@@ -3,8 +3,8 @@ layout: page
 title: Glarner Berggeiss &ndash; Berglauf in Braunwald
 
 # Link-Button im Header
-hero_link: https://my.raceresult.com/352958/
-hero_link_text: 15.August 2025
+hero_link: 
+hero_link_text: Save the date 14.8.26!
 
 
 # Callouts einbinden
