@@ -25,13 +25,4 @@ title: Berggitzi - Run for Fun (2.75km, +130Hm)
 <div class="hero-body" style="margin:0 !important; padding: 0 !important;">
 <iframe src="https://map.geo.admin.ch/#/embed?lang=en&center=2717971.95,1199682.02&z=9&topic=ech&layers=ch.swisstopo.zeitreihen@year=1864,f;ch.bfs.gebaeude_wohnungs_register,f;ch.bav.haltestellen-oev,f;ch.swisstopo.swisstlm3d-wanderwege,f;ch.vbs.schiessanzeigen,f;ch.astra.wanderland-sperrungen_umleitungen,f;KML%7Chttps://public.geo.admin.ch/api/kml/files/hdbll-sARGGKtvHs2CHhPA&bgLayer=ch.swisstopo.swissimage&featureInfo=default" style="border: 0;width: 800px;height: 600px;max-width: 100%;max-height: 100%;" allow="geolocation"></iframe>
 </div>
-  
-#### Höhenprofil
 
-  <div class="box"> 
-    <img src="img/profil_berggitzi.svg"  alt="Höhenprofil Berggitzi" width="400" 
-     style="object-fit:contain;
-            width:100%;
-            height:auto;
-            border: none"/>
-  </div>
