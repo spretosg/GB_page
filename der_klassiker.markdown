@@ -8,20 +8,20 @@ hero_height: is-medium
 title: Klassiker
 ---
 
-# 🏃 Klassiker
+# Klassiker
 
 `5.5 km` · `+660 Hm` · `Intermediate` · `Vertical Challenge`
 
 ---
 
-## 🏁 Start
+## Start
 
 **18:30 Uhr – Linthal Braunwaldbahn (Talstation)**  
 👉 Wertung im Glarner Laufcup
 
 ---
 
-## ✨ Highlights
+## Highlights
 
 - Direkter Start im Tal  
 - Konstanter Aufstieg Richtung Braunwald  
@@ -30,13 +30,13 @@ title: Klassiker
 
 ---
 
-## ⚡ Charakter
+## Charakter
 
 - 🔴 **Kondition:** mittel–hoch  
 - 🟢 **Technik:** einfach  
 - 🔵 **Erlebnis:** klassischer Berglauf  
 
-👉 Perfekt für Einsteiger in den Berglauf
+👉 Perfekt für Einsteiger in den Berglaufsport
 
 ---
 
