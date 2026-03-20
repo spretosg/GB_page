@@ -5,30 +5,56 @@ menubar: false
 tabs: tabs_lauf
 hero_image: img/2020_img/img_2021.png
 hero_height: is-medium
-title: Belvedere (12.6km, +1200/-425Hm)
+title: Belvedere (12.6 km · +1200 / -425 Hm)
 ---
 
-### Start um 17.30 Uhr
-Teilnehmende des Belvedere werden im Glarner Laufcup gewertet
+## 🏁 Start
 
-#### Strecke & Highlights
-- Start: Linthal Braunwaldbahn Talstation
-- Aufstieg auf Wanderweg bis Braunwald Reha Clinic (Verpflegung)
-- Aufstieg "Unterstafel" zur "Brächalp" (Verpflegung)
-- Höchster Punkt Ortstockhaus (Verpflegung)
-- Technische aber schöne Abschnitte auf Wurzeltrails bis Braunwald Hüttenberg
+**17:30 Uhr – Linthal Braunwaldbahn (Talstation)**  
 
+👉 Teilnehmende werden im **Glarner Laufcup** gewertet
 
-[GPX Track Download](https://drive.google.com/uc?export=download&id=1CBSeHTccnaGSeHnDVldQS8x5gTrYlJcO)
+---
 
-<iframe src='https://map.geo.admin.ch/embed.html?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,KML%7C%7Chttps:%2F%2Fpublic.geo.admin.ch%2Fapi%2Fkml%2Ffiles%2FHtTqZdT6SnuME_euMp_wPg&layers_opacity=1,1,1,0.8,1&layers_visibility=false,false,false,false,true&layers_timestamp=18641231,,,,&E=2717017.78&N=1199982.43&zoom=5.2' height='400' frameborder='0' style='width: 100% !important; border:0;'></iframe>
+## 🏔️ Strecke & Highlights
 
-#### Höhenprofil
+- **Start:** Linthal Braunwaldbahn (Talstation)  
+- Aufstieg auf Wanderweg zur **Reha Clinic Braunwald** *(Verpflegung)*  
+- Weiter über **Unterstafel → Brächalp** *(Verpflegung)*  
+- **Höchster Punkt:** Ortstockhaus *(Verpflegung)*  
+- Technische Trail-Abschnitte (Wurzeltrails)  
+- **Ziel:** Braunwald Hüttenberg  
 
-  <div class="box"> 
-    <img src="img/profil_lang22.svg"  alt="Höhenprofil Belvedere" width="400" 
-     style="object-fit:contain;
-            width:100%;
-            height:auto;
-            border: none"/>
-  </div>
+---
+
+##GPX Track
+
+👉 [GPX Track herunterladen](https://drive.google.com/uc?export=download&id=1CBSeHTccnaGSeHnDVldQS8x5gTrYlJcO)
+
+---
+
+## 🗺️ Streckenkarte
+
+<iframe 
+  src="https://map.geo.admin.ch/embed.html?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,KML%7C%7Chttps:%2F%2Fpublic.geo.admin.ch%2Fapi%2Fkml%2Ffiles%2FHtTqZdT6SnuME_euMp_wPg&layers_opacity=1,1,1,0.8,1&layers_visibility=false,false,false,false,true&layers_timestamp=18641231,,,,&E=2717017.78&N=1199982.43&zoom=5.2"
+  height="420"
+  style="width:100%; border:0; border-radius:12px;">
+</iframe>
+
+---
+
+## Höhenprofil
+
+![Höhenprofil Belvedere](img/profil_lang22.svg)
+
+---
+
+## Charakter der Strecke
+
+- 🟢 **Konditionell anspruchsvoll** (lange Anstiege)  
+- 🟡 **Technisch mittel** (Trailpassagen mit Wurzeln)  
+- 🔵 **Alpin & abwechslungsreich**  
+
+👉 Ideal für erfahrene Bergläufer:innen oder ambitionierte Trailrunner
+
+---
