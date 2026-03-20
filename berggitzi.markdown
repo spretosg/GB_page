@@ -5,27 +5,26 @@ menubar: false
 tabs: tabs_lauf
 hero_image: img/img_2020/img_2_small.png
 hero_height: is-medium
-title: Berggitzi - Run for Fun (4.1km, +450Hm)
+title: Berggitzi - Run for Fun (2.75km, +130Hm)
 ---
-### Start um 18.20 Uhr ab Tannboden
+### Start um 18.30 ab Braunwald Reha Klinik
 
-#### Strecke & Highlights
-- Extrafahrt Braunwaldbahn 18.10 Uhr bis Tannboden
-- Start: Tannboden
-- Verkürzter Aufstieg auf Wanderweg bis Braunwald Reha Clinic (Verpflegung)
-- Sanft ansteigende, schnelle Kieswege durch Braunwald
+#### Strecke & Highlight
+- Start: Braunwald Reha Klinik
+- Ein Genusslauf in schönster Bergkulisse
+- Kinder und Jugendlauf
 - Ziel: Braunwald Hüttenberg
 - Run for Fun Kategorie - Keine Rangliste nur Finisher Geschenk
+- Rangliste U14 und U16 Kategorien
 
 
-**Hinweis:** Die Run for Fun Kategorie hat keine Zeitwertung, die Teilnehmenden werden entsprechend nicht in die Cupwertung, aber in der Finisherwertung des Glarner Laufcups aufgenommen. <a href="https://www.glarnerlaufcup.ch/cup-infos/reglement-2023" target="_blank">Reglement GLC</a>
+**Hinweis:** Die Run for Fun Kategorie hat keine Zeitwertung, die Teilnehmenden werden entsprechend nicht in die Cupwertung, aber in der Finisherwertung des Glarner Laufcups aufgenommen. <a href="https://glarnerlaufcup.ch/reglement/" target="_blank">Reglement GLC</a>
 
-[GPX Track Download](https://drive.google.com/uc?export=download&id=1wFbdG7IEKZZfbzM3B59zZ61UMlZ6u_2N)
+[GPX Track Download](https://drive.google.com/file/d/1GnvPv9Q9-3_QCD-7Eq8aGeEAlXMZsELZ/view?usp=sharing)
 
 <div class="hero-body" style="margin:0 !important; padding: 0 !important;">
-<iframe src='https://map.geo.admin.ch/embed.html?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,KML%7C%7Chttps:%2F%2Fpublic.geo.admin.ch%2Fapi%2Fkml%2Ffiles%2FktrTh5KERlag0rm9rw5FEA&layers_visibility=false,false,false,false,true&layers_timestamp=18641231,,,,&layers_opacity=1,1,1,0.8,1&E=2718794.21&N=1199539.00&zoom=8' height='400' frameborder='0' style='width: 100% !important; border:0;'></iframe>
+<iframe src="https://map.geo.admin.ch/#/embed?lang=en&center=2717971.95,1199682.02&z=9&topic=ech&layers=ch.swisstopo.zeitreihen@year=1864,f;ch.bfs.gebaeude_wohnungs_register,f;ch.bav.haltestellen-oev,f;ch.swisstopo.swisstlm3d-wanderwege,f;ch.vbs.schiessanzeigen,f;ch.astra.wanderland-sperrungen_umleitungen,f;KML%7Chttps://public.geo.admin.ch/api/kml/files/hdbll-sARGGKtvHs2CHhPA&bgLayer=ch.swisstopo.swissimage&featureInfo=default" style="border: 0;width: 800px;height: 600px;max-width: 100%;max-height: 100%;" allow="geolocation"></iframe>
 </div>
-
   
 #### Höhenprofil
 
