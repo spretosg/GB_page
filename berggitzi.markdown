@@ -8,19 +8,19 @@ hero_height: is-medium
 title: Berggitzi – Run for Fun
 ---
 
-# 🌄 Berggitzi
+# Berggitzi
 
 `2.75 km` · `+130 Hm` · `Beginner` · `Fun Run`
 
 ---
 
-## 🏁 Start
+## Start
 
 **18:30 Uhr – Braunwald Reha Klinik**
 
 ---
 
-## ✨ Highlights
+## Highlights
 
 - Kurze & schöne Strecke  
 - Ideal für Kinder & Jugendliche  & Einsteiger
@@ -30,7 +30,7 @@ title: Berggitzi – Run for Fun
 ---
 
 
-## ⚡ Charakter
+## Charakter
 
 - 🟢 **Kondition:** leicht  
 - 🟢 **Technik:** einfach  
