@@ -5,24 +5,59 @@ menubar: false
 tabs: tabs_lauf
 hero_image: img/img_2020/img_2_small.png
 hero_height: is-medium
-title: Berggitzi - Run for Fun (2.75km, +130Hm)
+title: Berggitzi – Run for Fun
 ---
-### Start um 18.30 ab Braunwald Reha Klinik
 
-#### Strecke & Highlight
-- Start: Braunwald Reha Klinik
-- Ein Genusslauf in schönster Bergkulisse
-- Kinder und Jugendlauf
-- Ziel: Braunwald Hüttenberg
-- Run for Fun Kategorie - Keine Rangliste nur Finisher Geschenk
-- Rangliste U14 und U16 Kategorien
+# 🌄 Berggitzi
+
+`2.75 km` · `+130 Hm` · `Beginner` · `Fun Run`
+
+---
+
+## 🏁 Start
+
+**18:30 Uhr – Braunwald Reha Klinik**
+
+---
+
+## ✨ Highlights
+
+- Kurze & schöne Strecke  
+- Ideal für Kinder & Jugendliche  & Einsteiger
+- Run for Fun ohne Zeitdruck  
+- Ziel: Hüttenberg  
+
+---
 
 
-**Hinweis:** Die Run for Fun Kategorie hat keine Zeitwertung, die Teilnehmenden werden entsprechend nicht in die Cupwertung, aber in der Finisherwertung des Glarner Laufcups aufgenommen. <a href="https://glarnerlaufcup.ch/reglement/" target="_blank">Reglement GLC</a>
+## ⚡ Charakter
 
-[GPX Track Download](https://drive.google.com/file/d/1GnvPv9Q9-3_QCD-7Eq8aGeEAlXMZsELZ/view?usp=sharing)
+- 🟢 **Kondition:** leicht  
+- 🟢 **Technik:** einfach  
+- 🔵 **Erlebnis:** entspannt  
 
-<div class="hero-body" style="margin:0 !important; padding: 0 !important;">
-<iframe src="https://map.geo.admin.ch/#/embed?lang=en&center=2717971.95,1199682.02&z=9&topic=ech&layers=ch.swisstopo.zeitreihen@year=1864,f;ch.bfs.gebaeude_wohnungs_register,f;ch.bav.haltestellen-oev,f;ch.swisstopo.swisstlm3d-wanderwege,f;ch.vbs.schiessanzeigen,f;ch.astra.wanderland-sperrungen_umleitungen,f;KML%7Chttps://public.geo.admin.ch/api/kml/files/hdbll-sARGGKtvHs2CHhPA&bgLayer=ch.swisstopo.swissimage&featureInfo=default" style="border: 0;width: 800px;height: 600px;max-width: 100%;max-height: 100%;" allow="geolocation"></iframe>
-</div>
+👉 Perfekt für Einsteiger & Nachwuchs
+
+---
+
+## Wertung
+
+- ❌ keine Zeitmessung (Run for Fun)  
+- ❌ keine Cupwertung  
+- ✅ Finisherliste
+- ✅ Jugendwertung 
+
+👉 https://glarnerlaufcup.ch/reglement/
+
+---
+
+## GPX
+
+[Download GPX](https://drive.google.com/file/d/1GnvPv9Q9-3_QCD-7Eq8aGeEAlXMZsELZ/view?usp=sharing)
+
+---
+
+## Karte
+
+<iframe src="https://map.geo.admin.ch/#/embed?..." height="420" style="width:100%; border:0; border-radius:12px;"></iframe>
 
