@@ -27,14 +27,14 @@ Abfahrten: **20:25 · 20:55 · 21:25 · 21:55**
 
 ---
 
-## 📍 Start- und Zielgelände
+## Start- und Zielgelände
 
 - **Start / Startnummer / Gepäck:** Talstation Braunwaldbahn  
 - **Ziel:** Hüttenberg beim Hotel Cristal, Braunwald  
 
 ---
 
-## 🚻 Garderoben & Toiletten
+## Garderoben & Toiletten
 
 - ❌ Keine Garderoben am Start → bitte bereits umgezogen anreisen  
 - ✅ Toiletten an der Talstation  
@@ -43,7 +43,7 @@ Abfahrten: **20:25 · 20:55 · 21:25 · 21:55**
 
 ---
 
-## 🏷️ Kategorien
+## Kategorien
 
 Gemäss [Glarner Laufcup Reglement](https://glarnerlaufcup.ch/cup-infos/reglement)
 
@@ -67,7 +67,7 @@ Gemäss [Glarner Laufcup Reglement](https://glarnerlaufcup.ch/cup-infos/reglemen
 
 ---
 
-## 🚑 Sicherheit & Sanität
+## Sicherheit & Sanität
 
 - Schlussläufer auf Klassiker & Belvedere  
 - Streckenposten entlang der gesamten Strecke  
@@ -83,23 +83,23 @@ Gemäss [Glarner Laufcup Reglement](https://glarnerlaufcup.ch/cup-infos/reglemen
 
 ---
 
-## 🧭 Streckenmarkierung
+## Streckenmarkierung
 
 - Weiss/blaues Trassierband  
 - Zusatzsignalisation bei kritischen Stellen  
 
 ---
 
-## 🏆 Preise
+## Preise
 
-- 🎁 Finishergeschenk für alle  
-- 🥇 Preise für Top 3:
+- Finishergeschenk für alle  
+- Preise für Top 3:
   - Klassiker & Belvedere (alle Altersklassen)  
   - Berggitzi Jugendkategorien  
 
 ---
 
-## 💰 Startgeld
+## Startgeld
 
 | Zeitraum        | Klassiker | Belvedere | Berggitzi Run4Fun | Berggitzi U14/U16 |
 |----------------|----------|----------|------------------|------------------|
@@ -111,9 +111,9 @@ Gemäss [Glarner Laufcup Reglement](https://glarnerlaufcup.ch/cup-infos/reglemen
 
 ---
 
-## 🥤 Verpflegung
+## Verpflegung
 
-- Nach 3 km: Sportgetränk  
+- Nach 3 km: Sportgetränk  (Reha Klinik) 
 - Belvedere zusätzlich:
   - 5 km (Ober Staffel)  
   - 7 km (Ortstockhaus)  
@@ -122,25 +122,20 @@ Gemäss [Glarner Laufcup Reglement](https://glarnerlaufcup.ch/cup-infos/reglemen
 
 ---
 
-## 🗺️ Streckenkarten
-
-- [Belvedere](/belvedere)  
-- [Klassiker / Berggitzi](/der_klassiker)  
-
 ---
 
-## 📄 Reglement
+## Reglement
 
 <iframe src="img/Wettkampfreglement_Berggeiss_25.pdf" width="100%" height="600px"></iframe>
 
 ---
 
-## ⏱️ Zeitmessung & Cupwertung
+## Zeitmessung & Cupwertung
 
 - Zeitmessung = **Bruttozeit (Startschuss zählt)**  
 - Run for Fun:
-  - ❌ keine Zeiten  
-  - ✅ alphabetische Finisherliste  
+  - keine Zeiten  
+  - alphabetische Finisherliste  
 
-👉 Automatische Wertung im  
+Automatische Wertung im  
 [Glarner Laufcup 2026](https://glarnerlaufcup.ch/reglement/)
