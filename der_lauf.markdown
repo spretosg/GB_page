@@ -21,32 +21,32 @@ title: Wichtige Infos
 >     <tr>
 >       <td>Distanz</td>
 >       <td>5.5km, 660Hm</td>
->       <td>4.1km, 450Hm</td>
+>       <td>2.75km, 130Hm</td>
 >       <td>12.6km, 1200H</td>
 >      
 >     </tr>
 >       <tr>
 >       <td>Anreise</td>
 >       <td>S25 Ankunft Linthal Braunwaldbahn um 17:13 </td>
->       <td>S25 Ankunft Linthal Braunwaldbahn um 17:13 **Extrafahrt 18.10 Uhr Braunwaldbahn bis Tannboden. Vorderste zwei Abteile benutzen!** </td>
+>       <td>S25 Ankunft Linthal Braunwaldbahn um 17:13, Startnummernausgabe Talstation, 17.55 Braunwaldbahn, Fussmarsch zum Start (10 min) </td>
 >       <td>S25 Ankunft Linthal Braunwaldbahn um 16:13</td>
 >     </tr>
 >      <tr>
 >       <td>Startnummernausgabe</td>
 >       <td>16.00 - 18.15 Uhr</td>
->       <td>16.00 - 18.00 Uhr</td>
+>       <td>16.00 - 17.55 Uhr</td>
 >       <td>16.00 - 17.15 Uhr</td>
 >     </tr>
 >      <tr>
 >       <td>Gepäckabgabe bis spätestens</td>
->       <td>18.15 Uhr Uhr</td>
->       <td>18.00 Uhr</td>
->       <td>17.15 Uhr</td>
+>       <td>18.15 Uhr Uhr (Talstation)</td>
+>       <td>18.25 Uhr (Reha Klinik Braunwald)</td>
+>       <td>17.15 Uhr (Talstation)</td>
 >     </tr>
 >      <tr>
 >       <td>Start</td>
 >       <td>**18:30 Uhr Linthal Braunwaldbahn**</td>
->       <td>**18:20 Uhr Tannboden Extrafahrt beachten**</td>
+>       <td>**18:30 Uhr Braunwald Reha Klinik</td>
 >       <td>**17:30 Uhr Linthal Braunwaldbahn**</td>
 >       <td></td>
 >     </tr>
@@ -90,32 +90,34 @@ title: Wichtige Infos
 > #### Kategorien
 >
 > Gemäss [Glarner Laufcup](https://glarnerlaufcup.ch/cup-infos/reglement)
-> Alle ab Jahrgang 2013 und älter sind startberechtigt, jedoch ohne eigene Preiswertugn. Jahrgänge 2013-2010 sind in der Kategorie W/M preisberechtigt.
+> Alle ab Jahrgang 2014 und älter sind startberechtigt, jedoch ohne eigene Preiswertugn. Jahrgänge 2014-2011 sind in der Kategorie W/M preisberechtigt.
 > 
 > **[Klassiker](/der_klassiker)** und **[Belvedere](/belvedere)** 
-> -	Frauen W / Männer M              Jg. 2009 - 1991
-> -	Frauen W35 / Männer M35          Jg. 1990 - 1976
-> -	Frauen W50+ / Männer M50+        Jg. 1975 und älter
+> -	Frauen W / Männer M              Jg. 2010 - 1992
+> -	Frauen W35 / Männer M35          Jg. 1991 - 1977
+> -	Frauen W50+ / Männer M50+        Jg. 1976 und älter
 >
 > **[Berggitzi](/berggitzi)**
->- Run for Fun Kategore ohne Zeitmessung, Jg. 2013 und älter
+>- Run for Fun Kategore ohne Zeitmessung, Jg. 2014 und älter
+>- Mädchen U14 / Knaben U14           Jg. 2013 und jünger
+>- Mädchen U16 / Knaben U16           Jg. 2011–2012
 >
-> Melde dich für alle Strecken ab 1.4.25 über das Anmeldeportal des Glarner Laufcups an
+> Melde dich für alle Strecken ab 1.4.26 über das Anmeldeportal des Glarner Laufcups an
 
 > #### Sicherheit / Sanität
-> Am Ende beider Lauffelder (Belvedere/Klassiker) befinden sich Schlussläufer/innen.
-> Auf der gesamtem Laufstrecke sind 12 Streckenhelfer/innen, 2 Ärzte, ein Notfallsanitäter und 3 Verpflegungsstationen positioniert. Sie sind entsprechend ausgerüstet und untereinander in Kontakt.
+> Am Ende des Belvedere & Klassikers befinden sich Schlussläufer/innen.
+> Auf der gesamtem Laufstrecke sind Streckenhelfer/innen, 2 Ärzte, ein Notfallsanitäter und 3 Verpflegungsstationen positioniert. Sie sind entsprechend ausgerüstet und untereinander in Kontakt.
 > - Laufe aufmerksam und spreche andere an, welche dir einen kritischen Eindruck machen.
 > - Melde Läufer/innen, welche Hilfe benötigen beim nächsten Streckenposten.
 > **Alle Teilnehmenden sind verpflichtet, in Notsituationen Hilfe zu leisten, auch wenn der Lauf dadurch unterbrochen werden muss!**
 
 > #### Markierung der Strecke
-> Die Strecke ist ca. alle 300m mit weiss/blauem Trassierband gekennzeichnet. Abzweigungen und kritische Stellen sind mit Pfeilen oder Ausrufezeichen signalisiert.
+> Weiss/blaues Trassierband, Abzweigungen und kritische Stellen mit Spezialsignalisation.
 
 
 > #### Preise
 > Finishergeschenk für alle Teilnehmer auf allen Strecken.
-> Die ersten drei jeder Kategorie (Belvedere & Klassiker) erhalten einen Siegerpreis.
+> Siegerpreis Ränge 1-3 aller Altersklassen auf Belvedere & Klassiker, sowie Jugenkategorien Berggizi
 
 
 
@@ -128,7 +130,8 @@ title: Wichtige Infos
 >       <th>Datum</th>
 >       <th>Klassiker</th>
 >       <th>Belvedere</th>
->       <th>Berggitzi</th>
+>       <th>Berggitzi (Run4Fun ab 2010)</th>
+>       <th>Berggitzi (U14/U16)</th>
 > 
 >     </tr>
 >       <tr>
@@ -136,18 +139,20 @@ title: Wichtige Infos
 >       <td>35.-</td>
 >       <td>40.-</td>
 >       <td>30.-</td>
+>       <td>10.-</td>
 >     </tr>
 >      <tr>
 >       <td>Vor Ort</td>
 >       <td>40.-</td>
 >       <td>45.-</td>
 >       <td>35.-</td>
+>       <td>10.-</td>
 >     </tr>
 ></table>
 ></div>
 >
 >
-> Am 14.8.25 wird auf der Webseite kommuniziert, ob noch Startplätze vorhanden sind. Diese können "first come first serve" bei der Startnummernausgabe nur mit TWINT gekauft werden. 
+> Am 13.8.26 wird auf der Webseite kommuniziert, ob noch Startplätze vorhanden sind. Diese können "first come first serve" bei der Startnummernausgabe nur mit TWINT gekauft werden. 
 
 > #### Verpflegung
 > Nach 3km befindet sich ein Verpflegungsposten mit Sportgetränk (Isostar). Beim längeren *Belvedere* gibt es zwei weitere Verpflegungsposten nach 5km (Ober Staffel) und 7km (Ortstockhaus).
@@ -165,4 +170,4 @@ title: Wichtige Infos
 >
 > Die Zeitmessung erfolgt mittels **Bruttozeiten**, das heisst die Laufzeit zählt bei allen Läufen ab dem Startschuss. Bei der Run for Fun Kategorie auf der Berggizi Strecke werden keine Laufzeiten publiziert, sondern eine alphabetische Finisher Liste.
 >
->Teilnehmende werden automatisch im Glarner Laufcup gemäss [Cupreglement 2025](https://www.glarnerlaufcup.ch/cup-infos/reglement-2023) gewertet
+>Teilnehmende werden automatisch im Glarner Laufcup gemäss [Cupreglement 2026](https://glarnerlaufcup.ch/reglement/) gewertet
