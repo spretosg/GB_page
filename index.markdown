@@ -6,42 +6,60 @@ title: Glarner Berggeiss &ndash; Berglauf in Braunwald
 hero_link: /index
 hero_link_text: Save the date 14.8.26!
 
-
 # Callouts einbinden
 callouts: funk123
 
 hero_image: /img/new_page_210127.jpg
 hero_height: is-medium
-
-
 ---
+
+<style>
+.hero {
+  position: relative;
+}
+
+/* Badge on hero image */
+.hero-badge {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 10;
+}
+</style>
+
+<!-- HERO BADGE -->
+<div class="hero-badge">
+  <span class="tag is-large has-text-weight-bold"
+        style="background: linear-gradient(90deg,#ff7a00,#ffb347); color:white; padding: 15px 20px; font-size:1.1rem;">
+    🚀 New Category 2026
+  </span>
+</div>
 
 <html>
 <head>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 </head>
 <body>
+
 Folge uns auf 
 
-
-<a href="https://www.facebook.com/glarnerberggeiss"><i class="fa fa-facebook-official fa-4x"></i>
+<a href="https://www.facebook.com/glarnerberggeiss">
+  <i class="fa fa-facebook-official fa-4x"></i>
 </a>
-
- 
 
  und 
 
-
-<a href="https://www.instagram.com/glarnerberggeiss/"><i class="fa fa-instagram fa-4x" style = "color:grey"></i>
+<a href="https://www.instagram.com/glarnerberggeiss/">
+  <i class="fa fa-instagram fa-4x" style="color:grey"></i>
 </a>
  
-  abonniere unseren Newsletter 
+ abonniere unseren Newsletter 
  
- <a href="https://af017c05.sibforms.com/serve/MUIEAI3DkzsyfwEMNUodIOEIjdTCWckCV9G9wbbV3vho6MLGAiqtJv-tJRL3CufT6et7CZsQwOxWQSNl9I4qFI2JXJrYTZzJwdTyx2YkLYkHV05Y91-vHzwBbiCUiqhU9YiV0nvobMd_aZMFWCPyAum5n74_98XaUvZkwfDfVXXGVi4O-Th-o2Z4Cl2z2ecTLTGnCfY0puNowZcc"><i class="fa fa-newspaper fa-4x" style = "color:grey"></i>
+<a href="https://af017c05.sibforms.com/serve/MUIEAI3DkzsyfwEMNUodIOEIjdTCWckCV9G9wbbV3vho6MLGAiqtJv-tJRL3CufT6et7CZsQwOxWQSNl9I4qFI2JXJrYTZzJwdTyx2YkLYkHV05Y91-vHzwBbiCUiqhU9YiV0nvobMd_aZMFWCPyAum5n74_98XaUvZkwfDfVXXGVi4O-Th-o2Z4Cl2z2ecTLTGnCfY0puNowZcc">
+  <i class="fa fa-newspaper fa-4x" style="color:grey"></i>
 </a>
  
- 
- {% include cookie-consent.html %}
+{% include cookie-consent.html %}
 
 </body>
 </html>
