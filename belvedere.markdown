@@ -8,20 +8,20 @@ hero_height: is-medium
 title: Belvedere
 ---
 
-# Belvedere
+# 🏔️ Belvedere
 
 `12.6 km` · `+1200 Hm` · `Advanced` · `Mountain Race`
 
 ---
 
-## Start
+## 🏁 Start
 
 **17:30 Uhr – Linthal Braunwaldbahn (Talstation)**  
 👉 Wertung im Glarner Laufcup
 
 ---
 
-## Highlights
+## ✨ Highlights
 
 - Start im Tal → alpiner Aufstieg  
 - Reha Klinik *(Verpflegung)*  
@@ -32,7 +32,7 @@ title: Belvedere
 
 ---
 
-## Charakter
+## ⚡ Charakter
 
 - 🔴 **Kondition:** hoch  
 - 🟡 **Technik:** mittel  
@@ -50,12 +50,10 @@ title: Belvedere
 
 ## Karte
 
-<iframe src='https://map.geo.admin.ch/embed.html?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,KML%7C%7Chttps:%2F%2Fpublic.geo.admin.ch%2Fapi%2Fkml%2Ffiles%2FHtTqZdT6SnuME_euMp_wPg&layers_opacity=1,1,1,0.8,1&layers_visibility=false,false,false,false,true&layers_timestamp=18641231,,,,&E=2717017.78&N=1199982.43&zoom=5.2' height='400' frameborder='0' style='width: 100% !important; border:0;'></iframe> 
+<iframe src="https://map.geo.admin.ch/embed.html?..." height="420" style="width:100%; border:0; border-radius:12px;"></iframe>
 
 ---
 
 ## Höhenprofil
 
 ![Höhenprofil](img/profil_lang22.svg)
-
-
