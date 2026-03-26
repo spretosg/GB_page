@@ -122,7 +122,7 @@ Gemäss [Glarner Laufcup Reglement](https://glarnerlaufcup.ch/cup-infos/reglemen
 
 ---
 
----
+
 
 ## Reglement
 
