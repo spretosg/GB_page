@@ -74,10 +74,9 @@ const courses = [
       </div>
 
       <div class="card-actions">
-         <div class="tab-buttons">
-                  <button class="tab-btn" onclick="openTab(event, '{course.slug} )">Details</button>
-
-         </div>
+        <a href={course.slug} class="tab-btn">
+          Details
+        </a>
          <ul class="race-stats">
             <li>Kondition: {course.Kondition}</li>
             <li>Technik: {course.Technik}</li>
