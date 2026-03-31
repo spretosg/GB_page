@@ -41,7 +41,7 @@ const menu = [
 <section class="menu-grid">
   {menu.map(item => (
     <a 
-      href={`${base}${item.link}`} 
+      href={`${base}${link.replace(/^\//, "")}`}
       class="menu-card"
       style={`background-image: url(${item.image})`}
     >
