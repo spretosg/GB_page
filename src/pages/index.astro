@@ -14,7 +14,7 @@ const menu = [
     title: "Glarner Laufcup",
     desc: "Wir sind Teil des Glarner Laufcups",
     link: "https://glarnerlaufcup.ch",
-    image: `/GB_page/img/cup.png`
+    image: `/img/cup.png`
   },
   {
     title: "Über uns",
@@ -41,7 +41,7 @@ const menu = [
 <section class="menu-grid">
   {menu.map(item => (
     <a 
-      href={`${base}${link.replace(/^\//, "")}`}
+      href={`${base}${item.link}`}
       class="menu-card"
       style={`background-image: url(${item.image})`}
     >
