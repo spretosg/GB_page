@@ -12,7 +12,7 @@ const courses = [
     cat: "U12, U14, U16, Run for Fun (keine Rangliste) ",
     color: "#008330",
     map: `/img/berggitzi_strecke.png`,
-    elevation: `/img/berggitzi_profile.png`,
+    elevation: `/img/berggitzi_profil.png`,
     slug: "/berggitzi",
     Kondition: "❤️",
     Technik: "🏃",
@@ -25,7 +25,7 @@ const courses = [
     cat: "M/W16-34, M/W35-49, M/W 50+ (U16 wird in M/16-34 gewertet)",
     color: "#0049e6",
     map: `/img/klas_strecke.png`,
-    elevation: `/img/klass_profile.png`,
+    elevation: `/img/klass_profil.png`,
     slug: "/klassiker",
     Kondition: "❤️❤️",
     Technik: "🏃🏃",
@@ -38,7 +38,7 @@ const courses = [
     cat: "M/W16-34, M/W35-49, M/W 50+ (U16 wird in M/16-34 gewertet)",
     color: "#fa1d1d",
     map: `/img/bel_strecke.png`,
-    elevation: `/img/bel_profile.png`,
+    elevation: `/img/bel_profil.png`,
     slug: "/belvedere",
     Kondition: "❤️❤️❤️",
     Technik: "🏃🏃🏃🏃",
@@ -74,7 +74,7 @@ const courses = [
       </div>
 
       <div class="card-actions">
-        <a href={course.slug} class="btn secondary">
+        <a href={course.slug} class="tab-btn">
           Details
         </a>
          <ul class="race-stats">
@@ -86,10 +86,15 @@ const courses = [
     </div>
   ))}
 </div>
+<br>
+<a href="https://onreg.datasport.com/de/7-glarner-berggeiss-2026" class="btn primary">
+  Anmeldung (ab 1.4)
+</a>
 
 <section class="info">
 
   <section class="hero">
+    <br>
   <h1>Weitere wichtige Informationen</h1>
 </section>
 
@@ -199,7 +204,7 @@ const courses = [
   <div id="reglement" class="tab-content">
     <h3>Reglement</h3>
     <iframe
-    src="/GB_page/img/Wettkampfreglement_Berggeiss_25.pdf"
+    src="/img/Wettkampfreglement_Berggeiss_25.pdf"
     height="400"
     style="width:100%; border-radius:12px;"
   ></iframe>
@@ -269,32 +274,25 @@ const courses = [
 
 .btn {
   flex: 1;
-  text-align: center;
-  padding: 0.6rem;
-  border-radius: 8px;
-  text-decoration: none;
-  font-weight: bold;
+  display: flex; /* instead of inline-flex override */
+  align-items: center;
+  justify-content: center;
 }
 
 .btn.primary {
-  background: black;
+  background: rgb(158, 158, 158);
   color: white;
+  padding: 12px 24px;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 6px;
+  align-items: center;
+  text-align: center;
 }
 
 .btn.secondary {
-
-  padding: 12px 24px;
-  font-size: 15px;
-  font-weight: 600;
-  border-radius: 6px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-
   background-color: transparent;
   color: #2c2c2c;
-
   border: 2px solid #2c2c2c;
   transition: all 0.25s ease;
 }
@@ -311,6 +309,8 @@ const courses = [
   flex-wrap: wrap;
   gap: 0.5rem;
   margin-bottom: 1rem;
+  align-items: center;
+  justify-content: center;
 }
 
 .tab-btn {
@@ -321,6 +321,8 @@ const courses = [
   cursor: pointer;
   font-weight: 600;
   transition: 0.2s;
+  align-items: center;
+  justify-content: center;
 }
 
 .tab-btn:hover {
