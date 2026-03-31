@@ -8,20 +8,20 @@ hero_height: is-medium
 title: Belvedere
 ---
 
-# 🏔️ Belvedere
+# Belvedere
 
 `12.6 km` · `+1200 Hm` · `Advanced` · `Mountain Race`
 
 ---
 
-## 🏁 Start
+## Start
 
 **17:30 Uhr – Linthal Braunwaldbahn (Talstation)**  
 👉 Wertung im Glarner Laufcup
 
 ---
 
-## ✨ Highlights
+## Highlights
 
 - Start im Tal → alpiner Aufstieg  
 - Reha Klinik *(Verpflegung)*  
@@ -32,7 +32,7 @@ title: Belvedere
 
 ---
 
-## ⚡ Charakter
+## Charakter
 
 - 🔴 **Kondition:** hoch  
 - 🟡 **Technik:** mittel  
@@ -57,3 +57,5 @@ title: Belvedere
 ## Höhenprofil
 
 ![Höhenprofil](img/profil_lang22.svg)
+
+
