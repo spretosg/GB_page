@@ -1,0 +1,208 @@
+---
+import Layout from "../layouts/Layout.astro";
+
+const base = import.meta.env.BASE_URL;
+
+const menu = [
+  {
+    title: "Strecken und Anmeldung",
+    desc: "Infos zu Berggitzi, Klassiker und Belvedere",
+    link: "/der_lauf",
+    image: `/GB_page/img/lauf.png`
+  },
+    {
+    title: "Glarner Laufcup",
+    desc: "Wir sind Teil des Glarner Laufcups",
+    link: "https://glarnerlaufcup.ch",
+    image: `/GB_page/img/cup.png`
+  },
+  {
+    title: "Über uns",
+    desc: "Kontakt, Geschichte, Nachhaltigkeit und mehr",
+    link: "/about",
+    image: `/GB_page/img/info.png`
+  },
+    {
+    title: "Ranglisten & Bilder",
+    desc: "Alles zu früheren Austragungen",
+    link: "/results",
+    image:`/GB_page/img/results.png`
+  }
+];
+---
+<Layout title="Glarner Berggeiss 14.8.26" image="/img/hero.jpg">
+
+<section class="hero">
+<div class="sticker">NEU: Kinder-, Jungend und Genusslauf</div>
+  <h1>Das sympathische Berglauferlebnis in Braunwald für alle</h1>
+</section>
+
+
+<section class="menu-grid">
+  {menu.map(item => (
+    <a 
+      href={`${base}${item.link}`} 
+      class="menu-card"
+      style={`background-image: url(${item.image})`}
+    >
+      <div class="overlay">
+        <h2>{item.title}</h2>
+        <h3>{item.desc}</h3>
+      </div>
+    </a>
+  ))}
+</section>
+
+</Layout>
+
+<style>
+/* GRID */
+.menu-grid {
+  display: grid;
+  grid-template-columns: 1fr;   /* mobile */
+  gap: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .menu-grid {
+    grid-template-columns: repeat(3, 1fr);  /* 3 cards */
+  }
+}
+
+
+/* CARD */
+.menu-card {
+  display: block;
+
+  position: relative;
+  width: 90%;
+  height: 120px;                
+
+  background-size: cover !important;   
+  background-position: center;
+  background-repeat: no-repeat;
+
+  text-decoration: none;
+  color: white;
+  overflow: hidden;
+  filter: grayscale(100%);           /* 👈 start grey */
+  transition: filter 0.3s ease, transform 0.2s ease;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgb(117, 117, 117, 0.5); /* Semi-transparent overlay */
+  padding: 10px;
+}
+
+.overlay h3 {
+  color: rgb(256 , 256, 256, 1); 
+}
+.overlay h2 {
+  color: rgb(256 , 256, 256, 1); 
+}
+
+.menu-card:hover {
+  filter: grayscale(0%);   
+  transform: translateY(-5px);
+}
+
+
+
+/* TEXT */
+.menu-card h3 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.menu-card p {
+  margin: 0.3rem 0 0;
+  font-size: 0.9rem;
+}
+
+/* ICON */
+.menu-card .icon {
+  font-size: 1.5rem;
+  margin-bottom: 0.3rem;
+}
+.hero {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.menu-card:hover {
+  transform: translateY(-5px) scale(1.02);
+}
+
+.hero h1 {
+  font-size: 2.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.hero p {
+  opacity: 0.8;
+}
+
+/* GRID */
+.menu-grid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+/* Desktop */
+@media (min-width: 768px) {
+  .menu-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* CARD */
+.menu-card {
+  display: block;
+  padding: 2rem;
+  border-radius: 18px;
+  background: white;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+  transition: all 0.2s ease;
+}
+
+/* Hover effect */
+.menu-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 16px 35px rgba(0,0,0,0.12);
+}
+
+.icon {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.menu-card h3 {
+  margin-bottom: 0.3rem;
+}
+
+/* STICKER */
+.sticker {
+  position: absolute;
+  top: 100px;
+  right: 5px;
+
+  background: #eeb806; /* green */
+  color: white;
+
+  padding: 0.6rem 2rem;
+  font-weight: bold;
+  font-size: 1.2rem;
+
+  transform: rotate(20deg);   /* 👈 angle */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+
+  z-index: 999;
+  letter-spacing: 1px;
+}
+</style>
