@@ -14,19 +14,19 @@ const menu = [
     title: "Glarner Laufcup",
     desc: "Wir sind Teil des Glarner Laufcups",
     link: "https://glarnerlaufcup.ch",
-    image: `/img/cup.png`
+    image: `/GB_page/img/cup.png`
   },
   {
     title: "Über uns",
     desc: "Kontakt, Geschichte, Nachhaltigkeit und mehr",
     link: "/about",
-    image: `/img/info.png`
+    image: `/GB_page/img/info.png`
   },
     {
     title: "Ranglisten & Bilder",
     desc: "Alles zu früheren Austragungen",
     link: "/results",
-    image:`/img/results.png`
+    image:`/GB_page/img/results.png`
   }
 ];
 ---
@@ -41,7 +41,7 @@ const menu = [
 <section class="menu-grid">
   {menu.map(item => (
     <a 
-      href={`${base}${item.link}`}
+      href={item.link.startsWith("http") ? item.link : base + item.link}
       class="menu-card"
       style={`background-image: url(${item.image})`}
     >
