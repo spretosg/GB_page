@@ -1,84 +1,157 @@
 ---
 import Layout from "../layouts/Layout.astro";
+
+const sections = [
+  {
+    title: "Geschichte",
+    image: `/img/info.png`,
+    content: `
+      Die Glarner Berggeiss - Berglauf in Braunwald wurde erstmals 2020 durch den Verein Glarner Berggeiss organisiert. Die Gründer des Laufes, Simone Fenk und Reto Spielhofer haben mittlerweile die Verantwortung an Tamara Kamm und Marcel Ott weitergegeben. In enger Zusammenarbeit mit einem tatkräftigen OK wird die Glarner Berggeiss jeweils als Freitagabend Lauf im Spätsommer ausgetragen. Dabei ermöglichen zahlreiche Helfende aus verschiedensten Sparten sowie viel Goodwill der lokalen Betriebe und Behörden die Durchführung dieses familiären Events. Die spektakuläre Glarner Bergkulisse trägt den Rest zu einem tollen Lauferlebnis bei.
+    `
+  },
+  {
+    title: "Nachhaltigkeit",
+    image: `/img/sustain.png`,
+    content: `
+      Die Glarner Berggeiss steht nicht nur für sportliche Herausforderung, sondern auch für Verantwortung gegenüber unserer Umwelt und unseren Teilnehmerinnen und Teilnehmer. Nachhaltigkeit ist für uns gelebte Überzeugung: von regionaler Verpflegung über ressourcenschonende Organisation bis hin zum respektvollen Umgang mit der einzigartigen Bergwelt. Gemeinsam setzen wir ein Zeichen für einen Laufevent, der jedes Leistungsniveau und jede Altersklasse begeistert. Unser Nachhaltigkeitskonzept und unser <a href="https://app.eventkit.ch/events/2701b93e-c2ea-4760-91cd-39e28fa4196a"> Eventkit</a> sind dabei wichtige Instrumente und sollen Transparenz gegenüber Sponsoren und Teilnehmenden in den Bereichen Umwelt, Finanzen und Sozialem schaffen. Leiste auch du deinen Beitrag in dem du beispielsweise Fahrgemeinschaften bildest oder mit dem Zug an- und abreist. Die Startzeiten sind auf den Fahrplan der SBB abgestimmt.
+    `
+  },
+  
+  {
+    title: "Training",
+    image: `/img/training.png`,
+    content: `
+      Bereite dich auf auf unseren <a href="https://glarnerlaufcup.ch/trophy26/"> GRB Trophy </a>Strecken auf die Läufe des Glarner Laufcups vor.
+    `
+  }
+];
 ---
 
-<Layout title="Über uns">
-  <h3>Geschichte</h3>
-  <p>
-    Der Glarner Berggeiss Lauf wurde erstmals 2020 durch den Verein Glarner Berggeiss 
-    durchgeführt. Die Gründer des Laufes, Simone Fenk und Reto Spielhofer haben 
-    mittlerweile die Verantwortung an Tamara Kamm und Marcel Ott weitergegeben. In enger Zusammenarbeit
-    mit einem tatkräftigen OK wird die Glarner Berggeiss jeweils als Freitagabend Lauf im Spätsommer
-    ausgetragen. Dabei ermöglichen zahlreiche Helfende aus verschiedensten Sparten sowie viel 
-    Goodwill der lokalen Betriebe und Behörden die Durchführung dieses familiären Events. Die spektakuläre Glarner
-    Bergkulisse trägt den Rest zu einem tollen Lauferlebnis bei.
-  </p>
+<Layout>
 
-  <h3>Nachhaltigkeit</h3>
-  <p>
-    Die Glarner Berggeiss hat sich zum Ziel gesetzt sich stetig zu verbessern und aus vergangenen Anlässen
-    zu lernen. Das <a href="https://app.eventkit.ch/events/2701b93e-c2ea-4760-91cd-39e28fa4196a">Nachhaltigkeitskonzept</a> ist dabei ein wichtiges Instrument und soll Transparenz
-    gegenüber Sponsoren und Teilnehmenden im Bereich Umwelt, Finanzen und Sozialem schaffen. Damit die
-    Glarner Berggeiss auch zukünftig Läuferinnen und Läufer begeistert.
-    
-  </p>
+<style>
+  .container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+  }
 
+  .section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+    margin: 5rem 0;
+    align-items: center;
+  }
 
-  <h3>Training</h3>
-  <p>
+  .section:nth-child(even) {
+    direction: rtl;
+  }
 
-  Bereite dich auf auf unseren <a href="https://glarnerlaufcup.ch/trophy/"> GRB Trophy</a>Strecken auf die Läufe des Glarner Laufcups vor.
-  
-  </p>
+  .section:nth-child(even) .text {
+    direction: ltr;
+  }
 
-<h3>Kontakt & Newsletter</h3>
-  <p>
-    <strong>
+  .image img {
+    width: 100%;
+    height: 320px;
+    object-fit: cover;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+  }
+
+  .text h3 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+
+  .text p {
+    line-height: 1.7;
+    color: #444;
+    white-space: pre-line;
+    font-size: 1.05rem;
+  }
+
+  a {
+    color: #2563eb;
+    font-weight: 500;
+  }
+
+  /* CONTACT / NEWSLETTER */
+  .footer-block {
+    margin-top: 6rem;
+    padding: 3rem 2rem;
+    background: #f8fafc;
+    border-radius: 20px;
+    text-align: center;
+  }
+
+  .footer-block h3 {
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+  }
+
+  .email {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+  }
+
+  .newsletter iframe {
+    width: 100%;
+    max-width: 540px;
+    height: 320px;
+    border: none;
+    border-radius: 12px;
+  }
+
+  @media (max-width: 768px) {
+    .section {
+      grid-template-columns: 1fr;
+    }
+
+    .section:nth-child(even) {
+      direction: ltr;
+    }
+
+    .image img {
+      height: 240px;
+    }
+  }
+</style>
+
+<div class="container">
+  {sections.map((section) => (
+    <section class="section">
+      <div class="image">
+        <img src={section.image} alt={section.title} />
+      </div>
+
+      <div class="text">
+        <h3>{section.title}</h3>
+        <p set:html={section.content}></p>
+      </div>
+    </section>
+  ))}
+
+  <!-- CONTACT + NEWSLETTER -->
+  <div class="footer-block">
+    <h3>Kontakt</h3>
+    <p class="email">
       <a href="mailto:glarnerberggeiss@bluewin.ch">
         glarnerberggeiss@bluewin.ch
       </a>
-    </strong>
-  </p>
+    </p>
 
-  <h3>Newsletter Anmeldung</h3>
-
-  <!-- Newsletter iframe -->
-  <div class="newsletter">
-    <iframe 
-      src="https://glarnerlaufcup.ch/newsletter-anmeldung/"
-      frameborder="0"
-      width: 100%
-      scrolling="auto"
-      allowfullscreen>
-    </iframe>
+    <h3>Newsletter</h3>
+    <div class="newsletter">
+      <iframe 
+        src="https://glarnerlaufcup.ch/newsletter-anmeldung/"
+        scrolling="auto"
+        allowfullscreen>
+      </iframe>
+    </div>
   </div>
-
-  <!-- Sendinblue styles -->
-  <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
-
-  <style>
-    .newsletter {
-      margin-top: 1.5rem;
-      
-      justify-content: center;
-    }
-
-    iframe {
-      width: 100%;
-      max-width: 540px;
-      height: 305px;
-      border: none;
-      border-radius: 12px;
-    }
-
-    a {
-      color: #2563eb;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
+</div>
 
 </Layout>
