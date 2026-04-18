@@ -159,7 +159,7 @@ body {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 1.5rem;
+  gap: 3rem;
 }
 
 /* LOGOS */
@@ -173,16 +173,20 @@ body {
 }
 
 /* SIZE HIERARCHY */
+.sponsors.main img {
+  height: 150px;
+}
+
 .sponsors.gold img {
-  height: 70px;
+  height: 100px;
 }
 
 .sponsors.silver img {
-  height: 505px;
+  height: 50px;
 }
 
 .sponsors.supporter img {
-  height: 40px;
+  height: 20px;
 }
 </style>
 
@@ -219,18 +223,45 @@ body {
 
 
     <!-- FOOTER -->
-<!-- <footer class="footer">
+<footer class="footer">
 
   <div class="sponsor-section">
-    <h3>Mit freundlicher Unterstützung</h3>
+    <div class="sponsors main">
+      <a href="https://www.grb.ch/" target="_blank" rel="noopener noreferrer">
+        <img src="/img/sponsors/grb1.png" alt="GRB" />
+      </a>
+      <a href="https://www.3614.ch/" target="_blank" rel="noopener noreferrer">
+    <img src="/img/sponsors/toedi1.png" alt="Toedi Sport" />
+      </a>
+    </div>
+    <h3>Gold</h3>
     <div class="sponsors gold">
-      <img src="/img/toedi.png" />
-      <img src={`/img/marelcom.png`} />
-      <img src={`/img/service.PNG`} />
+      <a href="https://www.baebler-heizungen.ch/" target="_blank" rel="noopener noreferrer">
+      <img src="/img/sponsors/baebler1.png" alt="Baebler" />
+      </a>
+    </div>
+
+    <h3>Silber</h3>
+    <div class="sponsors silver">
+      <a href="https://www.kspartner.ch/" target="_blank" rel="noopener noreferrer">
+      <img src="/img/sponsors/ks1.png" alt="KS partner" />
+      </a>
+      <a href="https://www.service7000.ch/" target="_blank" rel="noopener noreferrer">
+        <img src="/img/sponsors/service1.PNG" alt="Service7000" />
+      </a>
+      <a href="https://hoesli.swiss/" target="_blank" rel="noopener noreferrer">
+        <img src="/img/sponsors/hoesli1.png" alt="Hösli" />
+      </a>
+    </div>
+
+    <h3>Unterstützer</h3>
+    <div class="sponsors silver">
+      <img src={`/img/sponsors/isostar.svg`} />
+      <img src={`/img/sponsors/marel1.png`} />
     </div>
   </div>
 
-</footer>-->
+</footer>
 
   </body>
 </html>
