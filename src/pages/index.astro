@@ -23,7 +23,7 @@ const menu = [
     image: `${base}img/info.png`
   },
     {
-    title: "Ranglisten & Bilder",
+    title: "Start-, und Ranglisten",
     desc: "Alles zu früheren Austragungen",
     link: "results",
     image:`${base}img/results.png`
@@ -36,6 +36,16 @@ const menu = [
 <div class="sticker">NEU: Kinder-, Jugend- und Genusslauf</div>
   <h1>Das sympathische Berglauferlebnis in Braunwald für alle</h1>
 </section>
+
+
+
+
+<div >   
+    <a href="https://fahrpool.ch/event/bcab8ee79f" target="_blank" class="btn btn--white btn--animated">Mitfahrgelegenheit suchen oder anbieten</a>
+</div>
+
+
+
 
 
 <section class="menu-grid">
@@ -61,6 +71,7 @@ const menu = [
   display: grid;
   grid-template-columns: 1fr;   /* mobile */
   gap: 1.5rem;
+  margin-top: 2rem; /* adjust as needed */
 }
 
 @media (min-width: 768px) {
@@ -68,6 +79,7 @@ const menu = [
     grid-template-columns: repeat(3, 1fr);  /* 3 cards */
   }
 }
+
 
 
 /* CARD */
@@ -205,4 +217,77 @@ const menu = [
   z-index: 999;
   letter-spacing: 1px;
 }
+
+
+
+.btn:link,
+.btn:visited {
+  
+  right: 24px;
+  bottom: 100px;
+
+  width: 164px;
+  height: 164px;
+  border-radius: 50%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: #c9f3b0;      /* light orange */
+  color: #0c0c0c;
+  font-size: 16px;
+  text-decoration: none;
+
+  box-shadow: 0 6px 20px rgba(0,0,0,.25);
+  z-index: 99999;
+
+  transition: transform .2s ease;
+  animation: pulse 1.8s ease-in-out infinite;
+}
+
+.btn:hover {
+  transform: scale(1.1);
+}
+
+.btn:active {
+  transform: scale(0.95);
+}
+
+.btn::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background: #a3eba6;
+  z-index: -1;
+  animation: ripple 1.8s ease-out infinite;
+}
+
+/* Button gently grows/shrinks */
+@keyframes pulse {
+  0%,100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.08);
+  }
+}
+
+/* Expanding glow */
+@keyframes ripple {
+  0% {
+    transform: scale(1);
+    opacity: .6;
+  }
+  70% {
+    transform: scale(1.7);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1.7);
+    opacity: 0;
+  }
+}
+
 </style>

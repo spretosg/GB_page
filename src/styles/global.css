@@ -71,3 +71,60 @@
   margin-bottom: 0.5rem;
   font-size: 1rem;
 }
+
+.car-fab {
+  position: fixed;
+  right: 24px;
+  bottom: 120px;
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background: #ff6b00;
+  color: white;
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  box-shadow: 0 6px 20px rgba(0,0,0,.25);
+  z-index: 9999;
+  animation: pulse 2s infinite;
+  transition: transform .2s ease;
+}
+
+.car-fab:hover {
+  transform: scale(1.08);
+}
+
+.car-tooltip {
+  position: absolute;
+  right: 76px;
+  white-space: nowrap;
+  background: rgba(0,0,0,.85);
+  color: #fff;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 14px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity .2s ease;
+}
+
+.car-fab:hover .car-tooltip {
+  opacity: 1;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+    box-shadow: 0 0 0 0 rgba(255,107,0,.6);
+  }
+  70% {
+    transform: scale(1.08);
+    box-shadow: 0 0 0 18px rgba(255,107,0,0);
+  }
+  100% {
+    transform: scale(1);
+    box-shadow: 0 0 0 0 rgba(255,107,0,0);
+  }
+}
