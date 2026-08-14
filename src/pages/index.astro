@@ -32,17 +32,28 @@ const menu = [
 ---
 <Layout title="Glarner Berggeiss 14.8.26" image="/img/hero.jpg">
 
-<section class="hero">
-<div class="sticker">NEU: Kinder-, Jugend- und Genusslauf</div>
-  <h1>Das sympathische Berglauferlebnis in Braunwald für alle</h1>
-</section>
 
 
+<div class="btn-row">
+    <a href="https://fahrpool.ch/event/bcab8ee79f"
+       target="_blank"
+       class="btn btn--first btn--animated">
+        Mitfahrgelegenheit suchen oder anbieten
+    </a>
 
+    <a href="https://onreg.datasport.com/en/7-glarner-berggeiss-2026"
+       target="_blank"
+       class="btn btn--second btn--animated">
+        Bis kurz vor dem Start anmelden - online oder vor Ort!
+    </a>
 
-<div >   
-    <a href="https://fahrpool.ch/event/bcab8ee79f" target="_blank" class="btn btn--white btn--animated">Mitfahrgelegenheit suchen oder anbieten</a>
+    <a href="https://my.raceresult.com/385820/"
+       target="_blank"
+       class="btn btn--third btn--animated">
+        Aktuelle Ranglisten
+    </a>
 </div>
+
 
 
 
@@ -218,43 +229,74 @@ const menu = [
   letter-spacing: 1px;
 }
 
-
+/*NEWS btn*/
+.btn-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
 
 .btn:link,
 .btn:visited {
-  
-  right: 24px;
-  bottom: 100px;
+    width: 164px;
+    height: 164px;
+    border-radius: 50%;
 
-  width: 164px;
-  height: 164px;
-  border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
-  display: flex;
-  align-items: center;
-  justify-content: center;
+    background: #c9f3b0;
+    color: #0c0c0c;
+    font-size: 16px;
+    text-decoration: none;
 
-  background: #c9f3b0;      /* light orange */
-  color: #0c0c0c;
-  font-size: 16px;
-  text-decoration: none;
+    box-shadow: 0 6px 20px rgba(0,0,0,.25);
+    z-index: 99999;
 
-  box-shadow: 0 6px 20px rgba(0,0,0,.25);
-  z-index: 99999;
+    transition: transform .2s ease;
+    animation: pulse 1.8s ease-in-out infinite;
+}
 
-  transition: transform .2s ease;
-  animation: pulse 1.8s ease-in-out infinite;
+/* Individual button colors — AFTER .btn:link/.btn:visited */
+.btn--first:link,
+.btn--first:visited {
+    background: #d89d1f;
+    color: #000000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn--second:link,
+.btn--second:visited {
+    background: #4caf50;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn--third:link,
+.btn--third:visited {
+    background: #2196f3;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .btn:hover {
-  transform: scale(1.1);
+    transform: scale(1.1);
 }
 
 .btn:active {
-  transform: scale(0.95);
+    transform: scale(0.95);
 }
 
-.btn::after {
+/*.btn::after {
   content: "";
   position: absolute;
   inset: 0;
@@ -265,7 +307,7 @@ const menu = [
 }
 
 /* Button gently grows/shrinks */
-@keyframes pulse {
+/*@keyframes pulse {
   0%,100% {
     transform: scale(1);
   }
@@ -275,7 +317,7 @@ const menu = [
 }
 
 /* Expanding glow */
-@keyframes ripple {
+/*@keyframes ripple {
   0% {
     transform: scale(1);
     opacity: .6;
